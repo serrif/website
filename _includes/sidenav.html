@@ -11,18 +11,13 @@
        {% if link.class %}class="{{ link.class }}" {% endif %} >
        {{ link.text }}
     </a>
-    {% if _current and page.subnav %}
-    <ul class="usa-sidenav-sub_list">
-      {% include subnav.html links=page.subnav %}
-    </ul>
-    {% endif %}
   </li>
   {% endfor %}
 </ul>
 
 {% if page.url == page.permalink and page.subnav %}
-<h6 class="usa-sidenav-contents-heading">Contents</h6>
-<ul class="usa-sidenav-contents usa-unstyled-list">
+<h6 class="usa-sidenav-contents-heading" style="margin: 0; margin-top: 5rem; margin-bottom: 1rem;>Contents</h6>
+<ul class="usa-sidenav-contents usa-unstyled-list" style="font-side: 1.5rem;">
   {% include subnav.html links=page.subnav %}
 </ul>
 {% endif %}
