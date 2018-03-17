@@ -2,7 +2,7 @@
 
 # Configuration for type of footer.
 # Footer types can be only be medium at the moment
-type: medium
+type: small
 
 # Configuration for "Return to top" link.
 # Customize with 'text' and 'href' properties.
