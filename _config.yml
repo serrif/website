@@ -4,7 +4,7 @@ title: shadow.ga
 # This is used for adding an edit this page link to the footer
 github:
   organization: shadow.ga
-  repository: uswds-jekyll
+  repository: shadowga-wip
   default_branch: master
 
 # Configuration for setting the site width to 100%
