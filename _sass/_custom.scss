@@ -254,50 +254,31 @@ main {
 // Footer
 
 .usa-footer {
-  font-size: 1.4rem;
-
-  h3 {
-    font-size: 1.6rem;
-  }
-
-  h4 + p {
-    margin-top: 0;
-  }
-
-  p, li {
-    line-height: 1.7;
-  }
-}
+  font-size: 1.4rem; }
+  .usa-footer h3 {
+    font-size: 1.6rem; }
+  .usa-footer h4 + p {
+    margin-top: 0; }
+  .usa-footer p, .usa-footer li {
+    line-height: 1.7; }
 
 .usa-footer-secondary_section {
-  background-color: $color-primary-alt-lightest;
-
-  a {
-    color: $color-primary-darker;
-
-    &:hover,
-    &:focus {
-      color: $color-primary-darkest;
-    }
-  }
-}
+  background-color: #e1f3f8; }
+  .usa-footer-secondary_section a {
+    color: #205493; }
+    .usa-footer-secondary_section a:hover, .usa-footer-secondary_section a:focus {
+      color: #112e51; }
 
 .footer-logo {
   display: inline-block;
   margin-top: 1em;
-  width: 40px;
-
-  svg {
+  width: 40px; }
+  .footer-logo svg {
     height: 100%;
-    width: 100%;
-  }
-}
+    width: 100%; }
 
-.usa-footer-return-to-top {
-  a {
-    color: $color-primary;
-  }
-}
+.usa-footer-return-to-top a {
+  color: #0071bc; }
 
 .usa-sidenav-list {
   li {
