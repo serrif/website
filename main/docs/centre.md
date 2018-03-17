@@ -20,17 +20,15 @@ Receive actively-maintained instructions on server functions and resources; lear
 
       <ul>
         <li>Introduction (to in-game server, website, and community)</li>
-        <li>Legislation (for in-game server)</li>
-        <li>Navigation and support</li>
+        <li>Navigation (of in-game server, online dynamic map utility)</li>
       </ul>
 
     </div>
     <div class="usa-width-one-third">
 
       <ul>
-        <li>Admin's directorate</li>
         <li>In-game management (w/ browser-based file server)</li>
-        <li>Resources manual and security</li>
+        <li>Resources (in-game block logging; particle and mob mgmt.)</li>
       </ul>
 
     </div>
