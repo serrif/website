@@ -28,5 +28,5 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 
 # search_site_handle: searchgov-site-handle
 
-# styles:
-#   - /assets/css/main.css
+ styles:
+   - /assets/css/main.css
