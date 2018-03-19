@@ -121,7 +121,7 @@ Our <a href="github.com/shadowga">GitHub</a> organization is great for the open-
 
 ### Community
 We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
-Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
+Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body"><p class="usa-alert-text">Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please <a href="https://shadow.ga/docs/1/d-support/#direct-support">contact us</a>.</p>
