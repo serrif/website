@@ -5,12 +5,14 @@ permalink: /docs/navig
 layout: post
 sidenav: docs
 subnav:
-  - text: In-game server
-    href: '#in-game-server'
-  - text: Website
-    href: '#website'
-  - text: Guild
-    href: '#guild'
+  - text: Switching worlds
+    href: '#switching-worlds'
+  - text: Location
+    href: '#location'
+  - text: Dynamic map
+    href: '#dynamic-map'
+  - text: Resource pack
+    href: '#resource-pack'
 ---
 
 # Navigation
