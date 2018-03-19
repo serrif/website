@@ -11,13 +11,6 @@ subnav:
     href: '#website'
   - text: Guild
     href: '#guild'
-    
-hero:
-  image: /main/BacM6mm.jpg
-  callout:
-    alt: "A modern and creative platform"
-    text: for architects and designers alike.
-  content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 ---
 
 # Introduction
@@ -112,31 +105,32 @@ It's also great to master these tools, and you can start by learning how we comm
 ### Homepage
 Our homepage is the first page enveloping `shadow.ga`—you know, with the funny text and big red mountains.
 Other pages branching from our homepage (such as error pages) can provide material.
-This and akin files are powered by [Jekyll](https://jekyllrb.com/) and [Flarum](http://flarum.org/).
+This and akin files are powered by <a class="usa-external_link" href="https://jekyllrb.com/">Jekyll</a> and <a class="usa-external_link" href="http://flarum.org/">Flarum</a>.
 
 We provide guidelines, instructions, and guides on our documentation; so newcomers can learn with ease.
 You're even reading a docs page right now and you can jump to pages with the left-hand table.
-
-> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to revision.
 
 Everyone should thoroughly read our documentation so they know how to get around.
 Information also helps with using the exclusive features of our server, forum, and other resources.
 
 ### Social media
 Social media is used for communicating announcements and other important information.
-We have a [Twitter](/twitter/) for sending quick messages and all tweets are relayed to the guild in #announcements.
+We have a <a class="usa-external_link" href="https://twitter.com/shadowgadev">Twitter</a> for sending quick messages and all tweets are relayed to the guild in #announcements.
 
-Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
+Our <a href="github.com/shadowga">GitHub</a> organization is great for the open-source development of resources such as this website—and don't forget our <a href="../periodical/">periodical</a>.
 
 ### Community
 We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
 Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
 
-> **Note:** Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please [contact us](https://shadow.ga/docs/1/d-support/#direct-support).
+<div class="usa-alert usa-alert-warning" >
+  <div class="usa-alert-body"><p class="usa-alert-text">Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please <a href="https://shadow.ga/docs/1/d-support/#direct-support">contact us</a>.</p>
+  </div>
+</div>
 
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
-You can talk about anything on the community, but we have tags for organisation; be specific but don't abuse them.
+You can talk about anything on the community, but we have tags for organisation; be specific, no abuse.
 
 ## Guild
 The guild is our Discord server where anyone can talk to each other in real time.
@@ -146,13 +140,13 @@ This service is great for sharing content, collaboration, and quick support; any
 Text channels are the focus of our guild, along with voice channels.
 We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
 
- * [`#announcements`](https://discord.gg/kpePHUP) - Executive-only channel for important stuff; updates, tweets, and articles.
+ * <a class="usa-external_link" href="https://discord.gg/kpePHUP">`#announcements`</a> - Executive-only channel for important stuff; updates, tweets, and articles.
  
 The following channels can be used by anyone who isn't muted or removed.
  
- * [`#general-chat`](https://discord.gg/3fFF2V2) - Catalyst of 'normal' content—everyday and relevant talk.
- * [`#spam-chat`](https://discord.gg/k6RHq5N) - For content that's purposeless or has been designated as spam.
- * [`#dev-chat`](https://discord.gg/XQjuvt3) - The support hotline and place for development discussion.
+ * <a class="usa-external_link" href="https://discord.gg/3fFF2V2">`#general-chat`</a> - Catalyst of 'normal' content—everyday and relevant talk.
+ * <a class="usa-external_link" href="https://discord.gg/k6RHq5N">`#spam-chat`</a> - For content that's purposeless or has been designated as spam.
+ * <a class="usa-external_link" href="https://discord.gg/XQjuvt3">`#dev-chat`</a> - The support hotline and place for development discussion.
 
 Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
 
@@ -166,9 +160,12 @@ These are called 'titles' because they carry no permissions (unlike ranks).
 
 ---
 
-> **Note:** Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of administrator ranks can be found at our [hierarchy](https://shadow.ga/docs/2/a-directorate/#hierarchy).
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body"><p class="usa-alert-text">Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of administrator ranks can be found at our <a href="https://shadow.ga/docs/2/a-directorate/#hierarchy">hierarchy</a>.</p>
+  </div>
+</div>
 
- * **Developer** - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
+ * **Developer** - Provided to those who make code contribution to our <a href="https://github.com/shadowga">organisation</a>.
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
  
 The following positions can only be granted to administrators.
@@ -182,10 +179,9 @@ Bots have a wide variety of control and may cover customisation to specification
 They can't be used in-game.
 
  * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
- * `.help` - Provides a list of the [Some Dragon](https://github.com/robingall2910/RobTheBoat) bot's commands via a personal message.
- * `t!help` - Provides a list of the [Tatsumaki](https://www.tatsumaki.xyz/) bot's commands via a personal message.
+ * `.help` - Provides a list of the <a class="usa-external_link" href="https://github.com/robingall2910/RobTheBoat">Some Dragon</a> bot's commands via a personal message.
+ * `t!help` - Provides a list of the <a class="usa-external_link" href="https://www.tatsumaki.xyz/">Tatsumaki</a> bot's commands via a personal message.
 
 ---
 
 Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
-You can either click the 'next' button or manually navigate to continue.
