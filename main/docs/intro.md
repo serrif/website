@@ -14,7 +14,6 @@ subnav:
 ---
 
 # Introduction
-
 We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
 
 ## In-game server
