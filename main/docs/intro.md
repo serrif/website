@@ -60,7 +60,7 @@ Support for older client versions may change as the game updates.
 
 ### Communication
 Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
-We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
+We use the <a class="usa-external_link" href="https://wiki.mc-ess.net">Essentials</a> features library along with several other plugins.
 
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
@@ -70,7 +70,10 @@ We use the [Essentials](https://wiki.mc-ess.net) features library along with sev
 The `/mail` function can be used to send, receive, and manage messages.
 Keep in mind that all messages must comply with our guidelines or they'll be removed.
 
-> **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body"><p class="usa-alert-text">Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.</p>
+  </div>
+</div>
 
  * `/mail send <user> <message>` - Mails a message to another member (`<user>`).
  * `/mail read` - Functions as an inbox; displays all (if any) messages sent to you.
