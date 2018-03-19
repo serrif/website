@@ -41,10 +41,15 @@ docs:
     external: true
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: Guild (ext. Discord srv.)
+    href: https://discordapp.com/invite/3fFF2V2
+    external: true
+  - text: HTTPD (file transfer srv.)
+    href: http://b.shadow.ga:27579/schematic/list
+    external: true
+  - text: Dynamic (dyn) map
+    href: http://b.shadow.ga:26589/
+    external: true
+  - text: Control panel
+    href: https://p.shadow.ga/
     external: true
