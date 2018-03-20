@@ -53,7 +53,7 @@ Here's each number and the world it corresponds to.
     <tr>
       <th scope="col">Number</th>
       <th scope="col">Primary world</th>
-      <th scope="col">Commandr</th>
+      <th scope="col">Command</th>
     </tr>
   </thead>
   <tbody>
