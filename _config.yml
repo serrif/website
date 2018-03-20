@@ -27,6 +27,3 @@ anchor_js_targets: [h1, h2, h3, h4, h5, h6]
 # Your search_site_handle value is from the search.gov settings page.
 
 # search_site_handle: searchgov-site-handle
-
-styles:
-  - /_sass/_custom.scss
