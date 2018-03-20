@@ -35,7 +35,7 @@ You can build anything anywhere in this world; it only wipes if the map gets too
 Primary worlds (roughlands, netherlands, enderlands) are places you don't naturally spawn in, but can access using commands.
 These worlds will only wipe if they're corrupted and members can build here, just like the flatlands.
 
-The roughlands includes natural biomes—such as deserts, prairies, and jungles; the netherlands (or [nether world](https://minecraft.gamepedia.com/The_Nether)) and the enderlands (or [end world](https://minecraft.gamepedia.com/The_End)) are also maintained, including the distinctive features of each realm.
+The roughlands includes natural biomes—such as deserts, prairies, and jungles; the netherlands (or <a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">nether world</a>) and the enderlands (or <a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">end world</a>) are also maintained, including the distinctive features of each realm.
 
 #### Command usage
  * `/world <number>` - Teleports a player to the world they specify.
@@ -66,13 +66,13 @@ Here's each number and the world it corresponds to.
     </tr>
     <tr>
       <th scope="row">1</th>
-      <td>Netherlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">the nether</a>)</td>
+      <td>Netherlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">nether world</a>)</td>
       <td>/world 1</td>
       <td>/nether</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Enderlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">the end</a>)</td>
+      <td>Enderlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">end world</a>)</td>
       <td>/world 2</td>
       <td>/ender</td>
     </tr>
