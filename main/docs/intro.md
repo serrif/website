@@ -63,7 +63,7 @@ The `/mail` function can be used to send, receive, and manage messages.
 Keep in mind that all messages must comply with our guidelines or they'll be removed.
 
 <div class="usa-alert usa-alert-info" >
-  <div class="usa-alert-body"><p class="usa-alert-text">Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.</p>
+  <div class="usa-alert-body"><p class="usa-alert-text">Mailed messages, unlike <code>/msg</code>, can be sent to offline members—or members that aren't currently on the server. <code>/mail sendall</code> cannot be used by members.</p>
   </div>
 </div>
 
