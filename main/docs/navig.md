@@ -47,6 +47,44 @@ The `/world` command's perimeter is required.
  * `<number>` - Specifies a world number. Each number (`0` to `4`) takes you somewhere else.
 
 Here's each number and the world it corresponds to.
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Number</th>
+      <th scope="col">Primary world</th>
+      <th scope="col">Commandr</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">`0`</th>
+      <td>Roughlands</td>
+      <td>`/roughlands`</td>
+    </tr>
+    <tr>
+      <th scope="row">`1`</th>
+      <td>Netherlands</td>
+      <td>`/nether`</td>
+    </tr>
+    <tr>
+      <th scope="row">`2`</th>
+      <td>Enderlands</td>
+      <td>`/ender`</td>
+    </tr>
+    <tr>
+      <th scope="row">`3`</th>
+      <td>Flatlands</td>
+      <td>`/flatlands`</td>
+    </tr>
+    <tr>
+      <th scope="row">`4`</th>
+      <td>Adminworld</td>
+      <td>`/spawn`</td>
+    </tr>
+  </tbody>
+</table>
+
  * `0` - To the roughlands. Direct is `/roughlands`.
  * `1` - To the netherlands. Direct is `/nether`.
  * `2` - To the enderlands. Direct is `/ender`.
