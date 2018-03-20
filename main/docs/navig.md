@@ -53,34 +53,40 @@ Here's each number and the world it corresponds to.
     <tr>
       <th scope="col">#</th>
       <th scope="col">Primary world</th>
-      <th scope="col">Command</th>
+      <th scope="col">Formal cmd.</th>
+      <th scope="col">Alias cmd.</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">0</th>
       <td>Roughlands</td>
-      <td>`/roughlands`</td>
+      <td>/world 0</td>
+      <td>/roughlands</td>
     </tr>
     <tr>
       <th scope="row">1</th>
       <td>Netherlands</td>
-      <td>`/nether`</td>
+      <td>/world 1</td>
+      <td>/nether</td>
     </tr>
     <tr>
       <th scope="row">2</th>
       <td>Enderlands</td>
-      <td>`/ender`</td>
+      <td>/world 2</td>
+      <td>/ender</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td>Flatlands</td>
-      <td>`/flatlands`</td>
+      <td>/world 3</td>
+      <td>/flatlands</td>
     </tr>
     <tr>
       <th scope="row">4</th>
       <td>Adminworld</td>
-      <td>`/spawn`</td>
+      <td>/world 4</td>
+      <td>/adminworld</td>
     </tr>
   </tbody>
 </table>
