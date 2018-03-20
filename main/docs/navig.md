@@ -60,25 +60,25 @@ Here's each number and the world it corresponds to.
   <tbody>
     <tr>
       <th scope="row">0</th>
-      <td>Roughlands</td>
+      <td>Roughlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Overworld">overworld</a>)</td>
       <td>/world 0</td>
       <td>/roughlands</td>
     </tr>
     <tr>
       <th scope="row">1</th>
-      <td>Netherlands</td>
+      <td>Netherlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">the nether</a>)</td>
       <td>/world 1</td>
       <td>/nether</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Enderlands</td>
+      <td>Enderlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/The_Nether">the end</a>)</td>
       <td>/world 2</td>
       <td>/ender</td>
     </tr>
     <tr>
       <th scope="row">3</th>
-      <td>Flatlands</td>
+      <td>Flatlands (<a class="usa-external_link" href="https://minecraft.gamepedia.com/Superflat">superflat</a>)</td>
       <td>/world 3</td>
       <td>/flatlands</td>
     </tr>
