@@ -17,6 +17,13 @@ intro: |
 
   The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
 
+intro: |
+  Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.
+
+  The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
+tagline: |
+  We're a modern, creative community.
+
 graphics:
   - image:
       src: /assets/uswds/img/circle-124.png
