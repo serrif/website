@@ -59,7 +59,7 @@ graphics:
   <div class="usa-width-two-thirds">
     <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
   </div>
-  <div class="usa-width-one-third">
+  <div class="usa-width-one-third" style="text-align: right;">
     <h2>We're a modern, creative community.</h2>
   </div>
 </section>
