@@ -35,8 +35,7 @@ hero:
   </div>
 </section>
 
-<section class="usa-section usa-section-dark usa-graphic_list">
-  
+<section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 4.5rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
     <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-half usa-media_block">
       <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
