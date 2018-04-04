@@ -37,7 +37,7 @@ hero:
 
 <section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 4.5rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
     <div class="usa-grid usa-graphic_list-row">
-    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
+    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem; margin-right: 2.3576520234%; width: 48.8211739883%;">
       <img class="usa-media_block-img" src="https://i.imgur.com/2vHloV4.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
   
@@ -47,7 +47,7 @@ hero:
     </div>
   
     <div class="usa-grid usa-graphic_list-row">
-    <div class="usa-width-one-half usa-media_block">
+    <div class="usa-width-one-half usa-media_block" style="margin-right: 2.3576520234%; width: 48.8211739883%;">
       <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
     
