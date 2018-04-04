@@ -44,7 +44,17 @@ graphics:
     description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
 ---
 
-<section class="usa-grid usa-section">
+<section class="usa-grid usa-section" style="padding: 0;">
+  <div class="usa-width-one-third">
+    <h2>We're a modern, creative community.</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
+
+  </div>
+</section>
+
+<section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-one-third">
     <h2>We're a modern, creative community.</h2>
   </div>
