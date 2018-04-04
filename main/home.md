@@ -23,7 +23,7 @@ hero:
   </div>
 </section>
 
-<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
+<hr style="margin-top: 4.5rem; margin-bottom: 5rem;">
 
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-two-thirds">
