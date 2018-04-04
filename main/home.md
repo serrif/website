@@ -54,6 +54,8 @@ graphics:
   </div>
 </section>
 
+<hr style="padding-top: 4.5rem; padding-bottom: 4.5rem;">
+
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-one-third">
     <h2>We're a modern, creative community.</h2>
