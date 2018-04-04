@@ -50,19 +50,17 @@ graphics:
   </div>
   <div class="usa-width-two-thirds">
     <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
-
   </div>
 </section>
 
-<hr style="padding-top: 4.5rem; padding-bottom: 4.5rem;">
+<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-one-third">
-    <h2>We're a modern, creative community.</h2>
+    <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
   </div>
   <div class="usa-width-two-thirds">
-    <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
-
+    <h2>We're a modern, creative community.</h2>
   </div>
 </section>
 
