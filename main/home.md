@@ -46,10 +46,11 @@ graphics:
 
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-one-third">
-    <h2>We're a modern, creative community.</h2>
+    <h2>A plentiful of powerful, useful tools at-hand.</h2>
   </div>
   <div class="usa-width-two-thirds">
-    <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
+    <p>Construction can be easily (and automatically) manipulated at free will, and a dedicated repository of on-board memory allows for widespan edits to be processed.</p>
+    <p>In addition, no arable limit is ever imposed on our architects; and no formal method of land partitioning is in-use. It's absolutely free-to-build, no strings attached.</p>
   </div>
 </section>
 
@@ -57,12 +58,15 @@ graphics:
 
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-two-thirds">
-    <p>Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.</p>
+    <p>Any physical modification to the landscape - regardless of world, or region - is logged and permanently stored within our systems. From there, information is routinely backed-up.</p>
+    <p>Entrusted staffers are given access to this database; they are capable of readily restoring and rolling back in-game content, on-demand. You can even download your builds.</p>
   </div>
   <div class="usa-width-one-third" style="text-align: right;">
-    <h2>We're a modern, creative community.</h2>
+    <h2>Absolutely grief-proof, logged in-database.</h2>
   </div>
 </section>
+
+<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 
 ## Section heading
 
