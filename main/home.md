@@ -37,22 +37,22 @@ hero:
 
 <section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 4.5rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
     <div class="usa-grid usa-graphic_list-row">
-    <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="https://i.imgur.com/2vHloV4.jpg" alt="">
+    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
+      <img class="usa-media_block-img" src="https://i.imgur.com/2vHloV4.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
   
-    <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="https://i.imgur.com/Q7vrS8j.jpg" alt="">
+    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
+      <img class="usa-media_block-img" src="https://i.imgur.com/Q7vrS8j.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
     </div>
   
     <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="">
+      <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
     
     <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
+      <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
     </div>
     </div>  
 </section>
