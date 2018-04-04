@@ -10,38 +10,7 @@ hero:
     alt: "A modern and creative platform"
     text: for architects and designers alike.
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
-
-tagline: We're a modern, creative community.
-intro: |
-  Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.
-
-  The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
-
-intro: |
-  Being founded upon the grounds of freedom, we serve as a catalyst for architecture; and allow our members to exhibit their creations, with little restriction or governance over activity.
-tagline: We're a modern, creative community.
-
-graphics:
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Graphic headings can vary.
-    description: Graphic headings can be used a few [different ways](javascript:void(0);), depending on what your landing page is for. Highlight your values, specific program areas, or results.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Stick to 6 or fewer words.
-    description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Never highlight anything without a goal.
-    description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
+  
 ---
 
 <section class="usa-grid usa-section" style="padding: 0;">
@@ -66,7 +35,53 @@ graphics:
   </div>
 </section>
 
-<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
+<section class="usa-section usa-section-dark usa-graphic_list">
+  
+    <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-half usa-media_block">
+      <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
+      <div class="usa-media_block-body">
+        <h3>Graphic headings can vary.</h3>
+        <p>Graphic headings can be used a few <a href="javascript:void(0);">different ways</a>, depending on what your landing page is for. Highlight your values, specific program areas, or results.</p>
+
+      </div>
+    </div>
+    
+  
+    
+    <div class="usa-width-one-half usa-media_block">
+      <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
+      <div class="usa-media_block-body">
+        <h3>Stick to 6 or fewer words.</h3>
+        <p>Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.</p>
+
+      </div>
+    </div>
+    </div>
+  
+    <div class="usa-grid usa-graphic_list-row">
+    <div class="usa-width-one-half usa-media_block">
+      <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
+      <div class="usa-media_block-body">
+        <h3>Never highlight anything without a goal.</h3>
+        <p>For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.</p>
+
+      </div>
+    </div>
+    
+  
+    
+    <div class="usa-width-one-half usa-media_block">
+      <img class="usa-media_block-img" src="/shadowga-wip/assets/uswds/img/circle-124.png" alt="">
+      <div class="usa-media_block-body">
+        <h3>Could also have 2 or 6.</h3>
+        <p>In addition to your goal, find out your users’ goals. <a href="https://18f.gsa.gov/">What do they want to know</a> or do that supports your mission? Use these headings to show those.</p>
+
+      </div>
+    </div>
+    </div>
+  
+</section>
 
 ## Section heading
 
