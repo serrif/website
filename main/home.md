@@ -35,7 +35,7 @@ hero:
   </div>
 </section>
 
-<section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 6rem; margin-top: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
+<section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
     <div class="usa-grid usa-graphic_list-row">
     <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
       <img class="usa-media_block-img" src="https://i.imgur.com/2vHloV4.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
