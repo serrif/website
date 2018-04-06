@@ -31,7 +31,7 @@ hero:
     <p>Entrusted staffers are given access to this database; they are capable of readily restoring and rolling back in-game content, on-demand. You can even download your builds.</p>
   </div>
   <div class="usa-width-one-third" style="text-align: right;">
-    <h2 style="margin-top: .5em;">Absolutely grief-proof, logged in-database.</h2>
+    <h2 style="margin-top: .8em;">Absolutely grief-proof, logged in-database.</h2>
   </div>
 </section>
 
@@ -75,7 +75,7 @@ hero:
     <p>Entrusted staffers are given access to this database; they are capable of readily restoring and rolling back in-game content, on-demand. You can even download your builds.</p>
   </div>
   <div class="usa-width-one-third" style="text-align: right;">
-    <h2 style="margin-top: .5em;">Absolutely grief-proof, logged in-database.</h2>
+    <h2 style="margin-top: .8em;">Absolutely grief-proof, logged in-database.</h2>
   </div>
 </section>
 
