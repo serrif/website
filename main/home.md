@@ -59,11 +59,11 @@ hero:
 
 <section class="usa-grid usa-section" style="padding: 0;">
   <div class="usa-width-one-third">
-    <h2>A plentiful of powerful, useful tools at-hand.</h2>
+    <h2>Constantly managed with security in-mind.</h2>
   </div>
   <div class="usa-width-two-thirds">
-    <p>Construction can be easily (and automatically) manipulated at free will, and a dedicated repository of on-board memory allows for widespan edits to be processed.</p>
-    <p>In addition, no arable limit is ever imposed on our architects; and no formal method of land partitioning is in-use. It's absolutely free-to-build, no strings attached.</p>
+    <p>All in-game platforms are managed using a reliable, trusted framework; alongside account-based programmes, which take advantage of constant monitoring.</p>
+    <p>Server (and other) content is readily stored, copies of information are served. We utilise the latest (transparent) specifications in web encryption publicly available.</p>
   </div>
 </section>
 
