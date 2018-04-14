@@ -35,26 +35,7 @@ hero:
   </div>
 </section>
 
-<section class="usa-section usa-section-dark usa-graphic_list" style="margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
-    <div class="usa-grid usa-graphic_list-row">
-    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
-      <img class="usa-media_block-img" src="https://i.imgur.com/2vHloV4.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
-    </div>
-  
-    <div class="usa-width-one-half usa-media_block" style="margin-bottom: 2.5rem;">
-      <img class="usa-media_block-img" src="https://i.imgur.com/Q7vrS8j.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
-    </div>
-    </div>
-  
-    <div class="usa-grid usa-graphic_list-row">
-    <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
-    </div>
-    
-    <div class="usa-width-one-half usa-media_block">
-      <img class="usa-media_block-img" src="https://i.imgur.com/46aE51C.jpg" alt="" style="border: 5px solid #0071bc; border-radius: 5px;">
-    </div>
-    </div>  
+<section class="usa-hero" style="background-image: url('/shadowga-wip/main/BacM6mm.png') margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
 </section>
 
 <section class="usa-grid usa-section" style="padding: 0;">
