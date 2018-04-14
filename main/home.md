@@ -35,7 +35,7 @@ hero:
   </div>
 </section>
 
-<section class="usa-hero" style="background-image: url('/shadowga-wip/main/BacM6mm.png') margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
+<section class="usa-hero" style="background-image: url('/shadowga-wip/main/BacM6mm.png'); margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
 </section>
 
 <section class="usa-grid usa-section" style="padding: 0;">
