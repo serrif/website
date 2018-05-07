@@ -13,7 +13,7 @@ tagline: We're a modern, creative community.
 ---
 
 ## Documentation
-Receive actively-maintained instructions on server functions and resources; learn to programme and actuate building selections. Navigate schematic repositories, map server worlds, and manage entities.
+Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activites such as automated intruction, and programming, are specifically outlined within these texts.
 
   <div class="usa-grid-full">
     <div class="usa-width-one-third">
@@ -39,7 +39,7 @@ Receive actively-maintained instructions on server functions and resources; lear
 
 <hr style="margin-top: 4.5rem;">
 
-## Developer library
+## Magisterial library
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
 <a class="usa-button usa-button" href="../docs">View library</a>
@@ -47,7 +47,7 @@ Specified information on proprietary extensions, server plugins, and on-board so
 
 <hr style="margin-top: 4.5rem;">
 
-## Policies
+## Judicial liberary
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
 <a class="usa-button usa-button" href="../docs">View library</a>
