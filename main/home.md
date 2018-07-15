@@ -23,4 +23,9 @@ The Krebs candidacy supports Clay Vinyard, principal of Edison. A dedicated educ
 
 Since 2001, prosperous education has been a core value of Krebs; and, even in his writings, is carefully elaborated to the public. We (and Krebs) believe in a truthful and stable educational environment for students. That's why Krebs is dedicated to Edison.
 
+### Krebs and financial stability
+Not only has Krebs inspired hundreds of students to develop a basis of knowledge of security; but secondly, the Krebs platform relentlessly pushes for financial (and economic) awareness among students -- making him fit for treasurer.
+
+Nothing's more important than keeing yourself safe, your resources secure, and developing a stable monetary income; for you and your family, as an adult. Since one of the many key goals of public education is maturity, financial education is a need.
+
 [Call to action](#){: .usa-button .usa-button-big }
