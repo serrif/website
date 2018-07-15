@@ -15,6 +15,6 @@ hero:
 
 ## Krebs for treasurer, candidacy 2019
 
-[Edison High School] needs a man with experience, which is why [Krebs] is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
+[Edison High School](http://edison.tulsa.schooldesk.net/) still needs a man with experience, which is why [Krebs](https://krebsonsecurity.com/about/) is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
 
 [Call to action](#){: .usa-button .usa-button-big }
