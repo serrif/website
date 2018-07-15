@@ -38,8 +38,11 @@ Not only has Krebs inspired hundreds of students to develop a basis of knowledge
 
 Nothing's more important than keeing yourself safe, your resources secure, and developing a stable monetary income; for you and your family, as an adult. Since one of the many key goals of public education is maturity, financial education is a need.
 
+<hr style="margin-top: 4rem;">
+
 ## Latest news
-See what's new with the Krebs Project; the candidacy of Brian Krebs, Edison High, and more.
+See what's new with the Krebs Project, and candidate Brian Krebs.
+{: .usa-font-lead }
 
 #### July 15th, 2018
 Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; and spreading information of the school, along with a historical archive of the project.
