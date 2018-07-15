@@ -13,9 +13,8 @@ hero:
   
 ---
 
-## Show your support for Brian Krebs
+## Krebs for treasurer, candidacy 2019
 
-Everything up to this point [should help people](javascript:void(0);) understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.
-{: .usa-font-lead }
+[Edison High School] needs a man with experience, which is why [Krebs] is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
 
 [Call to action](#){: .usa-button .usa-button-big }
