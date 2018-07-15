@@ -14,10 +14,10 @@ hero:
 ---
 
 ## Show your support
-Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free presskit and textual resources.
+Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free* presskit and textual resources.
 {: .usa-font-lead }
 
-* Downloads to press resources are provided without charge. Means of printing does not apply.
+** Downloads to press resources are provided without charge. Means of printing does not apply.
 
 ## Krebs for treasurer, candidacy 2019
 
