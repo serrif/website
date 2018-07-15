@@ -17,6 +17,8 @@ hero:
 Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free presskit and textual resources.
 {: .usa-font-lead }
 
+* Downloads to press resources are provided without charge. Means of printing does not apply.
+
 ## Krebs for treasurer, candidacy 2019
 
 [Edison High School](http://edison.tulsa.schooldesk.net/) still needs a man with experience, which is why [Krebs](https://krebsonsecurity.com/about/) is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
