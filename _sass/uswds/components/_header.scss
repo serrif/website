@@ -125,7 +125,7 @@ $z-index-nav:     9000;
   .usa-navbar {
     @include media($nav-width) {
       position: relative;
-      width: 18%; // TODO: review this more
+      width: 22%; // TODO: review this more
     }
   }
 }
