@@ -19,6 +19,8 @@ hero:
 {: .usa-font-lead }
 
 ### Brian Krebs and Principal Vinyard
-The Krebs candidacy supports Clay Vinyard, principal of Edison. A dedicated educator and 'man with a plan'; Principal Vinyard has brought progress and prosperity to our school -- which is why Brian Krebs, naturally, is a supporter.
+The Krebs candidacy supports Clay Vinyard, principal of Edison. A dedicated educator and 'man with a plan'; Principal Vinyard has brought progress and prosperity to our school -- which is why Krebs, naturally, supports his position and administration.
+
+Since 2001, prosperous education has been a core value of Krebs; and, even in his writings, is carefully elaborated to the public. We (and Krebs) believe in a truthful and stable educational environment for students. That's why Krebs is dedicated to Edison.
 
 [Call to action](#){: .usa-button .usa-button-big }
