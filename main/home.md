@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: /main/BacM6mm.png
+  image: /main/krebbg.jpg
   callout:
     alt: "He's the man we want."
     text: Krebs is the man we need.
