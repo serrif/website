@@ -45,4 +45,4 @@ See what's new with the Krebs Project, and candidate Brian Krebs.
 {: .usa-font-lead }
 
 #### July 15th, 2018
-Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; and spreading information of the school, along with a historical archive of the project.
+Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; the homepage is built for spreading information pertinent to the school, along with a historical archive of the project.
