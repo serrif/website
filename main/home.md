@@ -46,3 +46,13 @@ See what's new with the Krebs Project, and candidate Brian Krebs.
 
 #### July 15th, 2018
 Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; the homepage is built for spreading information pertinent to the school, along with a historical archive of the project.
+
+#### May 4th, 2018
+The Brian Krebs campaign endorses candidate Steve Gibson for 'executive' student treasurer, on the Krebs for America Twitter page; secondly, K.F.A. concedes and announces his upcoming candidacy for the '19 student council elections.
+
+Krebs endorses interim principal Clay Vinyard for his contributions to Edison High School. An incident in which campaign posters are removed from class halls is addressed by K.F.A.
+
+#### May 3rd, 2018
+A poll is conducted regarding the likeness of candidate Krebs, and the need for technology education in public schooling is embellished at the Krebs for America Twitter page.
+
+The outcome of the B.K. likeness poll asserts that (roughly) seventy-percent of campaign voters support Brian Krebs.
