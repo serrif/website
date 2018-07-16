@@ -8,4 +8,5 @@ sidenav: docs
 ---
 
 ## Campaign library
-Page coming soon.
+See the complete history of the Krebs campaign; get photographic resources, and learn about Krebs for America.
+{: .usa-font-lead }
