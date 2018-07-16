@@ -38,9 +38,14 @@ Krebs is a family man, with a wife and kids; and, while devoted to his work, doe
 ## Candidate's background
 The candidacy of Brian Krebs has historically stood for empowering privacy, and the alleviation of poorly-secured services; both across local and federal government. He's been active in the campaign-space for a significant period of time.
 
-Krebs for America was founded just last year, to help provide resources (and information) to the supporters of Brian Krebs; and secondly, to spread information regarding treasurer-candidate Krebs.
+Krebs for America was founded just last year, to help provide resources (and information) to the supporters of Brian Krebs; and secondly, to spread information regarding treasurer Krebs.
 
 ### Late '16
 The campaign to support Brian Krebs and then-candidate Chairman Reyolds was initiated; and textual information to support the campaign, along with his co-runner, was planned and 'sponsored' by Krebs for America.
 
-A logical backing from [esoForum](https://esotalk.net) ensued, which now provides the services under the name 'Krebs for America'; and to this day, the esoForum service fully backs Brian Krebs for the student council treasurer position.
+A logical backing from [esoForum](https://esotalk.net) ensued, which now provides the services under the name 'Krebs for America'; and to this day, the esoForum service fully backs Brian Krebs for the student council.
+
+### Early '17
+Krebs' campaign expanded from a spot in the numerous candidates, to an element of the student's core values; with Brian Krebs-related content soaring among the creative spaces of Edison.
+
+Brian Krebs was, and remains, the sole candidate to receive a backing from two non-profit organisations; and the school's principal ([Clay Vinyard](https://twitter.com/clayvinyard)). Krebs is also backed by [Google LLC](https://www.google.com/about/our-company/).
