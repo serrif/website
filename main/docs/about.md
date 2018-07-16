@@ -31,3 +31,4 @@ The lifetime experience of working in journalism, coupled with working in the fi
 Krebs is a family man, with a wife and kids; and, while devoted to his work, does not disregard those he cares for. Brian has an outstanding compass of logic and political precision; for being loyal, while remaining bipartisan. He's the product of civility, cordial attitude, and competence.
 
 *"I may stand (as a) witness to this man's amazing morality, and sense of self-awareness. For the good of the nation, it's best he run it." -Dennis.*
+{: .usa-font-lead }
