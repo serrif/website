@@ -49,3 +49,6 @@ A logical backing from [esoForum](https://esotalk.net) ensued, which now provide
 Krebs' campaign expanded from a spot in the numerous candidates, to an element of the student's core values; with Brian Krebs-related content soaring among the creative spaces of Edison.
 
 Brian Krebs was, and remains, the sole candidate to receive a backing from two non-profit organisations; and the school's principal ([Clay Vinyard](https://twitter.com/clayvinyard)). Krebs is also backed by [Google LLC](https://www.google.com/about/our-company/).
+
+### Currently
+As of now, the Krebs project is at the highest point of support it's ever been; and currently, we're working to continue embellishing the prospects of a Krebs-lead treasury.
