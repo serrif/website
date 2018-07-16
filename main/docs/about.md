@@ -33,7 +33,7 @@ Krebs is a family man, with a wife and kids; and, while devoted to his work, doe
 *"I may stand (as a) witness to this man's amazing morality, and sense of self-awareness. For the good of the nation, it's best he run it." -Dennis.*
 {: .usa-font-lead }
 
-<hr>
+<hr style="margin-top: 4rem;">
 
 ## Candidate's background
 The candidacy of Brian Krebs has historically stood for empowering privacy, and the alleviation of poorly-secured services; both across local and federal government. He's been active in the campaign-space for a significant period of time.
