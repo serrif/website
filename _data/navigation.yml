@@ -29,12 +29,12 @@ secondary:
 docs:
   - text: About the candidate
     href: /docs/
-  - text: Legislation
-    href: /docs/legis
-  - text: Navigation
-    href: /docs/navig
-  - text: Support
-    href: /docs/suppo
+  - text: Campaign library
+    href: /docs/library
+  - text: School policies
+    href: /docs/policies
+  - text: Legal content
+    href: /docs/legal
     external: true
 
 footer:
