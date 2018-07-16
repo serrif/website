@@ -35,7 +35,6 @@ docs:
     href: /docs/policies
   - text: Legal content
     href: /docs/legal
-    external: true
 
 footer:
   - text: Guild (ext. Discord srv.)
