@@ -30,7 +30,7 @@ secondary:
     external: true
 
 docs:
-  - text: Introduction
+  - text: About the candidate
     href: /docs/
   - text: Legislation
     href: /docs/legis
