@@ -24,8 +24,8 @@ Now, he is a man with immesurable experience in cybersecurity and criminal inves
 ### For student council treasurer...
 The lifetime experience of working in journalism, coupled with working in the financial sector for a significant period of time, affirms the concept that Brian Krebs is the most suitable candidate for EHS' student council 'treasurer' position.
 
-*"I have worked with (Brian) Krebs, and his overall knowledge of security -- along with finance -- has been proven invaluable by his work." -R. Reynolds.*
+*"I have worked with (Brian) Krebs, and his overall knowledge of security -- along with finance -- has been proven invaluable by his work." -Reynolds.*
 {: .usa-font-lead }
 
 ### For humanity...
-Krebs is a family man, with a wife and kids; and, while devoted to his work, does not disregard those he cares for. Brian has an outstanding compass of logic and political precision; for being loyal, while remaining bipartisan.
+Krebs is a family man, with a wife and kids; and, while devoted to his work, does not disregard those he cares for. Brian has an outstanding compass of logic and political precision; for being loyal, while remaining bipartisan. He's the product of civility, cordial attitude, and competence.
