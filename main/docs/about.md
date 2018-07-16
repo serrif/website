@@ -5,12 +5,10 @@ permalink: /docs/
 layout: post
 sidenav: docs
 subnav:
-  - text: In-game server
-    href: '#in-game-server'
-  - text: Website
-    href: '#website'
-  - text: Guild
-    href: '#guild'
+  - text: About the man
+    href: '#about-the-man'
+  - text: Candidate's background
+    href: '#candidate's-background'
 ---
 
 ## About the man
