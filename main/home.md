@@ -21,7 +21,8 @@ Spread the word of Krebs and let everyone know you're a supporter of his candida
 
 [Get the kit](#){: .usa-button .usa-button-big }
 
-<hr style="margin-top: 4rem;">
+<section class="usa-hero" style="background-image: url('/shadowga-wip/main/BacM6mm.png'); margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
+</section>
 
 ## Krebs for treasurer, candidacy 2019
 
