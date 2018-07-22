@@ -14,7 +14,6 @@ hero:
 ---
 
 ## Introducing 1.13 support
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">New feature</span>
 
 Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
 {: .usa-font-lead }
