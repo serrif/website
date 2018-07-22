@@ -46,7 +46,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth">
-		<img class="footer-main-img" src="assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
+		<img class="footer-main-img" src="/assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Engage with our members</h3>
