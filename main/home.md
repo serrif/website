@@ -20,7 +20,7 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13. not utilised; 1.10+ content excluded.</h6>
 
 ### Bedrock-based clients
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -2px;">Coming soon</span>
+<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">Coming soon</span>
 
 <p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
 
