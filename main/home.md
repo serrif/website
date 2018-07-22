@@ -22,6 +22,9 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
 
+### Bedrock-based clients
+Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.
+
 ## Krebs for treasurer, candidacy 2019
 
 [Edison High School](http://edison.tulsa.schooldesk.net/) still needs a man with experience, which is why [Krebs](https://krebsonsecurity.com/about/) is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
