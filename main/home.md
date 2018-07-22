@@ -14,7 +14,7 @@ hero:
 ---
 
 ## Show your support
-Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free presskit and textual resources.
+Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free presskit and textual resourcess.
 {: .usa-font-lead }
 
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Downloads to press resources are provided without charge. Means of printing does not apply.</h6>
