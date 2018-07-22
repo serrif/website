@@ -13,13 +13,11 @@ hero:
   
 ---
 
-## Show your support
-Spread the word of Krebs and let everyone know you're a supporter of his candidacy; with our free presskit and textual resourcess.
+## Introducing 1.13 support
+Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
 {: .usa-font-lead }
 
-<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Downloads to press resources are provided without charge. Means of printing does not apply.</h6>
-
-[Get the kit](#){: .usa-button .usa-button-big }
+<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13. not utilised; 1.10+ content excluded.</h6>
 
 <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
