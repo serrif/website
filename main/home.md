@@ -21,7 +21,7 @@ Spread the word of Krebs and let everyone know you're a supporter of his candida
 
 [Get the kit](#){: .usa-button .usa-button-big }
 
-<section class="usa-hero" style="background-image: url('/shadowga-wip/main/BacM6mm.png'); margin-top: 6rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%);">
+<section class="usa-hero" style="background-image: url('/shadowga-wip/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
 
 ## Krebs for treasurer, candidacy 2019
@@ -39,7 +39,8 @@ Not only has Krebs inspired hundreds of students to develop a basis of knowledge
 
 Nothing's more important than keeing yourself safe, your resources secure, and developing a stable monetary income; for you and your family, as an adult. Since one of the many key goals of public education is maturity, financial education is a need.
 
-<hr style="margin-top: 4rem;">
+<section class="usa-hero" style="background-image: url('/shadowga-wip/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
+</section>
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
@@ -66,6 +67,8 @@ More than a server; we're an open-source network of experienced and aspiring mem
 		<button class="usa-button">Watch</button>
         </div>
 </div>
+
+<hr style="margin-top: 4rem;">
 
 #### July 15th, 2018
 Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; the homepage is built for spreading information pertinent to the school, along with a historical archive of the project.
