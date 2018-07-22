@@ -12,12 +12,15 @@
 #   links: primary
 #
 primary:
+  - text: Forum
+    href: https://f.shadow.ga
+    external: true
   - text: Centre
-    href: /docs/
+    href: /centre/
   - text: Resources
     links: footer
-  - text: Newsletter
-    href: /newsletter/
+  - text: Periodical
+    href: /periodical/
 
 secondary:
   - text: Documentation
@@ -27,14 +30,15 @@ secondary:
     external: true
 
 docs:
-  - text: About the candidate
+  - text: Introduction
     href: /docs/
-  - text: Campaign library
-    href: /docs/library
-  - text: School policies
-    href: /docs/policies
-  - text: Legal content
-    href: /docs/legal
+  - text: Legislation
+    href: /docs/legis
+  - text: Navigation
+    href: /docs/navig
+  - text: Support
+    href: /docs/suppo
+    external: true
 
 footer:
   - text: Guild (ext. Discord srv.)
