@@ -20,7 +20,9 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13. not utilised; 1.10+ content excluded.</h6>
 
 ### Bedrock-based clients
-Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.
+<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -2px;">Coming soon</span>
+
+<p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
 
 <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
