@@ -40,9 +40,20 @@ Nothing's more important than keeing yourself safe, your resources secure, and d
 
 <hr style="margin-top: 4rem;">
 
-## Latest news
-See what's new with the Krebs Project, and candidate Brian Krebs.
+## Join the community
+More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
 {: .usa-font-lead }
+
+<div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
+	<div class="usa-width-one-sixth">
+		<img class="footer-main-img" src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="" style="width: 165px;">
+	</div>
+	<div class="usa-width-five-sixths footer-content">
+		<h3>Engage with our members</h3>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite Discord guild with which members of our in-game server can freely communicate topics; both pertinent to our service, and of everyday life.</p>
+		<button class="usa-button">Default</button>
+        </div>
+</div>
 
 #### July 15th, 2018
 Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; the homepage is built for spreading information pertinent to the school, along with a historical archive of the project.
