@@ -5,11 +5,11 @@ permalink: /
 layout: home
 
 hero:
-  image: /main/krebbg.jpg
+  image: /main/BacM6mm.png
   callout:
-    alt: "He's the man we want."
-    text: Krebs is the man we need.
-  content: Brian Krebs, an ex-employee of The Washington Post, is running for student council treasurer of Edison High School. Not only is he the most experienced candidate on the block, but he can get things done.
+    alt: "A modern and creative platform"
+    text: for architects and designers alike.
+  content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
   
 ---
 
