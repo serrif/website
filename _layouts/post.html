@@ -19,6 +19,14 @@ main:
 
     <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
 
+    <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/ohlvtwm.png')">
+      <div class="usa-grid">
+       <div class="usa-hero-callout usa-section-dark">
+         <h2>Information centre</h2>
+       </div>
+      </div>
+    </section>
+      
     {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
     {% if sidenav %}
     <aside class="usa-layout-docs-sidenav sidenav" style="position: sticky; top: 3rem;">
