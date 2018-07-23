@@ -68,7 +68,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-question.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="/sgasite.github.io/assets/img/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
 				<a href="https://github.com/uswds/uswds/issues/new">Ask questions on GitHub</a>
@@ -77,7 +77,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-slack.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="/sgasite.github.io/assets/img/icon-message.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
 				<a href="https://chat.18f.gov/">Join our Slack channel</a>
@@ -86,7 +86,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="/sgasite.github.io/assets/img/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Reach the team</p>
 				<a href="mailto:uswds@gsa.gov">Send us an email</a>
