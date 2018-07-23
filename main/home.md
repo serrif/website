@@ -60,3 +60,33 @@ More than a server; we're an open-source network of experienced and aspiring mem
 </div>
 
 <hr style="margin-top: 4rem;">
+
+<div class="usa-grid-full footer-contact-links" style="font-size: 15px !important;">
+	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+		<div class="usa-media_block">
+			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-question.svg" alt="" style="padding-top: 0.3rem;">
+			<div class="usa-media_block-body">
+				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
+				<a href="https://github.com/uswds/uswds/issues/new">Ask questions on GitHub</a>
+			</div>
+		</div>
+	</div>
+	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+		<div class="usa-media_block">
+			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-slack.svg" alt="" style="padding-top: 0.3rem;">
+			<div class="usa-media_block-body">
+				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
+				<a href="https://chat.18f.gov/">Join our Slack channel</a>
+			</div>
+		</div>
+	</div>
+	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+		<div class="usa-media_block">
+			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
+			<div class="usa-media_block-body">
+				<p style="margin: 0; font-size: 15px;">Reach the team</p>
+				<a href="mailto:uswds@gsa.gov">Send us an email</a>
+			</div>
+		</div>
+	</div>
+</div>
