@@ -13,7 +13,7 @@ tagline: We're a modern, creative community.
 ---
 
 ## Documentation
-Learn about server-exclusive features and reference commands with our hand-written legislation.
+Learn about server-exclusive features, reference commands, and index policies with our hand-written legislation.
 {: .usa-font-lead }
 
 Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activites such as automated intruction, and programming, are specifically outlined within these texts.
