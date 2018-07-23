@@ -28,20 +28,7 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
 
-## Krebs for treasurer, candidacy 2019
-
-[Edison High School](http://edison.tulsa.schooldesk.net/) still needs a man with experience, which is why [Krebs](https://krebsonsecurity.com/about/) is the man we want; with knowledge of online security, coupled with his clientele expertise, Brian Krebs is running for school treasurer.
-{: .usa-font-lead }
-
-### Brian Krebs and Principal Vinyard
-The Krebs candidacy supports Clay Vinyard, principal of Edison. A dedicated educator and 'man with a plan'; Principal Vinyard has brought progress and prosperity to our school -- which is why Krebs, naturally, supports his position and administration.
-
-Since 2001, prosperous education has been a core value of Krebs; and, even in his writings, is carefully elaborated to the public. We (and Krebs) believe in a truthful and stable educational environment for students. That's why Krebs is dedicated to Edison.
-
-### Krebs and financial stability
-Not only has Krebs inspired hundreds of students to develop a basis of knowledge of security; but secondly, the Krebs platform relentlessly pushes for financial (and economic) awareness among students -- making him fit for treasurer.
-
-Nothing's more important than keeing yourself safe, your resources secure, and developing a stable monetary income; for you and your family, as an adult. Since one of the many key goals of public education is maturity, financial education is a need.
+AAAA
 
 <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
@@ -73,16 +60,3 @@ More than a server; we're an open-source network of experienced and aspiring mem
 </div>
 
 <hr style="margin-top: 4rem;">
-
-#### July 15th, 2018
-Krebs for America launches their official site, promoting the treasurer-candidate Brian Krebs; the homepage is built for spreading information pertinent to the school, along with a historical archive of the project.
-
-#### May 4th, 2018
-The Brian Krebs campaign endorses candidate Steve Gibson for 'executive' student treasurer, on the Krebs for America Twitter page; secondly, K.F.A. concedes and announces his upcoming candidacy for the '19 student council elections.
-
-Krebs endorses interim principal Clay Vinyard for his contributions to Edison High School. An incident in which campaign posters are removed from class halls is addressed by K.F.A.
-
-#### May 3rd, 2018
-A poll is conducted regarding the likeness of candidate Krebs, and the need for technology education in public schooling is embellished at the Krebs for America Twitter page.
-
-The outcome of the B.K. likeness poll asserts that (roughly) seventy-percent of campaign voters support Brian Krebs.
