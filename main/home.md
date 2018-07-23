@@ -62,7 +62,11 @@ More than a server; we're an open-source network of experienced and aspiring mem
 <hr style="margin-top: 4rem;">
 
 <div class="usa-grid-full footer-contact-links" style="font-size: 15px !important;">
-	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1rem;">
+		<h4 style="margin-bottom: 0.2rem;">Direct support</h4>
+		<p style="margin: 0;">Have a question? Get an answer.</p>
+	</div>
+	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
 			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
@@ -71,7 +75,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			</div>
 		</div>
 	</div>
-	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
 			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-slack.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
@@ -80,7 +84,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			</div>
 		</div>
 	</div>
-	<div class="usa-width-one-third" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
+	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
 			<img class="usa-media_block-img" src="https://designsystem.digital.gov/img/home/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
