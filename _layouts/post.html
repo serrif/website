@@ -17,8 +17,6 @@ main:
     {% include skipnav.html %}
     {% include header.html %}
 
-    <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
-
     <section class="usa-hero" style="background-image: url('/sgasite.github.io/main/ohlvtwm.png')">
       <div class="usa-grid">
        <div class="usa-hero-callout usa-section-dark">
@@ -26,6 +24,8 @@ main:
        </div>
       </div>
     </section>
+    
+    <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
       
     {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
     {% if sidenav %}
