@@ -12,6 +12,7 @@ subnav:
 ---
 
 We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
+{: .usa-font-lead }
 
 ## In-game server
 Our Minecraft server is what we're built around.
@@ -28,7 +29,11 @@ Using a port isn't required but if you need one there's `25565`.
  
 You can also view and lookup other members, as opposed to the default tab list.
 
-> **Note:** Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.
+<div class="usa-alert usa-alert-warning" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.</p>
+  </div>
+</div>
 
  * `/list` - Displays a list of members currently on the server.
  * `/list -a` - Displays a list of members, with administrator, on the server.
