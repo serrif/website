@@ -12,11 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Forum
-    href: https://f.shadow.ga
-    external: true
   - text: Centre
-    href: /centre/
+    href: /docs/
   - text: Resources
     links: footer
   - text: Periodical
