@@ -5,9 +5,9 @@ permalink: /docs/
 layout: post
 sidenav: docs
 subnav:
-  - text: In-game server
+  - text: "In-game server"
     href: '#in-game-server'
-  - text: I: Connection
+  - text: "I: Connection"
     href: '#connection'
 ---
 
