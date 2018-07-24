@@ -5,10 +5,10 @@ permalink: /docs/
 layout: post
 sidenav: docs
 subnav:
-  - text: About the man
-    href: '#about-the-man'
-  - text: "Candidate's background"
-    href: '#candidates-background'
+  - text: In-game server
+    href: '#in-game-server'
+  - text: I: Connection
+    href: '#connection'
 ---
 
 We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
