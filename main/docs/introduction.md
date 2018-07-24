@@ -7,8 +7,16 @@ sidenav: docs
 subnav:
   - text: "In-game server"
     href: '#in-game-server'
-  - text: "I: Connection"
+  - text: "* Connection"
     href: '#connection'
+  - text: "* Communication"
+    href: '#communication'
+  - text: "** Mail usage"
+    href: '#mail-usage'
+  - text: "* Economy"
+    href: '#economy'
+  - text: "** Using the shop"
+    href: '#using-the-shop'
 ---
 
 We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
