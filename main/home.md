@@ -29,6 +29,8 @@ Join the server on an instance of the latest client version; now supporting 1.13
 </section>
 
 ### "Why us?"
+<p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
+
 It's the underlying question, which is -- what makes this server optimal; and, the optimum for granted, 'why?'
 {: .usa-font-lead }
 
