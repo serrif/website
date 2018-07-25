@@ -38,7 +38,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 {: .usa-font-lead }
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 4rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
 		<img class="footer-main-img" src="/sgasite.github.io/assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
@@ -49,7 +49,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 </div>
 
 <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 4rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
 		<img class="footer-main-img" src="/sgasite.github.io/assets/img/github.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
