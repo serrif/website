@@ -31,6 +31,8 @@ Join the server on an instance of the latest client version; now supporting 1.13
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
 
+<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">Featured read</span>
+
 It's the underlying question, which is -- what makes this server optimal; and, the optimum for granted, 'why?'
 {: .usa-font-lead }
 
