@@ -31,10 +31,9 @@ Join the server on an instance of the latest client version; now supporting 1.13
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
 
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">Featured read</span>
+<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
 
-It's the underlying question, which is -- what makes this server optimal; and, the optimum for granted, 'why?'
-{: .usa-font-lead }
+<p class="usa-font-lead" style="margin-top: 3rem;">It’s the underlying question, which is – what makes this server optimal; and, the optimum for granted, ‘why?’</p>
 
 If you're a builder, the answer should be essential: tools for construction and effective design are provided, lacking in prerequisite; and these truths make the aforementioned executions more timely. One also must account that having access to these resources will always produce a superior product.
 
