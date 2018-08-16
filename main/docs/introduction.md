@@ -44,6 +44,8 @@ Permissions are developed in accordance with our commitment towards freedom.
 <br>
 If something's blocked or off-limits that you think shouldn't be, please let us know.
 
+<hr style="margin-top: 3rem;">
+
 ## In-game server
 Our <a class="usa-external_link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
 We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
