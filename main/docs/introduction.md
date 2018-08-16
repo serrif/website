@@ -21,12 +21,14 @@ subnav:
     href: '#shop-management'
   - text: "₍₄₎ Other commands"
     href: '#economy'
+  - 
   - text: "Website"
     href: '#website'
   - text: "₍₁₎ Homepage"
     href: '#homepage'
   - text: "₍₂₎ Social media"
     href: '#social-media'
+  - 
   - text: "Guild"
     href: '#guild'
   - text: "₍₁₎ Channels"
