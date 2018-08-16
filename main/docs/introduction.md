@@ -7,23 +7,27 @@ sidenav: docs
 subnav:
   - text: "In-game server"
     href: '#in-game-server'
-  - text: "* Connection"
+  - text: "₍₁₎ Connection"
     href: '#connection'
-  - text: "* Communication"
+  - text: "₍₂₎ Communication"
     href: '#communication'
-  - text: "** Mail usage"
+  - text: "₍₂ₐ₎ Mail usage"
     href: '#mail-usage'
-  - text: "* Economy"
+  - text: "₍₃₎ Economy"
     href: '#economy'
-  - text: "** Using the shop"
+  - text: "₍₃ₐ₎ Using the shop"
     href: '#using-the-shop'
 ---
 
-We're a modern creative environment; we give members every command they need to powerfully build and enjoy our server without meeting any requirements.
+"We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
 {: .usa-font-lead }
 
+Permissions are developed in accordance with our commitment towards freedom and the ability of self-expression.
+<br>
+If something's blocked or off-limits that you think shouldn't be, feel free to contact us with any possible revisions.
+
 ## In-game server
-Our Minecraft server is what we're built around.
+Our <a class="usa-external-link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
 We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
 
 ### Connection
@@ -59,7 +63,7 @@ Support for older client versions may change as the game updates.
 
 ### Communication
 Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
-We use the [Essentials](https://wiki.mc-ess.net) features library along with several other plugins.
+We use the <a class="usa-external-link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
 
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
@@ -69,7 +73,11 @@ We use the [Essentials](https://wiki.mc-ess.net) features library along with sev
 The `/mail` function can be used to send, receive, and manage messages.
 Keep in mind that all messages must comply with our guidelines or they'll be removed.
 
-> **Note:** Mailed messages, unlike `/msg`, can be sent to offline members—or members that aren't currently on the server during command execution. `/mail sendall` cannot be used by members.
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Mailed messages, such as <code class="highlighter-rouge">/msg</code>, can be sent to offline members—or members that aren't currently on the server during command execution. <code class="highlighter-rouge">/mail sendall</code> cannot be used by members.</p>
+  </div>
+</div>
 
  * `/mail send <user> <message>` - Mails a message to another member (`<user>`).
  * `/mail read` - Functions as an inbox; displays all (if any) messages sent to you.
@@ -90,7 +98,11 @@ Once you build up enough coins, you can purchase from the shop; items like login
 Senior Admins and higher can manage the shop with an administrator tool.
 Shop management allows for economy modification and the addition of new coins.
 
-> **Note:** Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.
+<div class="usa-alert usa-alert-warning" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.</p>
+  </div>
+</div>
 
  * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
  * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
@@ -101,7 +113,11 @@ The `all` function will only apply to members that are online; `set` will overri
 ### Other commands
 Members can manage settings directly pertinent to their character; such as gamemode and immunity to health-based damage.
 
-> **Note:** Currently, spectator mode is only available to administrators. This restriction is in place to maintain privacy and prevent unwanted activity.
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Currently, spectator mode is only available to administrators. This restriction is in place to maintain privacy and prevent unwanted activity.</p>
+  </div>
+</div>
 
 <ul>
   <li><code class="highlighter-rouge">/gamemode &lt;creative | survival | adventure | spectator&gt;</code> - Sets your gamemode.</li>
@@ -139,7 +155,11 @@ Our [GitHub](/github/) organization is great for the open-source development of 
 We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
 Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
 
-> **Note:** Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please [contact us](https://shadow.ga/docs/1/d-support/#direct-support).
+<div class="usa-alert usa-alert-warning" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please contact us.</p>
+  </div>
+</div>
 
 Discussions are thread-like posts that (when made) will show up on the community's front page.
 When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
@@ -173,7 +193,11 @@ These are called 'titles' because they carry no permissions (unlike ranks).
 
 ---
 
-> **Note:** Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of administrator ranks can be found at our [hierarchy](https://shadow.ga/docs/2/a-directorate/#hierarchy).
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of administrator ranks can be found at our hierarchy.</p>
+  </div>
+</div>
 
  * **Developer** - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
@@ -195,4 +219,3 @@ They can't be used in-game.
 ---
 
 Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
-You can either click the 'next' button or manually navigate to continue.
