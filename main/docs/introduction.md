@@ -45,7 +45,7 @@ Permissions are developed in accordance with our commitment towards freedom and 
 If something's blocked or off-limits that you think shouldn't be, feel free to contact us with any possible revisions.
 
 ## In-game server
-Our <a class="usa-external-link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
+Our <a class="usa-external_link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
 We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
 
 ### Connection
@@ -81,7 +81,7 @@ Support for older client versions may change as the game updates.
 
 ### Communication
 Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
-We use the <a class="usa-external-link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
+We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
 
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
@@ -170,7 +170,7 @@ We have a [Twitter](/twitter/) for sending quick messages and all tweets are rel
 Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
 
 ## Guild
-The guild is our <a class="usa-external-link" href="https://discordapp.com">Discord</a> server where anyone can talk to each other in real time.
+The guild is our <a class="usa-external_link" href="https://discordapp.com">Discord</a> server where anyone can talk to each other in real time.
 This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
 
 ### Channels
@@ -203,7 +203,7 @@ These are called 'titles' because they carry no permissions (unlike ranks).
   </div>
 </div>
 
- * **Developer** - Provided to those who make code contribution to our <a class="usa-external-link" href="https://github.com/shadowga">organisation</a>.
+ * **Developer** - Provided to those who make code contribution to our <a class="usa-external_link" href="https://github.com/shadowga">organisation</a>.
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
  
 The following positions can only be granted to administrators.
@@ -217,8 +217,8 @@ Bots have a wide variety of control and may cover customisation to specification
 They can't be used in-game.
 
  * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
- * `.help` - Provides a list of the <a class="usa-external-link" href="https://github.com/robingall2910/RobTheBoat">Some Dragon</a> bot's commands via a personal message.
- * `t!help` - Provides a list of the <a class="usa-external-link" href="https://www.tatsumaki.xyz/">Tatsumaki</a> bot's commands via a personal message.
+ * `.help` - Provides a list of the <a class="usa-external_link" href="https://github.com/robingall2910/RobTheBoat">Some Dragon</a> bot's commands via a personal message.
+ * `t!help` - Provides a list of the <a class="usa-external_link" href="https://www.tatsumaki.xyz/">Tatsumaki</a> bot's commands via a personal message.
 
 ---
 
