@@ -17,6 +17,24 @@ subnav:
     href: '#economy'
   - text: "₍₃ₐ₎ Using the shop"
     href: '#using-the-shop'
+  - text: "₍₃ₐₐ₎ Shop management"
+    href: '#shop-management'
+  - text: "₍₄₎ Other commands"
+    href: '#economy'
+  - text: "Website"
+    href: '#website'
+  - text: "₍₁₎ Homepage"
+    href: '#homepage'
+  - text: "₍₂₎ Social media"
+    href: '#social-media'
+  - text: "Guild"
+    href: '#guild'
+  - text: "₍₁₎ Channels"
+    href: '#channels'
+  - text: "₍₂₎ Position"
+    href: '#position'
+  - text: "₍₃₎ Automation"
+    href: '#automation'
 ---
 
 "We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
@@ -150,20 +168,6 @@ Social media is used for communicating announcements and other important informa
 We have a [Twitter](/twitter/) for sending quick messages and all tweets are relayed to the guild in #announcements.
 
 Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
-
-### Community
-We'll often refer to our forum as the 'community' to keep things simple—a feature great for online collaboration and discourse.
-Getting started on the community is nice and simple, we don't ask for much; anyone can sign up through our database or GitHub—but please [enable](https://shadow.ga/docs/2/d-security/#activating-two-factor-login) two-factor auth.
-
-<div class="usa-alert usa-alert-warning" >
-  <div class="usa-alert-body">
-    <p class="usa-alert-text">Account deletions can only be performed by an Executive or higher due to the action's severity. If you'd like your account deleted, please contact us.</p>
-  </div>
-</div>
-
-Discussions are thread-like posts that (when made) will show up on the community's front page.
-When a discussion is getting a lot of replies, it'll stay on the front for everyone to see.
-You can talk about anything on the community, but we have tags for organisation; be specific but don't abuse them.
 
 ## Guild
 The guild is our Discord server where anyone can talk to each other in real time.
