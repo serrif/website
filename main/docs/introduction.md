@@ -40,9 +40,9 @@ subnav:
 "We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
 {: .usa-font-lead }
 
-Permissions are developed in accordance with our commitment towards freedom and the ability of self-expression.
+Permissions are developed in accordance with our commitment towards freedom.
 <br>
-If something's blocked or off-limits that you think shouldn't be, feel free to contact us with any possible revisions.
+If something's blocked or off-limits that you think shouldn't be, please let us know.
 
 ## In-game server
 Our <a class="usa-external_link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
