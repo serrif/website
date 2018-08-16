@@ -170,7 +170,7 @@ We have a [Twitter](/twitter/) for sending quick messages and all tweets are rel
 Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
 
 ## Guild
-The guild is our Discord server where anyone can talk to each other in real time.
+The guild is our <a class="usa-external-link" href="https://discordapp.com">Discord</a> server where anyone can talk to each other in real time.
 This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
 
 ### Channels
@@ -203,7 +203,7 @@ These are called 'titles' because they carry no permissions (unlike ranks).
   </div>
 </div>
 
- * **Developer** - Provided to those who make code contribution to our [organisation](https://github.com/shadowga).
+ * **Developer** - Provided to those who make code contribution to our <a class="usa-external-link" href="https://github.com/shadowga">organisation</a>.
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
  
 The following positions can only be granted to administrators.
@@ -217,8 +217,8 @@ Bots have a wide variety of control and may cover customisation to specification
 They can't be used in-game.
 
  * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
- * `.help` - Provides a list of the [Some Dragon](https://github.com/robingall2910/RobTheBoat) bot's commands via a personal message.
- * `t!help` - Provides a list of the [Tatsumaki](https://www.tatsumaki.xyz/) bot's commands via a personal message.
+ * `.help` - Provides a list of the <a class="usa-external-link" href="https://github.com/robingall2910/RobTheBoat">Some Dragon</a> bot's commands via a personal message.
+ * `t!help` - Provides a list of the <a class="usa-external-link" href="https://www.tatsumaki.xyz/">Tatsumaki</a> bot's commands via a personal message.
 
 ---
 
