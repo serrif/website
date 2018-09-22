@@ -13,6 +13,12 @@ hero:
   
 ---
 
+<div class="usa-alert usa-alert-info" style="padding-bottom: .5rem; padding-top: 1rem; margin-top: -6rem; border-bottom: 10px solid #02bfe7; background-image: none; padding-left: 0;">
+	<div class="usa-alert-body" style="padding-left: 2rem;">
+		<p class="usa-alert-text"><b>The server is back </b>—&#8202;we've returned to activity, and with an entirely new look; a revamped online interface and rewritten policies.</p>
+	</div>
+</div>
+
 ## Introducing 1.13 support
 
 Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
