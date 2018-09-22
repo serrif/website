@@ -18,7 +18,7 @@ hero:
 Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
 {: .usa-font-lead }
 
-<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13. not utilised; 1.10+ content excluded.</h6>
+<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13.* not utilised; 1.10+ content excluded.</h6>
 
 <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 
