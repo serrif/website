@@ -13,7 +13,7 @@
 #
 primary:
   - text: Centre
-    href: /docs/
+    href: /centre/
   - text: Resources
     links: footer
   - text: Periodical
@@ -38,15 +38,15 @@ docs:
     external: true
 
 footer:
-  - text: Guild (ext. Discord srv.)
-    href: https://discordapp.com/invite/3fFF2V2
+  - text: Guild
+    href: https://discordapp.com/invite/nuNTR3U
     external: true
   - text: HTTPD (file transfer srv.)
     href: http://b.shadow.ga:27579/schematic/list
     external: true
   - text: Dynamic (dyn) map
-    href: http://b.shadow.ga:26589/
+    href: http://map.novelmc.net/
     external: true
-  - text: Control panel
-    href: https://p.shadow.ga/
+  - text: Management panel
+    href: https://panel.novelmc.net/
     external: true

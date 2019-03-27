@@ -1,10 +1,10 @@
-title: shadow.ga
+title: NovelMC
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github:
-  organization: shadow.ga
-  repository: shadowga-wip
+  organization: novelmc
+  repository: Web
   default_branch: master
 
 # Configuration for setting the site width to 100%
