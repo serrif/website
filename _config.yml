@@ -4,7 +4,7 @@ title: NovelMC
 # This is used for adding an edit this page link to the footer
 github:
   organization: novelmc
-  repository: Web
+  repository: novelmc.github.io
   default_branch: master
 
 # Configuration for setting the site width to 100%

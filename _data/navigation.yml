@@ -29,12 +29,22 @@ secondary:
 docs:
   - text: Introduction
     href: /docs/
-  - text: Legislation
-    href: /docs/legis
+  - text: Guidelines
+    href: /docs/guidelines
   - text: Navigation
-    href: /docs/navig
+    href: /docs/navigation
   - text: Support
-    href: /docs/suppo
+    href: /docs/support
+  - text: Leadership
+    href: /docs/leadership
+  - text: Management
+    href: /docs/management
+  - text: Resources
+    href: /docs/resources
+  - text: Security
+    href: /docs/security
+
+
     external: true
 
 footer:

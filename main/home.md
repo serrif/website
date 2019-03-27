@@ -7,8 +7,8 @@ layout: home
 hero:
   image: /main/BacM6mm.png
   callout:
-    alt: "A modern and creative platform"
-    text: for architects and designers alike.
+    alt: "An end-to-end creative-minded platform"
+    text: designed for the spontaneously creative.
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 
 ---
