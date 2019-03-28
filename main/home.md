@@ -30,41 +30,23 @@ hero:
   </div>
 </section>
 
+<div class="usa-grid">
+  <div class="usa-width-one-half usa-offset-one-twelfth">
+      <h3>Why use us?</h3>
+      <p>Georgia is a state located in the southeastern United States. It was established in 1732 and was the last of the original Thirteen Colonies. Named after King George II of Great Britain, Georgia was the fourth state to ratify the United States
+          Constitution, on January 2, 1788. Georgia declared its secession from the Union on January 19, 1861, and was one of the original seven Confederate states. Georgia was the last state to be restored to the Union, on July 15, 1870. Georgia
+          is the 24th largest and the 8th most populous of the 50 United States.</p>
+  </div>
+</div>
 
-<section class="usa-section usa-section-dark usa-graphic_list">
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
-    <div class="usa-media_block-body">
-      <h3>Graphic headings can vary.</h3>
-      <p>Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.</p>
-    </div>
-  </div>
-  <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
-    <div class="usa-media_block-body">
-      <h3>Stick to 6 or fewer words.</h3>
-      <p>Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.</p>
-    </div>
+<div class="usa-grid">
+  <div class="usa-width-one-half usa-offset-one-half">
+      <h3>More information</h3>
+      <p>Georgia is a state located in the southeastern United States. It was established in 1732 and was the last of the original Thirteen Colonies. Named after King George II of Great Britain, Georgia was the fourth state to ratify the United States
+          Constitution, on January 2, 1788. Georgia declared its secession from the Union on January 19, 1861, and was one of the original seven Confederate states. Georgia was the last state to be restored to the Union, on July 15, 1870. Georgia
+          is the 24th largest and the 8th most populous of the 50 United States.</p>
   </div>
 </div>
-<div class="usa-grid usa-graphic_list-row">
-  <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
-    <div class="usa-media_block-body">
-      <h3>Never highlight anything without a goal.</h3>
-      <p>For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.</p>
-    </div>
-  </div>
-  <div class="usa-width-one-half usa-media_block">
-    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
-    <div class="usa-media_block-body">
-      <h3>Could also have 2 or 6.</h3>
-      <p>In addition to your goal, find out your users’ goals. What do they want to know or do that supports your mission? Use these headings to show those.</p>
-    </div>
-  </div>
-</div>
-</section>
 
 ## Introducing 1.13 support
 
@@ -80,8 +62,8 @@ Join the server on an instance of the latest client version; now supporting 1.13
 
 <p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
 
-<section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-</section>
+*/ <section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
+</section> /*
 
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
@@ -92,8 +74,8 @@ Join the server on an instance of the latest client version; now supporting 1.13
 
 If you're a builder, the answer should be essential: tools for construction and effective design are provided, lacking in prerequisite; and these truths make the aforementioned executions more timely. One also must account that having access to these resources will always produce a superior product.
 
-<section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-</section>
+*/ <section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
+</section> /*
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
