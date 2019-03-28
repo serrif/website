@@ -37,6 +37,12 @@ hero:
           Constitution, on January 2, 1788. Georgia declared its secession from the Union on January 19, 1861, and was one of the original seven Confederate states. Georgia was the last state to be restored to the Union, on July 15, 1870. Georgia
           is the 24th largest and the 8th most populous of the 50 United States.</p>
   </div>
+</div>
+
+<section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
+</section>
+
+<div class="usa-grid">
   <div class="usa-width-one-half usa-offset-one-half">
       <h3>More information</h3>
       <p>Georgia is a state located in the southeastern United States. It was established in 1732 and was the last of the original Thirteen Colonies. Named after King George II of Great Britain, Georgia was the fourth state to ratify the United States
