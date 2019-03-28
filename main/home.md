@@ -19,6 +19,53 @@ hero:
 	</div>
 </div>
 
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-third">
+    <h2>A tagline highlights your approach</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    <p>The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.</p>
+<p>Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.</p>
+
+  </div>
+</section>
+
+
+<section class="usa-section usa-section-dark usa-graphic_list">
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-half usa-media_block">
+    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
+    <div class="usa-media_block-body">
+      <h3>Graphic headings can vary.</h3>
+      <p>Graphic headings can be used a few different ways, depending on what your landing page is for. Highlight your values, specific program areas, or results.</p>
+    </div>
+  </div>
+  <div class="usa-width-one-half usa-media_block">
+    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
+    <div class="usa-media_block-body">
+      <h3>Stick to 6 or fewer words.</h3>
+      <p>Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.</p>
+    </div>
+  </div>
+</div>
+<div class="usa-grid usa-graphic_list-row">
+  <div class="usa-width-one-half usa-media_block">
+    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
+    <div class="usa-media_block-body">
+      <h3>Never highlight anything without a goal.</h3>
+      <p>For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.</p>
+    </div>
+  </div>
+  <div class="usa-width-one-half usa-media_block">
+    <img class="usa-media_block-img"  src="/assets/img/circle-124.png" alt="Alt text">
+    <div class="usa-media_block-body">
+      <h3>Could also have 2 or 6.</h3>
+      <p>In addition to your goal, find out your users’ goals. What do they want to know or do that supports your mission? Use these headings to show those.</p>
+    </div>
+  </div>
+</div>
+</section>
+
 ## Introducing 1.13 support
 
 Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
