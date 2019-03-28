@@ -7,35 +7,35 @@ sidenav: docs
 subnav:
   - text: "In-game server"
     href: '#in-game-server'
-  - text: "₍₁₎ Connection"
+  - text: "Connection"
     href: '#connection'
-  - text: "₍₂₎ Communication"
+  - text: "Communication"
     href: '#communication'
-  - text: "₍₂ₐ₎ Mail usage"
+  - text: "Mail usage"
     href: '#mail-usage'
-  - text: "₍₃₎ Economy"
+  - text: "Economy"
     href: '#economy'
-  - text: "₍₃ₐ₎ Using the shop"
+  - text: "Using the shop"
     href: '#using-the-shop'
-  - text: "₍₃ₐₐ₎ Shop management"
+  - text: "Shop management"
     href: '#shop-management'
-  - text: "₍₄₎ Other commands"
+  - text: "Other commands"
     href: '#economy'
   - 
   - text: "Website"
     href: '#website'
-  - text: "₍₁₎ Homepage"
+  - text: "Homepage"
     href: '#homepage'
-  - text: "₍₂₎ Social media"
+  - text: "Social media"
     href: '#social-media'
   - 
   - text: "Guild"
     href: '#guild'
-  - text: "₍₁₎ Channels"
+  - text: "Channels"
     href: '#channels'
-  - text: "₍₂₎ Position"
+  - text: "Position"
     href: '#position'
-  - text: "₍₃₎ Automation"
+  - text: "Automation"
     href: '#automation'
 ---
 
