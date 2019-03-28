@@ -13,8 +13,8 @@ hero:
 
 ---
 
-<div class="usa-alert usa-alert-error" role="alert">
-    <div class="usa-alert-body">
+<div class="usa-alert usa-alert-error" style="padding-bottom: .5rem; padding-top: 1rem; margin-top: -6rem; background-image: none; padding-left: 0;">
+    <div class="usa-alert-body" style="padding-left: 2rem;">
         <h3 class="usa-alert-heading">Important Information</h3>
         <p class="usa-alert-text">I thought you wanted the basil plant?</p>
     </div>
