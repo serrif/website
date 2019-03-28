@@ -10,43 +10,9 @@ hero:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
-  graphic_list:
-    list_item:
-      - topic: Getting started
-        description: Learn how to get started using the U.S. Web Design System for your project, regardless of your technical stack.
-        image:
-          src: assets/img/home/circle.png
-          alt:
-        link:
-          text: Take the first step
-          url: documentation
-      - topic: UI components
-        description: Discover all the different components that the Design System provides as both design and development assets.
-        image:
-          src: assets/img/home/circle.png
-          alt:
-        link:
-          text: Browse the components
-          url: components
-      - topic: What’s new
-        description: Keep up to date with the current news and product development updates for the U.S. Web Design System.
-        image:
-          src: assets/img/home/circle.png
-          alt:
-        link:
-          text: See what’s new
-          url: whats-new
-      - topic: Page templates
-        description: Explore the different page templates that have been created to jump start your product development.
-        image:
-          src: assets/img/home/circle.png
-          alt:
-        link:
-          text: Start from a template
-          url: page-templates
 ---
 
-<div class="usa-alert usa-alert-error" style="padding-bottom: .5rem; padding-top: 1rem; margin-top: -6rem; background-image: none; padding-left: 0;">
+<div class="usa-alert usa-alert-error" role="alert" style="padding-bottom: .5rem; padding-top: 1rem; margin-top: .5rem; background-image: none; padding-left: 0;">
     <div class="usa-alert-body" style="padding-left: 2rem;">
         <h3 class="usa-alert-heading">Important Information</h3>
         <p class="usa-alert-text">I thought you wanted the basil plant?</p>
