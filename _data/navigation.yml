@@ -13,7 +13,7 @@
 #
 primary:
   - text: Information
-    href: footer
+    href: information
   - text: Resources
     links: footer
   - text: Blog
@@ -46,6 +46,20 @@ docs:
 
 
     external: true
+
+information:
+  - text: Community forum
+    href: {{ site.baseurl }}/forum/
+    external: false
+  - text: Documentation
+    href: {{ site.baseurl }}/docs/
+    external: false
+  - text: Developer lib[rary]
+    href: {{ site.baseurl }}/devlib/
+    external: false
+  - text: Legal policies
+    href: {{ site.baseurl }}/policies/
+    external: false
 
 footer:
   - text: Guild
