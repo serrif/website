@@ -5,7 +5,7 @@ permalink: /centre/
 layout: home
 
 hero:
-  image: ../main/ohlvtwm.png
+  image: {{ site.baseurl }}/img/hero-img/ohlvtwm.png
   callout:
     text: Information centre
 
