@@ -29,7 +29,7 @@ hero:
 
   </div>
 </section>
-
+<br>
 <div class="usa-grid">
   <div class="usa-width-one-half usa-offset-one-twelfth">
       <h3>Why use us?</h3>
@@ -38,7 +38,7 @@ hero:
           is the 24th largest and the 8th most populous of the 50 United States.</p>
   </div>
 </div>
-
+<br>
 <div class="usa-grid">
   <div class="usa-width-one-half usa-offset-one-half">
       <h3>More information</h3>
@@ -62,9 +62,6 @@ Join the server on an instance of the latest client version; now supporting 1.13
 
 <p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
 
-*/ <section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-</section> /*
-
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
 
@@ -73,9 +70,6 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <p class="usa-font-lead" style="margin-top: 3rem;">It’s the underlying question, which is – what makes this server optimal; and, the optimum for granted, ‘why?’</p>
 
 If you're a builder, the answer should be essential: tools for construction and effective design are provided, lacking in prerequisite; and these truths make the aforementioned executions more timely. One also must account that having access to these resources will always produce a superior product.
-
-*/ <section class="usa-hero" style="background-image: url('/novelmc.github.io/main/UJ4z0Jz.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-</section> /*
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
