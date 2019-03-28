@@ -12,16 +12,16 @@
 #   links: primary
 #
 primary:
-  - text: Centre
-    href: /centre/
+  - text: Information
+    href: footer
   - text: Resources
     links: footer
-  - text: Periodical
-    href: /periodical/
+  - text: Blog
+    href: /blog/
 
 secondary:
-  - text: Documentation
-    href: /docs/
+  - text: Centre
+    href: /centre/
   - text: External link
     href: https://18f.gsa.gov
     external: true
