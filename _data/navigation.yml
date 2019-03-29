@@ -47,6 +47,17 @@ docs:
 
     external: true
 
+library:
+  - text: Developer library
+    href: /library/dev
+  - text: Magisterial library
+    href: /library/magisterial
+  - text: Judicial library
+    href: /library/judicial
+
+
+    external: true
+
 particulars:
   - text: Community forum
     href: https://forum.novelmc.net/
@@ -54,8 +65,8 @@ particulars:
   - text: Documentation
     href: /docs/
     external: true
-  - text: Developer library
-    href: /devlib/
+  - text: Campaign libraries
+    href: /library/
     external: true
   - text: Legal policies
     href: /policies/
