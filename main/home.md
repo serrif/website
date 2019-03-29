@@ -12,6 +12,14 @@ hero:
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 ---
 
+<div class="usa-alert usa-alert-success">
+    <div class="usa-alert-body">
+        <h3 class="usa-alert-heading">Send us your feedback</h3>
+        <p class="usa-alert-text">We've introduced a website as the new home of the server on the web. Help us improve it with your feedback. Let us know <a href="https://discord.gg/JEVVpS"> on Discord</a>.</p>
+    </div>
+</div>
+
+
 ## Introducing multi-version support
 
 Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.

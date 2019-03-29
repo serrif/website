@@ -48,6 +48,8 @@ docs:
     external: true
 
 library:
+  - text: Information
+    href: /library/
   - text: Developer library
     href: /library/dev
   - text: Magisterial library
