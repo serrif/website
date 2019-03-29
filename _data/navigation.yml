@@ -22,7 +22,7 @@ primary:
     href: /blog/
 
 secondary:
-    - text: External link
+  - text: External link
     href: https://18f.gsa.gov
     external: true
 

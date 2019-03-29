@@ -12,12 +12,12 @@ hero:
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 ---
 
-## Introducing 1.13 support
+## Introducing multi-version support
 
-Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
+Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 {: .usa-font-lead }
 
-<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13.* not utilised; 1.10+ content excluded.</h6>
+<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Blocks from newer game versions may display differently for older instances.</h6>
 
 <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 
