@@ -5,7 +5,7 @@ permalink: /center/
 layout: home
 
 hero:
-  image: ../main/ohlvtwm.png
+  image: ../assets/img/hero/ohlvtwm.png
   callout:
     text: Information center
 

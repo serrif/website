@@ -26,7 +26,7 @@ top:
 links: footer
 
 # Configuration for footer heading. (optional)
-heading: shadow.ga
+heading: NovelMC
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -59,7 +59,5 @@ contact:
   heading: Support team
 # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: +1 (918) 805-2821
-      href: tel:1-918-805-2821
-    - text: contact@shadow.ga
-      href: mailto:contact@shadow.ga
+    - text: support@novelmc.net
+      href: mailto:support@novelmc.net

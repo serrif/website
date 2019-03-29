@@ -5,11 +5,13 @@ permalink: /
 layout: home
 
 hero:
-  image: /main/BacM6mm.png
+  image: ../assets/img/hero/BacM6mm.png
   callout:
-    alt: "An end-to-end creative platform"
-    text: for the spontaneous architect.
+    alt: "An end-to-end creative platform for the spontaneous architect."
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
+  button:
+      text: More about us
+      href: '../docs/'
 ---
 
 <div class="usa-alert usa-alert-success">
@@ -46,7 +48,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-		<img class="footer-main-img" src="../assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
+		<img class="footer-main-img" src="../assets/img/svg/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Engage with our members</h3>
@@ -57,7 +59,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 
 <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-		<img class="footer-main-img" src="../assets/img/github.svg" alt="" style="width: 130px; padding: 10px;">
+		<img class="footer-main-img" src="../assets/img/svg/github.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Contribute to the code</h3>
@@ -75,7 +77,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="/novelmc.github.io/assets/img/icon-question.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="../assets/img/icons/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
 				<a href="https://discordapp.com/invite/nuNTR3U">Ask us on Discord</a>
@@ -84,7 +86,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="/novelmc.github.io/assets/img/icon-message.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="../assets/img/icons/icon-message.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
 				<a href="https://forum.novelmc.net">Register for our forum</a>
@@ -93,7 +95,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-one-fourth" style="padding-top: 1.5rem; padding-bottom: 1.5rem;">
 		<div class="usa-media_block">
-			<img class="usa-media_block-img" src="/novelmc.github.io/assets/img/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
+			<img class="usa-media_block-img" src="../assets/img/icons/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Reach the team</p>
 				<a href="mailto:support@novelmc.net">Send us an email</a>
