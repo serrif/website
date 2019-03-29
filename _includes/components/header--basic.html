@@ -7,7 +7,7 @@
       <div class="usa-logo" id="logo">
         <em class="usa-logo-text">
           <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home">
-            {{ default: site.title | header.title }}
+            {{ header.title | default: site.title }}
           </a>
         </em>
       </div>
