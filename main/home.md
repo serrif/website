@@ -12,24 +12,6 @@ hero:
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 ---
 
-<div class="usa-alert usa-alert-error" role="alert">
-    <div class="usa-alert-body">
-        <h3 class="usa-alert-heading">Important Information</h3>
-        <p class="usa-alert-text">I thought you wanted the basil plant?</p>
-    </div>
-</div>
-
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-third">
-    <h2>A tagline highlights your approach</h2>
-  </div>
-  <div class="usa-width-two-thirds">
-    <p>The tagline should inspire confidence and interest, focusing on the value that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.</p>
-<p>Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.</p>
-
-  </div>
-</section>
-
 ## Introducing 1.13 support
 
 Join the server on an instance of the latest client version; now supporting 1.13.0, along with backwards compatibility.
@@ -38,11 +20,6 @@ Join the server on an instance of the latest client version; now supporting 1.13
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Server-side 1.13.* not utilised; 1.10+ content excluded.</h6>
 
 <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-
-### Bedrock-based clients
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">Coming soon</span>
-
-<p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
 
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
@@ -53,13 +30,15 @@ Join the server on an instance of the latest client version; now supporting 1.13
 
 If you're a builder, the answer should be essential: tools for construction and effective design are provided, lacking in prerequisite; and these truths make the aforementioned executions more timely. One also must account that having access to these resources will always produce a superior product.
 
+<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
 {: .usa-font-lead }
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-		<img class="footer-main-img" src="/novelmc.github.io/assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
+		<img class="footer-main-img" src="../assets/img/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Engage with our members</h3>
@@ -70,7 +49,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 
 <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-		<img class="footer-main-img" src="/novelmc.github.io/assets/img/github.svg" alt="" style="width: 130px; padding: 10px;">
+		<img class="footer-main-img" src="../assets/img/github.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Contribute to the code</h3>
@@ -91,7 +70,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="/novelmc.github.io/assets/img/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
-				<a href="https://github.com/uswds/uswds/issues/new">Ask questions on GitHub</a>
+				<a href="https://discordapp.com/invite/nuNTR3U">Ask us on Discord</a>
 			</div>
 		</div>
 	</div>
@@ -100,7 +79,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="/novelmc.github.io/assets/img/icon-message.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
-				<a href="https://chat.18f.gov/">Join our Slack channel</a>
+				<a href="https://forum.novelmc.net">Register for our forum</a>
 			</div>
 		</div>
 	</div>

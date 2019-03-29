@@ -12,17 +12,17 @@
 #   links: primary
 #
 primary:
-  - text: Information
-    href: 
+  - text: Community forum
+    href: https://forum.novelmc.net
+  - text: Information centre
+    href: /centre/
   - text: Resources
     links: footer
   - text: Blog
     href: /blog/
 
 secondary:
-  - text: Centre
-    href: /centre/
-  - text: External link
+    - text: External link
     href: https://18f.gsa.gov
     external: true
 
@@ -51,10 +51,10 @@ footer:
   - text: Guild
     href: https://discordapp.com/invite/nuNTR3U
     external: true
-  - text: HTTPD (file transfer srv.)
+  - text: HTTPD server
     href: http://b.shadow.ga:27579/schematic/list
     external: true
-  - text: Dynamic (dyn) map
+  - text: Dynamic map
     href: http://map.novelmc.net/
     external: true
   - text: Management panel
