@@ -12,8 +12,8 @@ hero:
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
 ---
 
-<div class="usa-alert usa-alert-error" role="alert" style="padding-bottom: .5rem; padding-top: 1rem; margin-top: .5rem; background-image: none; padding-left: 0;">
-    <div class="usa-alert-body" style="padding-left: 2rem;">
+<div class="usa-alert usa-alert-error" role="alert">
+    <div class="usa-alert-body">
         <h3 class="usa-alert-heading">Important Information</h3>
         <p class="usa-alert-text">I thought you wanted the basil plant?</p>
     </div>
