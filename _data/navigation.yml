@@ -12,10 +12,10 @@
 #   links: primary
 #
 primary:
-  - text: Community forum
-    href: https://forum.novelmc.net
-  - text: Information centre
-    href: /centre/
+  - text: Information center
+    href: /center/
+  - text: Particulars
+    links: particulars
   - text: Resources
     links: footer
   - text: Blog
@@ -45,6 +45,20 @@ docs:
     href: /docs/security
 
 
+    external: true
+
+particulars:
+  - text: Community forum
+    href: https://forum.novelmc.net/
+    external: true
+  - text: Documentation
+    href: /docs/
+    external: true
+  - text: Developer library
+    href: /devlib/
+    external: true
+  - text: Legal policies
+    href: /policies/
     external: true
 
 footer:

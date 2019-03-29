@@ -1,13 +1,13 @@
 ---
 title: Home
-permalink: /centre/
+permalink: /center/
 
 layout: home
 
 hero:
   image: ../main/ohlvtwm.png
   callout:
-    text: Information centre
+    text: Information center
 
 tagline: We're a modern, creative community.
 ---
@@ -50,7 +50,7 @@ Specified information on proprietary extensions, server plugins, and on-board so
 
 <hr style="margin-top: 4.5rem;">
 
-## Judicial liberary
+## Judicial library
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
 <a class="usa-button usa-button" href="../docs">View library</a>
