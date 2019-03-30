@@ -41,7 +41,7 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 
 If you're a builder, the answer should be essential: tools for construction and effective design are provided, lacking in prerequisite; and these truths make the aforementioned executions more timely. One also must account that having access to these resources will always produce a superior product.
 
-<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+<img src="../assets/img/svg/waves.svg" alt="">
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.

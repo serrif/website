@@ -42,16 +42,32 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
 
 <hr style="margin-top: 4.5rem;">
 
-## Magisterial library
+## Campaign libraries
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
-<a class="usa-button usa-button" href="../docs">View library</a>
+<a class="usa-button usa-button" href="../library">View library</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a>
 
 <hr style="margin-top: 4.5rem;">
 
-## Judicial library
+### Developer library
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
-<a class="usa-button usa-button" href="../docs">View library</a>
+<a class="usa-button usa-button" href="../library/dev">View library</a>
+<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+
+<hr style="margin-top: 4.5rem;">
+
+### Magisterial library
+Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
+
+<a class="usa-button usa-button" href="../library/magisterial">View library</a>
+<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+
+<hr style="margin-top: 4.5rem;">
+
+### Judicial library
+Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
+
+<a class="usa-button usa-button" href="../library/judicial">View library</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a>
