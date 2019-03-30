@@ -64,7 +64,7 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
   </div>
 </div>
 
-<center><img src="../assets/img/svg/plugs.svg" style="margin-top: 4rem; alt="" width="400px"></center>
+<center><img src="../assets/img/svg/plugs.svg" style="margin-top: 4rem;" alt="" width="400px"></center>
 
 <hr style="margin-top: 4rem;">
 
