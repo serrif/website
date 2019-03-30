@@ -32,8 +32,6 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 
 <hr style="margin-top: 4rem;">
 
-<center><img src="../assets/img/svg/plugs.svg" alt="" width="400px"></center>
-
 ## Make the connection.
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 34rem; padding: 0;">--a submitted article.</p>
 
@@ -49,22 +47,24 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
       <li>Consistency, simplicity and organization. Everything is in one place, no surprises.</li>
       <li>Open-source. (Ready to be adapted)!</li>
       <li>Help always accessible. Our documentation means you won't be lost.</li>
-      <li>Responsible support. Get in touch five different ways.</li>
+      <li>Responsible support. Get in touch five different ways whenever you need support.</li>
     </ul>
 
   </div>
   <div class="usa-width-one-third">
 
     <ul>
-      <li>Advanced architectural plugins. Build how you want.</li>
-      <li>Universally secure. Constant server logging, [literally] block by block.</li>
-      <li>Always backed up. Never lose your work.</li>
-      <li>Crazy fast. Speedy and reliable.</li>
-      <li>Always adapting. Developers and security staff are always ready.</li>
+      <li>Advanced plugins for architecture. Build how you want.</li>
+      <li>Universally secure. Constant server logging and archiving, [literally] block by block.</li>
+      <li>Always backed up. Never lose your work or worry about deletion.</li>
+      <li>Worlds for all activities. You aren't limited by what one single world has to offer.</li>
+      <li>Crazy fast. Speedy and reliable, with adequate storage for anyone and everyone.</li>
     </ul>
 
   </div>
 </div>
+
+<center><img src="../assets/img/svg/plugs.svg" alt="" width="400px"></center>
 
 <hr style="margin-top: 4rem;">
 
