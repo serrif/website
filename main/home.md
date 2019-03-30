@@ -30,10 +30,12 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Blocks from newer game versions may display differently for older instances.</h6>
 
-<img src="../assets/img/svg/plugs.svg" alt="">
+<hr style="margin-top: 4rem;">
+
+<center><img src="../assets/img/svg/plugs.svg" alt="" width="400px"></center>
 
 ## Make the connection.
-<p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
+<p style="position: absolute; margin-top: -4.5rem; margin-left: 34rem; padding: 0;">--a submitted article.</p>
 
 <span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
 
