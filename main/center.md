@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Information center
 permalink: /center/
 
@@ -70,4 +70,4 @@ Specified information on proprietary extensions, server plugins, and on-board so
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
 <a class="usa-button usa-button" href="../library/judicial">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<a class="usa-button usa-button-secondary" href="../docs">Download</a> -->
