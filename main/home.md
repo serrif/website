@@ -30,7 +30,7 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 
 <h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Blocks from newer game versions may display differently for older instances.</h6>
 
-<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+<hr style="margin-top: 4rem;">
 
 ## Why use us?
 <p style="position: absolute; margin-top: -4.5rem; margin-left: 20rem; padding: 0;">--a submitted article.</p>
