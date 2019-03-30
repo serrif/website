@@ -13,7 +13,7 @@ tagline: We're a modern, creative community.
 ---
 
 <div class="usa-grid">
-  <div class="usa-width-one-half usa-offset-one-twelfth">
+  <div class="usa-width-one-half usa-offset-one-half">
     <img src="../assets/img/svg/waves.svg" alt="">
   </div>
   <div class="usa-width-one-half usa-offset-one-half">
