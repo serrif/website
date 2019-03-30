@@ -43,7 +43,7 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
   <div class="usa-width-one-third">
 
     <ul>
-      <li><strong>Security first.</strong> A heightened awareness for security and privacy.</li>
+      <li>Security first. A heightened awareness for security and privacy.</li>
       <li>Consistency, simplicity and organization. Everything is in one place, no surprises.</li>
       <li>Open-source. (Ready to be adapted)!</li>
       <li>Help always accessible. Our documentation means you won't be lost.</li>
@@ -57,14 +57,14 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
       <li>Advanced plugins for architecture. Build how you want.</li>
       <li>Universally secure. Constant server logging and archiving, [literally] block by block.</li>
       <li>Always backed up. Never lose your work or worry about deletion.</li>
-      <li>Worlds for all activities. You aren't limited by what one single world has to offer.</li>
+      <li>Worlds galore. You aren't limited by what one single world has to offer.</li>
       <li>Crazy fast. Speedy and reliable, with adequate storage for anyone and everyone.</li>
     </ul>
 
   </div>
 </div>
 
-<center><img src="../assets/img/svg/plugs.svg" alt="" width="400px"></center>
+<center><img src="../assets/img/svg/plugs.svg" style="margin-top: 4rem; alt="" width="400px"></center>
 
 <hr style="margin-top: 4rem;">
 

@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Information center
 permalink: /center/
 
@@ -16,7 +16,7 @@ tagline: We're a modern, creative community.
 Learn about server-exclusive features, reference commands, and index policies with our hand-written legislation.
 {: .usa-font-lead }
 
-Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activities such as automated intruction, and programming, are specifically outlined within these texts.
+Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activities such as automated instruction, and programming, are specifically outlined within these texts.
 
   <div class="usa-grid-full">
     <div class="usa-width-one-third">
@@ -42,32 +42,29 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
 
 <hr style="margin-top: 4.5rem;">
 
-## Campaign libraries
+<!-- ## Campaign libraries
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
-<a class="usa-button usa-button" href="../library">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<div class="usa-grid-full">
+  <div class="usa-width-one-third">
 
-<hr style="margin-top: 4.5rem;">
+    <ul>
+      <li>Introduction (of general library information and contribution)</li>
+      <li>Developer library (of collections for information on plugin code contribution)</li>
+    </ul>
 
-### Developer library
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
+  </div>
+  <div class="usa-width-one-third">
 
-<a class="usa-button usa-button" href="../library/dev">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+    <ul>
+      <li>Magisterial library (w/ browser-based file server)</li>
+      <li>Judicial library (in-game block logging; particle and mob mgmt.)</li>
+    </ul>
 
-<hr style="margin-top: 4.5rem;">
+  </div>
+</div>
 
-### Magisterial library
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
-
-<a class="usa-button usa-button" href="../library/magisterial">View library</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
-
-<hr style="margin-top: 4.5rem;">
-
-### Judicial library
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
-
-<a class="usa-button usa-button" href="../library/judicial">View library</a>
+<a class="usa-button usa-button" href="../library">View libraries</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a> -->
+
+<hr style="margin-top: 4.5rem;">

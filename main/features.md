@@ -1,4 +1,4 @@
----
+<!--  ---
 title: Features gallery
 permalink: /features/
 
@@ -58,4 +58,4 @@ As a philosopher once said, "It's my own fault for using PowerPoint. PowerPoint 
         <div class="usa-width-one-half">
             <img src="../assets/img/circle.png" alt="">
         </div>
-</div>
+</div>  -->
