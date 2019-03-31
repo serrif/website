@@ -33,8 +33,6 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 <hr style="margin-top: 4rem;">
 
 ## Make the connection.
-<p style="position: absolute; margin-top: -4.5rem; margin-left: 34rem; padding: 0;">--a submitted article.</p>
-
 <span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
 
 <p class="usa-font-lead" style="margin-top: 3rem;">What sets us apart- what makes us so different to ask 'why?', jump and make the connection.</p>
@@ -63,8 +61,6 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
 
   </div>
 </div>
-
-<center><img src="../assets/img/svg/plugs.svg" style="margin-top: 4rem;" alt="" width="400px"></center>
 
 <hr style="margin-top: 4rem;">
 
