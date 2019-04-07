@@ -226,12 +226,18 @@ pre {
  * Address odd `em`-unit font size rendering in all browsers.
  */
 
-code,
 kbd,
 pre,
 samp {
   font-family: monospace, monospace;
   font-size: 1em;
+}
+
+code {
+  background-color: #f1f1f1;
+  font-family: Consolas, Monaco, "Andale Mono", monospace;
+  font-size: 1.3rem;
+  padding: 0.2em;
 }
 
 /* Forms
