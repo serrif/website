@@ -1,41 +1,32 @@
-%usa-table {
-  @include border-box-sizing;
-  @include typeset;
+table {
   border-spacing: 0;
-  margin: units(2.5) 0;
+  margin: 2em 0;
+}
 
-  thead {
-    th {
-      font-weight: $theme-font-weight-bold;
-    }
-
-    th,
-    td {
-      background-color: color('base-lightest');
-    }
-  }
-
+thead {
   th {
-    text-align: left;
+    font-weight: $font-bold;
   }
 
   th,
   td {
-    @include u-border(1px, 'base-dark');
-    background-color: color('white');
-    font-weight: $theme-font-weight-normal;
-    padding: units(1) units(2);
-  }
-
-  caption {
-    @include u-font('serif', 'xs');
-    font-weight: $theme-font-weight-bold;
-    margin-bottom: units(1.5);
-    text-align: left;
+    background-color: $color-gray-lightest;
   }
 }
 
-%usa-table--borderless {
+th {
+  text-align: left;
+}
+
+th,
+td {
+  background-color: $color-white;
+  border: 1px solid $color-gray;
+  font-weight: $font-normal;
+  padding: 1rem 1.5rem;
+}
+
+.usa-table-borderless {
   thead {
     th {
       background-color: transparent;
@@ -56,10 +47,9 @@
   }
 }
 
-.usa-table {
-  @extend %usa-table;
-}
-
-.usa-table--borderless {
-  @extend %usa-table--borderless;
+caption {
+  @include h5;
+  font-family: $font-serif;
+  margin-bottom: 1.2rem;
+  text-align: left;
 }
