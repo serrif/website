@@ -25,6 +25,9 @@ secondary:
   - text: External link
     href: https://18f.gsa.gov
     external: true
+  - button:
+    text: More about us
+    href: '../docs/'
 
 docs:
   - text: Introduction
