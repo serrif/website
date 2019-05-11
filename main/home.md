@@ -15,7 +15,7 @@ hero:
       href: '../docs/'
 ---
 
-<div class="usa-alert usa-alert-info" style="padding-bottom: .5rem; padding-top: 1rem;">
+<div class="usa-alert usa-alert-success">
     <div class="usa-alert-body">
         <h3 class="usa-alert-heading">Introducing multi-version support</h3>
         <p class="usa-alert-text">Join us using the version that is favorite to you; from 1.8 to the latest, 1.13. Blocks from newer game versions may display differently for older instances.</p>
