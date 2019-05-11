@@ -22,9 +22,10 @@ hero:
     </div>
 </div>
 
-## Demo
 <div class="usa-grid">
+  <h2>Demo</h2>
   <div class="usa-width-one-half">
+    <h3>text</h3>
     <ul class="usa-accordion">
       <li>
         <button class="usa-accordion-button"
@@ -43,6 +44,7 @@ hero:
   </ul>
   </div>
   <div class="usa-width-one-half">
+    <h3>text</h3>
     <ul class="usa-accordion">
       <li>
         <button class="usa-accordion-button"
