@@ -23,10 +23,7 @@ hero:
 </div>
 
 ## Demo
-
-{% capture topic %}
 ### Topic
-
 text for this section
 
 <ul class="usa-accordion">
@@ -50,9 +47,7 @@ text for this section
   <img src="{{ site.baseurl }}/img/icons/icon-envelope.svg" alt="">
   Email us about topic
 </a>
-{% endcapture %}
 
-{% capture Subject %}
 ### Subject
 
 text for this section
@@ -79,7 +74,6 @@ text for this section
   <img src="{{ site.baseurl }}/img/logo-email.png" alt="">
   Email us about subject
 </a>
-{% endcapture %}
 
 <hr style="margin-top: 4rem;">
 
