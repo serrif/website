@@ -2,13 +2,12 @@
 title: Guidelines
 permalink: /docs/guidelines
 
-layout: post
+layout: styleguide
+lead: When members aren’t doing the right thing, admins are capable of punishing them.
+It's important for everyone to know our administration's guidelines for proper gameplay and activity.
 sidenav: docs
 
 ---
-When members aren’t doing the right thing, admins are capable of punishing them.
-It's important for everyone to know our administration's guidelines for proper gameplay and activity.
-
 ## Guidelines
 Guidelines give the community a direct and consistent set of rules.
 If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.

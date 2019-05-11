@@ -10,15 +10,15 @@ hero:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
-  button:
-      text: More about us
-      href: '../docs/'
+  #button:
+      #text: More about us
+      #href: '../docs/'
 ---
 
-<div class="usa-alert usa-alert-success">
+<div class="usa-alert usa-alert-warning">
     <div class="usa-alert-body">
-        <h3 class="usa-alert-heading">Introducing multi-version support</h3>
-        <p class="usa-alert-text">Join us using the version that is favorite to you; from 1.8 to the latest, 1.13. Blocks from newer game versions may display differently for older instances.</p>
+        <h3 class="usa-alert-heading">Interim leadership</h3>
+        <p class="usa-alert-text">The directorial staff will away for a prolonged time period, leadership has decided to appoint two of our staff members to be active directors to head the server temporarily.</p>
     </div>
 </div>
 
