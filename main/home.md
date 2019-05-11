@@ -15,7 +15,7 @@ hero:
       href: '../docs/'
 ---
 
-<div class="usa-alert usa-alert-info">
+<div class="usa-alert usa-alert-info" style="padding-bottom: .5rem; padding-top: 1rem;">
     <div class="usa-alert-body">
         <h3 class="usa-alert-heading">Introducing multi-version support</h3>
         <p class="usa-alert-text">Join us using the version that is favorite to you; from 1.8 to the latest, 1.13. Blocks from newer game versions may display differently for older instances.</p>
@@ -92,7 +92,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
-				<a href="https://github.com/NovelMC>Let us know on GitHub</a>
+				<a href="https://github.com/NovelMC">Let us know on GitHub</a>
 			</div>
 		</div>
 	</div>
