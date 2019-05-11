@@ -1,8 +1,8 @@
 ---
-title: Guidelines
 permalink: /docs/guidelines
-
-layout: styleguide
+layout: post
+title: Guidelines
+category: Documentation
 lead: When members aren’t doing the right thing, admins are capable of punishing them.
 It's important for everyone to know our administration's guidelines for proper gameplay and activity.
 sidenav: docs
