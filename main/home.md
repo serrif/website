@@ -22,49 +22,7 @@ hero:
     </div>
 </div>
 
-<div class="usa-grid">
-  <h2>Demo</h2>
-  <div class="usa-width-one-half">
-    <h3>text</h3>
-    <ul class="usa-accordion">
-      <li>
-        <button class="usa-accordion-button"
-          aria-expanded="false"
-          aria-controls="assessment-content">
-          text text text
-          </button>
-          <div id="assessment-content" class="usa-accordion-content">
-          <ul>
-            <li>would you</li>
-            <li>like a</li>
-            <li>basil plant?</li>
-          </ul>
-        </div>
-      </li>
-  </ul>
-  </div>
-  <div class="usa-width-one-half">
-    <h3>text</h3>
-    <ul class="usa-accordion">
-      <li>
-        <button class="usa-accordion-button"
-          aria-expanded="false"
-          aria-controls="assessment-content">
-          text text text
-          </button>
-          <div id="assessment-content" class="usa-accordion-content">
-          <ul>
-            <li>would you</li>
-            <li>like a</li>
-            <li>basil plant?</li>
-          </ul>
-        </div>
-      </li>
-  </ul>
-  </div>
-</div>
-
-<hr style="margin-top: 4rem;">
+<!-- <hr style="margin-top: 4rem;"> -->
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
