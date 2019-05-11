@@ -10,27 +10,17 @@ hero:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
   content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
-  #button:
-      #text: More about us
-      #href: '../docs/'
+  button:
+      text: More about us
+      href: '../docs/'
 ---
 
-<div class="usa-alert usa-alert-success">
+<div class="usa-alert usa-alert-info">
     <div class="usa-alert-body">
-        <h3 class="usa-alert-heading">Send us your feedback</h3>
-        <p class="usa-alert-text">We've introduced a website as the new home of the server on the web. Help us improve it with your feedback. Let us know <a href="https://discord.gg/JEVVpS"> on Discord</a>.</p>
+        <h3 class="usa-alert-heading">Introducing multi-version support</h3>
+        <p class="usa-alert-text">Join us using the version that is favorite to you; from 1.8 to the latest, 1.13. Blocks from newer game versions may display differently for older instances.</p>
     </div>
 </div>
-
-
-## Introducing multi-version support
-
-Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
-{: .usa-font-lead }
-
-<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Blocks from newer game versions may display differently for older instances.</h6>
-
-<hr style="margin-top: 4rem;">
 
 ## Make the connection.
 <span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
@@ -43,7 +33,7 @@ Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
     <ul>
       <li>Security first. A heightened awareness for security and privacy.</li>
       <li>Consistency, simplicity and organization. Everything is in one place, no surprises.</li>
-      <li>Open-source. (Ready to be adapted)!</li>
+      <li>Open-source and ready to be adapted!</li>
       <li>Help always accessible. Our documentation means you won't be lost.</li>
       <li>Responsible support. Get in touch five different ways whenever you need support.</li>
     </ul>
@@ -86,7 +76,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Contribute to the code</h3>
 		<p style="margin-bottom: 1rem; max-width: 65rem;">Our GitHub organization includes public, open-source code; which powers our server, and other portions of the service. Anyone can fork and contribute.</p>
-		<a class="usa-button usa-button" href="https://github.com/novelmc">Watch</a>
+		<a class="usa-button usa-button" href="https://github.com/NovelMC">Watch</a>
         </div>
 </div>
 
@@ -102,7 +92,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
-				<a href="https://discordapp.com/invite/nuNTR3U">Ask us on Discord</a>
+				<a href="https://github.com/NovelMC>Let us know on GitHub</a>
 			</div>
 		</div>
 	</div>
@@ -111,7 +101,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-message.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
-				<a href="https://forum.novelmc.net">Register for our forum</a>
+				<a href="https://discordapp.com/invite/nuNTR3U">Join us on Discord</a>
 			</div>
 		</div>
 	</div>
