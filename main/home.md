@@ -22,35 +22,64 @@ hero:
     </div>
 </div>
 
-## Make the connection.
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
+## Demo
 
-<p class="usa-font-lead" style="margin-top: 3rem;">What sets us apart- what makes us so different to ask 'why?', jump and make the connection.</p>
+{% capture topic %}
+### Topic
 
-<div class="usa-grid-full">
-  <div class="usa-width-one-third">
+text for this section
 
-    <ul>
-      <li>Security first. A heightened awareness for security and privacy.</li>
-      <li>Consistency, simplicity and organization. Everything is in one place, no surprises.</li>
-      <li>Open-source and ready to be adapted!</li>
-      <li>Help always accessible. Our documentation means you won't be lost.</li>
-      <li>Responsible support. Get in touch five different ways whenever you need support.</li>
-    </ul>
+<ul class="usa-accordion">
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="assessment-content">
+      text text text
+    </button>
+    <div id="assessment-content" class="usa-accordion-content">
+      <ul>
+        <li>would you</li>
+        <li>like a</li>
+        <li>basil plant?</li>
+      </ul>
+    </div>
+  </li>
+</ul>
 
-  </div>
-  <div class="usa-width-one-third">
+<a href="mailto:support@novelmc.net" class="usa-button cta" onclick="ga('send', 'event', 'Clicked Assessment CTA', 'Clicked assessment call to action');">
+  <img src="{{ site.baseurl }}/img/icons/icon-envelope.svg" alt="">
+  Email us about topic
+</a>
+{% endcapture %}
 
-    <ul>
-      <li>Advanced plugins for architecture. Build how you want.</li>
-      <li>Universally secure. Constant server logging and archiving, [literally] block by block.</li>
-      <li>Always backed up. Never lose your work or worry about deletion.</li>
-      <li>Worlds galore. You aren't limited by what one single world has to offer.</li>
-      <li>Crazy fast. Speedy and reliable, with adequate storage for anyone and everyone.</li>
-    </ul>
+{% capture Subject %}
+### Subject
 
-  </div>
-</div>
+text for this section
+
+<ul class="usa-accordion">
+  <li>
+    <button class="usa-accordion-button"
+      aria-expanded="false"
+      aria-controls="customization-content">
+      text text text
+    </button>
+    <div id="customization-content" class="usa-accordion-content">
+      <ul>
+        <li>the accordion</li>
+        <li>it's</li>
+        <li>in</li>
+        <li>the?</li>
+      </ul>
+    </div>
+  </li>
+</ul>
+
+<a href="mailto:support@novelmc.net" class="usa-button cta" onclick="ga('send', 'event', 'Clicked Customization CTA', 'Clicked customization call to action');">
+  <img src="{{ site.baseurl }}/img/logo-email.png" alt="">
+  Email us about subject
+</a>
+{% endcapture %}
 
 <hr style="margin-top: 4rem;">
 
