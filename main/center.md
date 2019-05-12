@@ -8,9 +8,6 @@ hero:
   image: ../assets/img/hero/aJyfgGb.png
   callout:
     text: Information center
-  button:
-      text: Translation initiative
-      href: '../docs/translating'
 
 tagline: We're a modern, creative community.
 ---

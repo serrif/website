@@ -61,7 +61,7 @@ library:
     external: true
 
 particulars:
-  - text: Features library
+  - text: Features gallery
     href: /features/
     external: true
   - text: Documentation

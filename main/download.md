@@ -1,5 +1,5 @@
 ---
-title: Download information files
+title: Download resources
 permalink: /download/
 
 layout: post
@@ -16,7 +16,7 @@ Transparency and security first, everyone has a right to server information.
 
 <hr style="margin-top: 3rem;">
 
-## Downloadable information files
+## Downloadable resources
 Here you'll find all the assets you need to view information offline.
 
 ### Documentation
