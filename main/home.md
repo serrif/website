@@ -18,9 +18,12 @@ hero:
 <div class="usa-alert usa-alert-warning">
     <div class="usa-alert-body">
         <h3 class="usa-alert-heading">Interim leadership</h3>
-        <p class="usa-alert-text">The directorial staff will away for a prolonged time period, leadership has decided to appoint two of our staff members to be active directors to head the server temporarily.</p>
+        <p class="usa-alert-text">The directorial staff will away for a prolonged time period, leadership has decided to appoint two of our staff members to be active directors to head the server temporarily. </p>
     </div>
 </div>
+
+<label for="range-slider">Have you ever wanted to rate an end-to-end creative platform for a spontaneous architect with hand-written legislation on the handy, United States Web Design System range slider module?</label>
+<input id="range-slider" type="range" min="0" max="100" step="10" value="20">
 
 <!-- <hr style="margin-top: 4rem;"> -->
 
