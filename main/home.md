@@ -22,9 +22,6 @@ hero:
     </div>
 </div>
 
-<label for="range-slider">Have you ever wanted to rate an end-to-end creative platform for a spontaneous architect with hand-written legislation on the handy, United States Web Design System range slider module?</label>
-<input id="range-slider" type="range" min="0" max="100" step="10" value="20">
-
 <!-- <hr style="margin-top: 4rem;"> -->
 
 ## Join the community
