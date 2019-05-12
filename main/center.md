@@ -44,7 +44,7 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
   </div>
 
 <a class="usa-button usa-button" href="../docs">View docs</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>
 
 <hr style="margin-top: 4.5rem;">
 
@@ -71,4 +71,4 @@ Specified information on proprietary extensions, server plugins, and on-board so
 </div>
 
 <a class="usa-button usa-button" href="../library">View libraries</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>
