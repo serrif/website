@@ -40,9 +40,9 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
 <a class="usa-button usa-button" href="../docs">View docs</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a>
 
-<hr style="margin-top: 4.5rem;">
+<!--<hr style="margin-top: 4.5rem;">
 
-<!-- ## Campaign libraries
+## Campaign libraries
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
 
 <div class="usa-grid-full">
@@ -65,6 +65,6 @@ Specified information on proprietary extensions, server plugins, and on-board so
 </div>
 
 <a class="usa-button usa-button" href="../library">View libraries</a>
-<a class="usa-button usa-button-secondary" href="../docs">Download</a> -->
+<a class="usa-button usa-button-secondary" href="../docs">Download</a>
 
-<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 4.5rem;">-->

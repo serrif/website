@@ -21,14 +21,14 @@ subnav:
     href: '#shop-management'
   - text: "Other commands"
     href: '#economy'
-  - 
+  -
   - text: "Website"
     href: '#website'
   - text: "Homepage"
     href: '#homepage'
   - text: "Social media"
     href: '#social-media'
-  - 
+  -
   - text: "Guild"
     href: '#guild'
   - text: "Channels"
@@ -60,7 +60,7 @@ Using a port isn't required but if you need one there's `25565`.
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
  * `/mem` - An alias of the previous command and serves the same function.
- 
+
 You can also view and lookup other members, as opposed to the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
@@ -73,7 +73,7 @@ You can also view and lookup other members, as opposed to the default tab list.
  * `/list -a` - Displays a list of members, with administrator, on the server.
  * `/whois <name>` - Provides advanced information regarding a member.
  * `/realname <name>` - Finds a member's username from their nickname (if they have one).
- 
+
 Nearby members can be located with a couple of proximity-sensing commands.
 
  * `/radar` - Displays a list of nearby members and their proximity to you.
@@ -90,7 +90,7 @@ We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_P
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
  * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
- 
+
 #### Mail usage
 The `/mail` function can be used to send, receive, and manage messages.
 Keep in mind that all messages must comply with our guidelines or they'll be removed.
@@ -112,10 +112,10 @@ Money is presented in the form of coins and you can manage them.
 #### Using the shop
 To earn coins, you can [vote](https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/vote/) for the server and complete in-game chat reactions.
 Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
- 
+
  * `/coins` - Displays your current wealth; coins attributed to your user.
  * `/shop` - Opens up the shop. From here you can purchase items.
- 
+
 #### Shop management
 Senior Admins and higher can manage the shop with an administrator tool.
 Shop management allows for economy modification and the addition of new coins.
@@ -129,7 +129,7 @@ Shop management allows for economy modification and the addition of new coins.
  * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
  * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
  * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins.
- 
+
 The `all` function will only apply to members that are online; `set` will override pre-existing coins.
 
 ### Other commands
@@ -182,9 +182,9 @@ Text channels are the focus of our guild, along with voice channels.
 We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
 
  * [`#announcements`](https://discord.gg/kpePHUP) - Executive-only channel for important stuff; updates, tweets, and articles.
- 
+
 The following channels can be used by anyone who isn't muted or removed.
- 
+
  * [`#general-chat`](https://discord.gg/3fFF2V2) - Catalyst of 'normal' content—everyday and relevant talk.
  * [`#spam-chat`](https://discord.gg/k6RHq5N) - For content that's purposeless or has been designated as spam.
  * [`#dev-chat`](https://discord.gg/XQjuvt3) - The support hotline and place for development discussion.
@@ -209,12 +209,12 @@ These are called 'titles' because they carry no permissions (unlike ranks).
 
  * **Developer** - Provided to those who make code contribution to our <a class="usa-external_link" href="https://github.com/shadowga">organisation</a>.
  * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
- 
+
 The following positions can only be granted to administrators.
 
  * **Inactive** - Attached to an inactive admin's account; provided upon request.
  * **Emeritus** - Attached to administrators designated as permanently active.
- 
+
 ### Automation
 We use bots to emulate a personal assistant for every member.
 Bots have a wide variety of control and may cover customisation to specification.
