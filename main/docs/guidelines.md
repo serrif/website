@@ -2,7 +2,7 @@
 title: Guidelines
 permalink: /docs/guidelines
 
-layout: post
+layout: docs
 sidenav: docs
 ---
 When members aren’t doing the right thing, admins are capable of punishing them.

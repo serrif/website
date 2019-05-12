@@ -6,13 +6,13 @@ layout: home
 
 hero:
   image: ../assets/img/hero/BacM6mm.png
-  callout: An end-to-end creative platform for the spontaneous architect.
-    #alt: "An end-to-end creative platform for the spontaneous architect."
-    #text:
-  content: Founded upon the moral grounds of freedom, we serve as a catalyst for architecture; and allow our members to function with minimal governance.
-  #button:
-      #text: More about us
-      #href: '../docs/'
+  callout:
+    alt: "An end-to end creative platform"
+    text: for the spontaneous architect.
+  content: An open-source network of experienced and aspiring members; designers, developers, and engineers establishing an environment for freedom.
+  button-secondary-inverse:
+      text: More about us
+      href: '../docs/'
 ---
 
 <div class="usa-alert usa-alert-warning">
