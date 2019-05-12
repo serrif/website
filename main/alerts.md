@@ -5,7 +5,7 @@ permalink: /alerts/
 layout: home
 
 hero:
-  image: ../assets/img/hero/UJ4z0Jz.png.png
+  image: ../assets/img/hero/UJ4z0Jz.png
   callout:
     text: alerts alerts alerts
   content: Houston, we have a problem
