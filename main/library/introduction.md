@@ -2,7 +2,7 @@
 title: Campaign libraries
 permalink: /library/
 
-layout: library
+layout: post
 sidenav: library
 subnav:
   - text: "Getting started"
