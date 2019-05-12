@@ -36,6 +36,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 		<h3>Engage with our members</h3>
 		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite Discord guild with which members of our in-game server can freely communicate topics; both pertinent to our service, and of everyday life.</p>
 		<a class="usa-button usa-button" href="https://discordapp.com/invite/nuNTR3U">Enroll</a>
+    <a class="usa-button usa-button-secondary" href="../docs/#guild">Learn more</a>
         </div>
 </div>
 
@@ -47,6 +48,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 		<h3>Contribute to the code</h3>
 		<p style="margin-bottom: 1rem; max-width: 65rem;">Our GitHub organization includes public, open-source code; which powers our server, and other portions of the service. Anyone can fork and contribute.</p>
 		<a class="usa-button usa-button" href="https://github.com/novelmc">Watch</a>
+    <a class="usa-button usa-button-secondary" href="../library/developer">Learn more</a>
         </div>
 </div>
 

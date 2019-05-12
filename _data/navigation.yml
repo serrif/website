@@ -61,8 +61,8 @@ library:
     external: true
 
 particulars:
-  - text: Community forum
-    href: https://forum.novelmc.net/
+  - text: Features library
+    href: /features/
     external: true
   - text: Documentation
     href: /docs/

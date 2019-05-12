@@ -5,14 +5,13 @@ permalink: /features/
 layout: home
 
 hero:
-  image: ../assets/img/hero/ohlvtwm.png
+  image: ../assets/img/hero/UJ4z0Jz.png
   callout:
     text: Features gallery
 
 tagline: We're a modern, creative community.
 ---
 
-## Features manifest
 Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
