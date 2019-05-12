@@ -46,32 +46,3 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
         </div>
 </div>
 <br>
-<!-- <div class="usa-grid">
-        <div class="usa-width-one-half">
-            <h3>Basil plant?</h3>
-            <p>I also mentioned the marmalade to my sister and she's very interested. Gretchen, I need another marmalade.</p>
-        </div>
-        <div class="usa-width-one-half">
-            <img src="../assets/img/circle.png" alt="">
-        </div>
-</div>
-<br>
-<div class="usa-grid">
-        <div class="usa-width-one-half">
-            <img src="../assets/img/gsa-logo.svg" alt="">
-        </div>
-        <div class="usa-width-one-half">
-            <h3>Basil plant?</h3>
-            <p>I also mentioned the marmalade to my sister and she's very interested. Gretchen, I need another marmalade.</p>
-        </div>
-</div>
-<br>
-<div class="usa-grid">
-        <div class="usa-width-one-half">
-            <h3>Basil plant?</h3>
-            <p>I also mentioned the marmalade to my sister and she's very interested. Gretchen, I need another marmalade.</p>
-        </div>
-        <div class="usa-width-one-half">
-            <img src="../assets/img/circle.png" alt="">
-        </div>
-</div> -->
