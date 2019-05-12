@@ -12,6 +12,12 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
+<div class="usa-alert usa-alert-error" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">All documentation and campaign library information is under construction and is unfinished. Currently all information has yet to be updated, or checked for language and grammatical proficiency.</p>
+  </div>
+</div>
+
 ## Documentation
 Learn about server-exclusive features, reference commands, and index policies with our hand-written legislation.
 {: .usa-font-lead }
@@ -40,7 +46,7 @@ Our documentative chambers provide actively-maintained (non-correlative) instruc
 <a class="usa-button usa-button" href="../docs">View docs</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a>
 
-<!--<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 4.5rem;">
 
 ## Campaign libraries
 Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
@@ -57,8 +63,8 @@ Specified information on proprietary extensions, server plugins, and on-board so
   <div class="usa-width-one-third">
 
     <ul>
-      <li>Magisterial library (w/ browser-based file server)</li>
-      <li>Judicial library (in-game block logging; particle and mob mgmt.)</li>
+      <li>Magisterial library</li>
+      <li>Judicial library</li>
     </ul>
 
   </div>
@@ -66,5 +72,3 @@ Specified information on proprietary extensions, server plugins, and on-board so
 
 <a class="usa-button usa-button" href="../library">View libraries</a>
 <a class="usa-button usa-button-secondary" href="../docs">Download</a>
-
-<hr style="margin-top: 4.5rem;">-->

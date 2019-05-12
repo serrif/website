@@ -48,10 +48,10 @@ docs:
     external: true
 
 library:
-  - text: Information
+  - text: Introduction
     href: /library/
   - text: Developer library
-    href: /library/dev
+    href: /library/developer
   - text: Magisterial library
     href: /library/magisterial
   - text: Judicial library
@@ -79,7 +79,7 @@ footer:
     href: https://discordapp.com/invite/nuNTR3U
     external: true
   - text: HTTPD server
-    href: http://b.shadow.ga:27579/schematic/list
+    href:
     external: true
   - text: Dynamic map
     href: http://map.novelmc.net/
