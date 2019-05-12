@@ -12,12 +12,17 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
+<div class="usa-alert  usa-alert-error" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">This page is under construction. Links may be unusable, and information has not been checked for language and grammatical proficiency.</p>
+  </div>
+</div>
+
 Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
-As a philosopher once said, "It's my own fault for using PowerPoint. PowerPoint is boring." So we added enough pictures, as they're all worth 1,000 words.
+This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2017, Acting Attorney General Rosenstein appointed Robert S. Mueller, ITT as Special Counsel and authorized him to conduct the Russia investigation and matters that arose from the investigation.501
 
-<hr style="margin-top: 3rem;">
 <br>
 <div class="usa-grid">
         <div class="usa-width-one-half">
@@ -25,23 +30,23 @@ As a philosopher once said, "It's my own fault for using PowerPoint. PowerPoint 
         </div>
         <div class="usa-width-one-half">
             <h3>Basil plant?</h3>
-            <p>I also mentioned the marmalade to my sister and she's very interested. Gretchen, I need another marmalade.</p>
+            <p>This is a placeholder. Here are some lines from the Mueller Report. On June 8, 2017, Corney testified before Congress about his interactions with the President before his termination, including the request for loyalty, the request that Corney " let[] Flynn go," and the request that Corney "lift the cloud" over the presidency caused by the ongoing investigation.544 </p>
             <ul class="usa-accordion">
               <li>
                 <button class="usa-accordion-button"
-                  aria-expanded="true"
+                  aria-expanded="false"
                   aria-controls="a1">
-                  this is an accordian
+                  This is a placeholder.
                 </button>
                 <div id="a1" class="usa-accordion-content">
-                  in case you need more information
+                  Here are some lines from the Mueller Report. On Monday, June 12, 2017, Christopher Ruddy, the chief executive ofNewsmax Media and a  longtime friend of the President's, met at the White House with Priebus and Bannon.547 Ruddy recalled that they told him the President was strongly considering firing the Special Counsel and that he would do so precipitously, without vetting the decision through Administration officials.548
                 </div>
               </li>
             </ul>            
         </div>
 </div>
 <br>
-<div class="usa-grid">
+<!-- <div class="usa-grid">
         <div class="usa-width-one-half">
             <h3>Basil plant?</h3>
             <p>I also mentioned the marmalade to my sister and she's very interested. Gretchen, I need another marmalade.</p>
@@ -69,4 +74,4 @@ As a philosopher once said, "It's my own fault for using PowerPoint. PowerPoint 
         <div class="usa-width-one-half">
             <img src="../assets/img/circle.png" alt="">
         </div>
-</div>
+</div> -->
