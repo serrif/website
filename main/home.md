@@ -46,7 +46,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Contribute to the code</h3>
 		<p style="margin-bottom: 1rem; max-width: 65rem;">Our GitHub organization includes public, open-source code; which powers our server, and other portions of the service. Anyone can fork and contribute.</p>
-		<a class="usa-button usa-button" href="https://github.com/NovelMC">Watch</a>
+		<a class="usa-button usa-button" href="https://github.com/novelmc">Watch</a>
         </div>
 </div>
 
@@ -62,7 +62,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-question.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Running into an issue?</p>
-				<a href="https://github.com/NovelMC">Let us know on GitHub</a>
+				<a href="https://github.com/novelmc">Let us know on GitHub</a>
 			</div>
 		</div>
 	</div>

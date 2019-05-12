@@ -6,8 +6,8 @@ layout: home
 
 hero:
   image: ../assets/img/hero/aJyfgGb.png
-  callout: Information center
-    #text: Information center
+  callout:
+    text: Information center
 
 tagline: We're a modern, creative community.
 ---
