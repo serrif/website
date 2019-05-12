@@ -25,7 +25,6 @@ main:
       </div>
     </section>
 
-    <h6 class="usa-heading-alt">DOCUMENTATION</h6>
     <main id="main-content"{% for _attr in layout.main %} {{ _attr[0] }}="{{ _attr[1] }}"{% endfor %}>
 
     {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
@@ -35,6 +34,7 @@ main:
     </aside>
 
     <div class="usa-layout-docs-main_content">
+      <h6 class="usa-heading-alt">DOCUMENTATION</h6>
       {{ content }}
     </div>
     {% else %}

@@ -10,9 +10,9 @@ hero:
     alt: "An end-to end creative platform"
     text: for the spontaneous architect.
   content: An open-source network of experienced and aspiring members; designers, developers, and engineers establishing an environment for freedom.
-  button-secondary-inverse:
-      text: More about us
-      href: '../docs/'
+  #button:
+      #text: More about us
+      #href: '../docs/'
 ---
 
 <div class="usa-alert usa-alert-warning">
