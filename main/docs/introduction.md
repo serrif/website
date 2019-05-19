@@ -49,13 +49,10 @@ If something's blocked or off-limits that you think shouldn't be, please let us 
 <hr style="margin-top: 3rem;">
 
 ## In-game server
-Our <a class="usa-external_link" href="https://minecraft.com">Minecraft</a> server is what we're built around.
-We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
+Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
 
 ### Connection
-It's easy to join the server.
-You can connect using the domain `shadow.ga` (SRV, default) or `a.shadow.ga` (A) as a server address using the direct connect box; or by adding us to your in-game list.
-Using a port isn't required but if you need one there's `25565`.
+It's easy to join the server. You can connect using the domain `shadow.ga` (SRV, default) or `a.shadow.ga` (A) as a server address using the direct connect box; or by adding us to your in-game list. Using a port isn't required but if you need one there's `25565`.
 
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
@@ -80,12 +77,10 @@ Nearby members can be located with a couple of proximity-sensing commands.
  * `/nearby` - An Essentials-based variant of the above command, tracks proximity.
  * `/near` - An alias of the previous command and serves the same function.
 
-We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`.
-Support for older client versions may change as the game updates.
+We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`. Support for older client versions may change as the game updates.
 
 ### Communication
-Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands.
-We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
+Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
 
  * `/me <text>` - Globally announces the specified text for all to see.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
