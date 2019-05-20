@@ -96,5 +96,5 @@ Our legal policies help users understand applicable laws and regulations for our
 </div>
 
 <a class="usa-button usa-button" href="../terms">View terms</a>
-<a class="usa-button usa-button-secondary" href="../privacy">View privacy</a>
+<a class="usa-button usa-button" href="../privacy">View privacy</a>
 <a class="usa-button usa-button-secondary" href="../download">Download</a>
