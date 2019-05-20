@@ -60,6 +60,15 @@ library:
 
     external: true
 
+policies:
+  - text: Terms of service
+    href: /terms/
+  - text: Privacy policy
+    href: /privacy/
+
+
+    external: true
+
 particulars:
   - text: Features gallery
     href: /features/
