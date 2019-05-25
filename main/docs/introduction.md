@@ -13,17 +13,11 @@ subnav:
     href: '#communication'
   - text: "₍₂ₐ₎ Mail usage"
     href: '#mail-usage'
-  - text: "₍₃₎ Economy"
-    href: '#economy'
-  - text: "₍₃ₐ₎ Using the shop"
-    href: '#using-the-shop'
-  - text: "₍₃ₐₐ₎ Shop management"
-    href: '#shop-management'
-  - text: "₍₄₎ Other commands"
+  - text: "₍₃₎ Other commands"
     href: '#economy'
   -
-  - text: "Website"
-    href: '#website'
+  - text: "Web services"
+    href: '#web-services'
   - text: "₍₁₎ Homepage"
     href: '#homepage'
   - text: "₍₂₎ Social media"
@@ -33,10 +27,10 @@ subnav:
     href: '#guild'
   - text: "₍₁₎ Channels"
     href: '#channels'
-  - text: "₍₂₎ Position"
-    href: '#position'
-  - text: "₍₃₎ Automation"
-    href: '#automation'
+  - text: "₍₂₎ Roles"
+    href: '#roles'
+  - text: "₍₃₎ Applications"
+    href: '#applications'
 ---
 
 "We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
@@ -49,20 +43,19 @@ If something's blocked or off-limits that you think shouldn't be, please let us 
 <hr style="margin-top: 3rem;">
 
 ## In-game server
-Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and administration.
+Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and management.
 
 ### Connection
-It's easy to join the server. You can connect using the domain `shadow.ga` (SRV, default) or `a.shadow.ga` (A) as a server address using the direct connect box; or by adding us to your in-game list. Using a port isn't required but if you need one there's `25565`.
+Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. Applying a port isn't necessary for connection  but `25565` can be appended to an address.
 
  * `/status` - Displays the server's current state and loaded worlds.
- * `/memory` - Projects memory statistics, loaded worlds, and ticks per second (TPS).
- * `/mem` - An alias of the previous command and serves the same function.
+ * `/memory` or `/mem` - Displays memory statistics, loaded worlds, and ticks per second (TPS).
 
 You can also view and lookup other members, as opposed to the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Many in-game commands with member-specific variables will only apply to those connected during the execution of your command, making specificity imperative.</p>
+    <p class="usa-alert-text">Many in-game commands displaying member-specific information will only apply to those connected during when the command was sent, making specificity imperative.</p>
   </div>
 </div>
 
@@ -100,33 +93,6 @@ Keep in mind that all messages must comply with our guidelines or they'll be rem
  * `/mail read` - Functions as an inbox; displays all (if any) messages sent to you.
  * `/mail clear` - Clears your inbox; deletes all (if any) messages sent to you.
 
-### Economy
-With an economy, members are capable of making transactions for shop items and developing their own wealth.
-Money is presented in the form of coins and you can manage them.
-
-#### Using the shop
-To earn coins, you can [vote](https://www.planetminecraft.com/server/shadowrealms---a-server-where-everyone-gets-op/vote/) for the server and complete in-game chat reactions.
-Once you build up enough coins, you can purchase from the shop; items like login messages and weapons.
-
- * `/coins` - Displays your current wealth; coins attributed to your user.
- * `/shop` - Opens up the shop. From here you can purchase items.
-
-#### Shop management
-Senior Admins and higher can manage the shop with an administrator tool.
-Shop management allows for economy modification and the addition of new coins.
-
-<div class="usa-alert usa-alert-warning" >
-  <div class="usa-alert-body">
-    <p class="usa-alert-text">Only remove or 'set' coins with the permission of an Executive or higher. Giving out coins can potentially unbalance the server economy, resulting in inflation.</p>
-  </div>
-</div>
-
- * `/manageshop coins add <amount> <user | all>` - Gives an amount of coins to someone.
- * `/manageshop coins remove <amount> <user | all>` - Takes away an amount of coins.
- * `/manageshop coins set <amount> <user | all>` - Sets a definite amount of coins.
-
-The `all` function will only apply to members that are online; `set` will override pre-existing coins.
-
 ### Other commands
 Members can manage settings directly pertinent to their character; such as gamemode and immunity to health-based damage.
 
@@ -145,7 +111,7 @@ Members can manage settings directly pertinent to their character; such as gamem
   <li><code class="highlighter-rouge">/god [on | off]</code> - Without arguments, toggles damage immunity.</li>
 </ul>
 
-## Website
+## Web services
 The website provides fundamentals; such as information, referrals, and resources.
 It's also great to master these tools, and you can start by learning how we commit different sections.
 
@@ -186,7 +152,7 @@ The following channels can be used by anyone who isn't muted or removed.
 
 Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
 
-### Position
+### Roles
 The guild uses Discord's role system for standalone designation; meaning that some roles provided to members will have no server or forum counterpart.
 These are called 'titles' because they carry no permissions (unlike ranks).
 
@@ -210,7 +176,7 @@ The following positions can only be granted to administrators.
  * **Inactive** - Attached to an inactive admin's account; provided upon request.
  * **Emeritus** - Attached to administrators designated as permanently active.
 
-### Automation
+### Applications
 We use bots to emulate a personal assistant for every member.
 Bots have a wide variety of control and may cover customisation to specification.
 They can't be used in-game.
