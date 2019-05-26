@@ -59,7 +59,7 @@ Normally, if given the choice between doing something and nothing, I’d choose 
         </div>
 </div>
 
-<div class="usa-grid" style="padding-top: 7.5rem !important; padding: 0;">
+<div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
 		<img class="footer-main-img" src="https://crafatar.com/renders/head/c8e5af826aba4dd783e8474381380cc9?scale=10&overlay" alt="" style="width: 130px; padding: 10px;">
 	</div>
