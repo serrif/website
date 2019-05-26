@@ -124,7 +124,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
 	<div class="usa-width-five-sixths footer-content">
 		<h3>untuned</h3>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">I untune the tunes, it's that simple. Don't bother trying to fix it, the strings are already broken. Subscribe to CallMeCarson.  Or my <a href=https://twitch.tv/products/untunedtv>Twitch</a>, whichever you prefer.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">I untune the tunes, it's that simple. Don't bother trying to fix it, the strings are already broken. Subscribe to CallMeCarson.</p>
         </div>
 </div>
 
