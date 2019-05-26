@@ -22,49 +22,41 @@ hero:
     </div>
 </div>
 
-## Introducing multi-version support
-
-Join us using the version that is favorite to you; from 1.8 to the latest, 1.13.
-{: .usa-font-lead }
-
-<h6 style="margin-top:-1.5rem; margin-bottom: 0; text-transform: none;">Blocks from newer game versions may display differently for older instances.</h6>
-
-### Bedrock-based clients
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1rem;">Coming soon</span>
-
-<p style="margin-top: 2em;">Upcoming to the server will be accepted connections for the multi-platform Bedrock architecture; this capability is aimed to provide cross-platform and full support for pocket devices.</p>
-
-<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-
-## Make the connection.
-<span class="usa-label" style="font-size: 12px; position: absolute; margin-top: -1.4rem;">Featured read</span>
-
-<p class="usa-font-lead" style="margin-top: 3rem;">What sets us apart- what makes us so different to ask 'why?', jump and make the connection.</p>
-
+## Amenities
 <div class="usa-grid-full">
-  <div class="usa-width-one-third">
-
-    <ul>
-      <li>A heightened awareness for security and privacy, foremost.</li>
-      <li>Consistency, simplicity and organization. Everything is in one place, no surprises.</li>
-      <li>Open-source, <a href="../download/">downloadable</a> and ready to be adapted.</li>
-      <li>Always accessible help and our documentation means you won't be lost.</li>
-      <li>Responsible and reliable support; get in touch with five different methods.</li>
+    <div class="usa-width-one-half">
+    <h3>Item one</h3>
+    <p>Amenity description two</p>
+      <ul class="usa-accordion">
+        <li>
+          <button class="usa-accordion-button"
+            aria-expanded="false"
+            aria-controls="a1">
+            Description accordion
+          </button>
+            <div id="a1" class="usa-accordion-content">
+            Content
+            </div>
+        </li>
+      </ul>
+    </div>
+    <div class="usa-width-one-half">
+    <h3>Item two</h3>
+    <p>Amenity description two</p>
+    <ul class="usa-accordion">
+      <li>
+        <button class="usa-accordion-button"
+          aria-expanded="false"
+          aria-controls="a1">
+          Description accordion
+        </button>
+          <div id="a1" class="usa-accordion-content">
+          Content
+          </div>
+      </li>
     </ul>
-
-  </div>
-  <div class="usa-width-one-third">
-
-    <ul>
-      <li>Advanced plugins for architecture; build how you want.</li>
-      <li>Universally secure w/ constant server logging and archiving; [literally] block by block.</li>
-      <li>Always backed up; never lose your work or worry about deletion.</li>
-      <li>Worlds galore and free from the limits by what one single world has to offer.</li>
-      <li>A speedy and reliable server with adequate storage for anyone and everyone.</li>
-    </ul>
-
-  </div>
-</div>
+    </div>
+</div>           
 
 <hr style="margin-top: 4rem;">
 
