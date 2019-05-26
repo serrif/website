@@ -16,8 +16,8 @@ subnav:
   - text: "₍₃₎ Other commands"
     href: '#economy'
   -
-  - text: "Web services"
-    href: '#web-services'
+  - text: "Website"
+    href: '#website'
   - text: "₍₁₎ Homepage"
     href: '#homepage'
   - text: "₍₂₎ Social media"
@@ -72,19 +72,18 @@ Nearby members can be located with a few of commands to determine member locatio
 Join us using the version that is favorite to you; from `1.8` to `1.13`. As the game updates, our support for older versions may change.
 
 ### Communication
-Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.
+Besides the chat, other forms of in-game communication can be utilized, with additional features, though a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Command_Reference">Essentials</a> features library along with several other plugins for additional functionality.
 
- * `/me <text>` - Globally announces the specified text for all to see.
+ * `/me <text>` - Globally announces the specified text. Supports formatting codes.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
  * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
 
 #### Mail usage
-The `/mail` function can be used to send, receive, and manage messages.
-Keep in mind that all messages must comply with our guidelines or they'll be removed.
+The `/mail` function can be used to send, receive, and manage messages. All messages sent must comply with our guidelines or they'll be removed.
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Mailed messages, such as <code class="highlighter-rouge">/msg</code>, can be sent to offline members—or members that aren't currently on the server during command execution. <code class="highlighter-rouge">/mail sendall</code> cannot be used by members.</p>
+    <p class="usa-alert-text">Mailed messages can be sent to offline members—or members that aren't currently on the server when the command is sent. <code class="highlighter-rouge">/mail sendall</code> is reserved for staff member use.</p>
   </div>
 </div>
 
@@ -93,39 +92,32 @@ Keep in mind that all messages must comply with our guidelines or they'll be rem
  * `/mail clear` - Clears your inbox; deletes all (if any) messages sent to you.
 
 ### Other commands
-Members can manage settings directly pertinent to their character; such as gamemode and immunity to health-based damage.
-
-<div class="usa-alert usa-alert-info" >
-  <div class="usa-alert-body">
-    <p class="usa-alert-text">Currently, spectator mode is only available to administrators. This restriction is in place to maintain privacy and prevent unwanted activity.</p>
-  </div>
-</div>
+Members can manage settings directly pertinent to their character; such as gamemode, and modifications to health-based damage.
 
 <ul>
   <li><code class="highlighter-rouge">/gamemode &lt;creative | survival | adventure | spectator&gt;</code> - Sets your gamemode.</li>
   <li><code class="highlighter-rouge">/gmc</code> <code class="highlighter-rouge">/gms</code> <code class="highlighter-rouge">/gma</code> <code class="highlighter-rouge">/gmsp</code> - Alias(es); they set your gamemode, specifically.</li>
 </ul>
 <ul>
-  <li><code class="highlighter-rouge">/heal</code> - If affected by damage, resets your health and hunger.</li>
+  <li><code class="highlighter-rouge">/heal</code> - Resets your health and hunger, if affected.</li>
   <li><code class="highlighter-rouge">/god [on | off]</code> - Without arguments, toggles damage immunity.</li>
 </ul>
 
-## Web services
-The website provides fundamentals; such as information, referrals, and resources.
-It's also great to master these tools, and you can start by learning how we commit different sections.
+## Website
+Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit different sections of our site is helpful for effective server navigation.
 
 ### Homepage
-Our homepage is the first page enveloping `shadow.ga`—you know, with the funny text and big red mountains.
-Other pages branching from our homepage (such as error pages) can provide material.
-This and akin files are powered by [Jekyll](https://jekyllrb.com/) and [Flarum](http://flarum.org/).
+Our homepage encompasses `novelmc.net` —with its features builds, and the blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
-We provide guidelines, instructions, and guides on our documentation; so newcomers can learn with ease.
-You're even reading a docs page right now and you can jump to pages with the left-hand table.
+We provide instructions, policy, and guides on our documentation; so everyone can learn with easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
 
-> **Notes** and **tips** like this one signify knowledge that isn't necessarily definite but important. **Upcoming** blocks detail assets we're still trying to implement—also subject to revision.
+<div class="usa-alert usa-alert-info" >
+  <div class="usa-alert-body">
+    <p class="usa-alert-text">We use information cards in our documentation pages to signify upcoming important information. Warning cards are also used for developmental and provisional information.</p>
+  </div>
+</div>
 
-Everyone should thoroughly read our documentation so they know how to get around.
-Information also helps with using the exclusive features of our server, forum, and other resources.
+Everyone should thoroughly read our documentation so they know how to get around and assist other users. Information also helps with using the advanced (and exclusive) features of our server, and other resources.
 
 ### Social media
 Social media is used for communicating announcements and other important information.
