@@ -5,7 +5,7 @@ permalink: /features/
 layout: home
 
 hero:
-  image: ../assets/img/hero/UJ4z0Jz.png
+  image: ../assets/img/hero/ohlvtwm.png
   callout:
     text: Features gallery
 

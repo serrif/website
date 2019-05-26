@@ -107,7 +107,7 @@ Members can manage settings directly pertinent to their character; such as gamem
 Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit different sections of our site is helpful for effective server navigation.
 
 ### Homepage
-Our homepage encompasses `novelmc.net` —with its features builds, and the blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
+Our homepage encompasses `novelmc.net` —with its features builds, and the blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
 We provide instructions, policy, and guides on our documentation; so everyone can learn with easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
 
