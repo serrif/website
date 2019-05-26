@@ -25,8 +25,8 @@ hero:
 ## Amenities
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
-    <h3>Item one</h3>
-    <p>Amenity description two</p>
+      <h3>Item one</h3>
+      <p>Amenity description two</p>
       <ul class="usa-accordion">
         <li>
           <button class="usa-accordion-button"
@@ -41,8 +41,8 @@ hero:
       </ul>
     </div>
     <div class="usa-width-one-half">
-    <h3>Item two</h3>
-    <p>Amenity description two</p>
+      <h3>Item two</h3>
+      <p>Amenity description two</p>
     <ul class="usa-accordion">
       <li>
         <button class="usa-accordion-button"

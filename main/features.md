@@ -17,23 +17,35 @@ Learn about everything we provide to our users from our web services to those in
 
 This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2017, Acting Attorney General Rosenstein appointed Robert S. Mueller, ITT as Special Counsel and authorized him to conduct the Russia investigation and matters that arose from the investigation.501
 
+<br>
 <div class="usa-grid-full">
         <div class="usa-width-one-third">
             <h3>Basil plant?</h3>
-            <p>This is a placeholder. Here are some lines from the Mueller Report. On June 8, 2017, Corney testified before Congress about his interactions with the President before his termination, including the request for loyalty, the request that Corney " let[] Flynn go," and the request that Corney "lift the cloud" over the presidency caused by the ongoing investigation.544 </p>
+            <p>That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.</p>
         </div>
         <div class="usa-width-two-thirds">
-            <img src="../assets/img/gsa-logo.svg" alt="">   
+            <img src="../assets/img/hero/BacM6mm.png" alt="">   
         </div>
+</div>
+
+<div class="usa-grid-full">
+    <div class="usa-width-one-half">
+      <h2>Item one</h2>
+      <p>No home is complete without a proper toolbox. Here’s April and Andy’s: A hammer, a half-eaten pretzel, a baseball card, some cartridge that says Sonic and Hedgehog, a scissor half, a flashlight filled with jellybeans.</p>
+    </div>
+    <div class="usa-width-one-half">
+      <h2>Item two</h2>
+      <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
+    </div>
 </div>
 
 <br>
 <div class="usa-grid-full">
         <div class="usa-width-two-thirds">
-            <img src="../assets/img/gsa-logo.svg" alt="">
+            <img src="../assets/img/hero/BacM6mm.png" alt="">
         </div>
         <div class="usa-width-one-third">
-            <h3>Basil plant?</h3>
-            <p>This is a placeholder. Here are some lines from the Mueller Report. On June 8, 2017, Corney testified before Congress about his interactions with the President before his termination, including the request for loyalty, the request that Corney " let[] Flynn go," and the request that Corney "lift the cloud" over the presidency caused by the ongoing investigation.544 </p>        
+            <h3>Marmalade?</h3>
+            <p>My dream is to have the park system privatized and run entirely for profit by corporations, like Chuck E. Cheese. They have an impeccable business model. I would rather work for Chuck E. Cheese.</p>        
         </div>
 </div>
