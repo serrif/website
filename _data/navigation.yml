@@ -71,7 +71,7 @@ policies:
 
 particulars:
   - text: Staff directory
-    href: /features/
+    href: /staff/
     external: true
   - text: Features gallery
     href: /features/

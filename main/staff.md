@@ -125,7 +125,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>untuned</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6rem; padding: 0;">--@untuned#0001</p>
+    <p style="position: absolute; margin-top: -3.8rem; margin-left: 9rem; padding: 0;">--@untuned#0001</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">I untune the tunes, it's that simple. Don't bother trying to fix it, the strings are already broken. Subscribe to CallMeCarson.</p>
         </div>
