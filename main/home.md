@@ -23,38 +23,15 @@ hero:
 </div>
 
 ## Amenities
+Information paragraph.
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h3>Item one</h3>
       <p>Amenity description two</p>
-      <ul class="usa-accordion">
-        <li>
-          <button class="usa-accordion-button"
-            aria-expanded="false"
-            aria-controls="a1">
-            Description accordion
-          </button>
-            <div id="a1" class="usa-accordion-content">
-            Content
-            </div>
-        </li>
-      </ul>
     </div>
     <div class="usa-width-one-half">
       <h3>Item two</h3>
       <p>Amenity description two</p>
-    <ul class="usa-accordion">
-      <li>
-        <button class="usa-accordion-button"
-          aria-expanded="false"
-          aria-controls="a1">
-          Description accordion
-        </button>
-          <div id="a1" class="usa-accordion-content">
-          Content
-          </div>
-      </li>
-    </ul>
     </div>
 </div>           
 

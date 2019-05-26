@@ -15,9 +15,9 @@ tagline: We're a modern, creative community.
 Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
-This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2017, Acting Attorney General Rosenstein appointed Robert S. Mueller, ITT as Special Counsel and authorized him to conduct the Russia investigation and matters that arose from the investigation.501
+## Gallery
+Our in-game server and other platforms are on the forefront of security and are filled to the brim with advanced features. Here are some of the features that make our freedom environment unique.
 
-<br>
 <div class="usa-grid-full">
         <div class="usa-width-one-third">
             <h3>Basil plant?</h3>
@@ -28,7 +28,7 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
         </div>
 </div>
 
-<hr style="margin-top: 2rem; margin-bottom: 2rem;">
+<hr style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Item one</h2>
@@ -39,7 +39,6 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
-<br>
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Item three</h2>
@@ -50,7 +49,7 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
-<hr style="margin-top: 2rem; margin-bottom: 2rem;">
+<hr style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
 
 <div class="usa-grid-full">
         <div class="usa-width-two-thirds">

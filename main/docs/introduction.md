@@ -64,7 +64,7 @@ You can also view and lookup other members, as opposed to the default tab list.
  * `/whois <name>` - Provides advanced information regarding a member.
  * `/realname <name>` - Finds a member's username from their nickname (if they have one).
 
-Nearby members can be located with a few of commands to determine member location.
+Nearby members can be located with a few proximity commands.
 
  * `/radar` - Displays a list of nearby members and their proximity to you.
  * `/nearby`  or `/near` - An Essentials-based variant of the above command, tracks proximity.
@@ -72,7 +72,7 @@ Nearby members can be located with a few of commands to determine member locatio
 Join us using the version that is favorite to you; from `1.8` to `1.13`. As the game updates, our support for older versions may change.
 
 ### Communication
-Besides the chat, other forms of in-game communication can be utilized, with additional features, though a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Command_Reference">Essentials</a> features library along with several other plugins for additional functionality.
+Besides the chat, we offer other features to take advantage of messaging, with additional features, though a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Command_Reference">Essentials</a> features library along with several other plugins for additional functionality.
 
  * `/me <text>` - Globally announces the specified text. Supports formatting codes.
  * `/msg <user> <text>` - Privately sends a message (`<text>`) to another member (`<user>`).
@@ -92,7 +92,7 @@ The `/mail` function can be used to send, receive, and manage messages. All mess
  * `/mail clear` - Clears your inbox; deletes all (if any) messages sent to you.
 
 ### Other commands
-Members can manage settings directly pertinent to their character; such as gamemode, and modifications to health-based damage.
+Members can manage settings relating to their character; such as gamemode, and modifications to health-based damage.
 
 <ul>
   <li><code class="highlighter-rouge">/gamemode &lt;creative | survival | adventure | spectator&gt;</code> - Sets your gamemode.</li>
@@ -104,12 +104,12 @@ Members can manage settings directly pertinent to their character; such as gamem
 </ul>
 
 ## Website
-Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit different sections of our site is helpful for effective server navigation.
+Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit different sections of our site is helpful to know how to get around the server.
 
 ### Homepage
-Our homepage encompasses `novelmc.net` —with its features builds, and the blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
+Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
-We provide instructions, policy, and guides on our documentation; so everyone can learn with easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
+We provide instructions, policy, and guides on our documentation; so everyone can learn easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
@@ -117,17 +117,15 @@ We provide instructions, policy, and guides on our documentation; so everyone ca
   </div>
 </div>
 
-Everyone should thoroughly read our documentation so they know how to get around and assist other users. Information also helps with using the advanced (and exclusive) features of our server, and other resources.
+Everyone should thoroughly read our documentation to familiarize themselves with server procedure and policy. Information also helps with using the advanced (and exclusive) features of our server, and other resources.
 
 ### Social media
-Social media is used for communicating announcements and other important information.
-We have a [Twitter](/twitter/) for sending quick messages and all tweets are relayed to the guild in #announcements.
+Social media is used for brief informational updates to our members. We have a <a class="usa-external_link" href="../twitter/">Twitter</a> for updating our members on what's happening.
 
-Our [GitHub](/github/) organization is great for the open-source development of resources such as this website—and don't forget our Medium [blog](/blog/).
+Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
 ## Guild
-The guild is our <a class="usa-external_link" href="https://discordapp.com">Discord</a> server where anyone can talk to each other in real time.
-This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
+The guild is our community on <a class="usa-external_link" href="https://discordapp.com">Discord</a> where anyone can talk to each other in real time. This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
 
 ### Channels
 Text channels are the focus of our guild, along with voice channels.
