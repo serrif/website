@@ -28,7 +28,7 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
         </div>
 </div>
 
-<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+<hr style="margin-top: 3.5rem; margin-bottom: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Item one</h2>
@@ -39,7 +39,17 @@ This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
-<hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+<div class="usa-grid-full">
+    <div class="usa-width-one-half">
+      <h2>Item three</h2>
+      <p>No home is complete without a proper toolbox. Here’s April and Andy’s: A hammer, a half-eaten pretzel, a baseball card, some cartridge that says Sonic and Hedgehog, a scissor half, a flashlight filled with jellybeans.</p>
+    </div>
+    <div class="usa-width-one-half">
+      <h2>Item four</h2>
+      <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
+    </div>
+</div>
+<hr style="margin-top: 1.5rem; margin-bottom: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 
 <div class="usa-grid-full">
         <div class="usa-width-two-thirds">
