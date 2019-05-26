@@ -55,22 +55,21 @@ You can also view and lookup other members, as opposed to the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Many in-game commands displaying member-specific information will only apply to those connected during when the command was sent, making specificity imperative.</p>
+    <p class="usa-alert-text">Many in-game commands displaying member-specific information will only apply to those connected during when the command was sent. Make sure those commands are accurate and specific.</p>
   </div>
 </div>
 
  * `/list` - Displays a list of members currently on the server.
- * `/list -a` - Displays a list of members, with administrator, on the server.
+ * `/list -s` - Displays a list of members, with staff privileges on the server.
  * `/whois <name>` - Provides advanced information regarding a member.
  * `/realname <name>` - Finds a member's username from their nickname (if they have one).
 
-Nearby members can be located with a couple of proximity-sensing commands.
+Nearby members can be located with a few of commands to determine member location.
 
  * `/radar` - Displays a list of nearby members and their proximity to you.
- * `/nearby` - An Essentials-based variant of the above command, tracks proximity.
- * `/near` - An alias of the previous command and serves the same function.
+ * `/nearby`  or `/near` - An Essentials-based variant of the above command, tracks proximity.
 
-We provide support for both newer and older clients, from `1.12.2` all the way back to `1.7.2`. Support for older client versions may change as the game updates.
+Join us using the version that is favorite to you; from `1.8` to `1.13`. As the game updates, our support for older versions may change.
 
 ### Communication
 Besidies the chat, other forms of in-game communication can be utilised with a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Main_Page">Essentials</a> features library along with several other plugins.

@@ -1,6 +1,6 @@
 ---
-title: Guidelines
-permalink: /docs/guidelines
+title: Policy
+permalink: /docs/policy
 
 layout: post
 sidenav: docs
