@@ -12,13 +12,13 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-"We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
+I like saying ‘No,’ it lowers their enthusiasm.
 {: .usa-font-lead }
 
 ## Authority
-In lieu of anarchy, encompassed by the failing mechanisms of a non-productive community, instating means of governance provides the level of stability needed by, and for, our server's members.
+My idea of a perfect government is one guy who sits in a small room at a desk, and the only thing he's allowed to decide is who to nuke. The man is chosen based on some kind of IQ test, and maybe also a physical tournament, like a decathlon. And women are brought to him, maybe...when he desires them.
 
-Rather than being ruled by the few (oligarchy), per-habilitas––as per one's ability––is intated unto Aedificium. Chosen per skill.
+I regret nothing. The end.
 
 ### Directors
 That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.
