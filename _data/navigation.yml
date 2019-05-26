@@ -70,6 +70,9 @@ policies:
     external: true
 
 particulars:
+  - text: Staff directory
+    href: /features/
+    external: true
   - text: Features gallery
     href: /features/
     external: true
@@ -78,9 +81,6 @@ particulars:
     external: true
   - text: Campaign libraries
     href: /library/
-    external: true
-  - text: Legal policies
-    href: /policies/
     external: true
 
 footer:

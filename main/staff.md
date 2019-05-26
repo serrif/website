@@ -29,6 +29,7 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>serrif</h3>
+    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6rem; padding: 0;">--@serrif#0484</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them.</p>
         </div>
@@ -86,9 +87,10 @@ Normally, if given the choice between doing something and nothing, I’d choose 
 		<img class="footer-main-img" src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?scale=10&overlay" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
-		<h3>ScarletCrusade</h3>
+		<h3>Rylie</h3>
+    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6rem; padding: 0;">--@Rylie R. Shadowsynth#2839</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">I do stuff with computers as a hobby (well, more so because it's all I'm good with) and love messing with software. If you've got any questions, feel free to hit me up!</p>
         </div>
 </div>
 
@@ -123,6 +125,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>untuned</h3>
+    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6rem; padding: 0;">--@untuned#0001</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">If any of you need anything at all, too bad. Deal with your problems yourselves, like adults.</p>
         </div>
