@@ -12,19 +12,13 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-<div class="usa-alert  usa-alert-error" >
-  <div class="usa-alert-body">
-    <p class="usa-alert-text">This page is under construction. Links may be unusable, and information has not been checked for language and grammatical proficiency.</p>
-  </div>
-</div>
-
 Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
 This is a placeholder. Here are some lines from the Mueller Report. On May 17, 2017, Acting Attorney General Rosenstein appointed Robert S. Mueller, ITT as Special Counsel and authorized him to conduct the Russia investigation and matters that arose from the investigation.501
 
 <br>
-<div class="usa-grid">
+<div class="usa-grid-full">
         <div class="usa-width-one-half">
             <img src="../assets/img/gsa-logo.svg" alt="">
         </div>

@@ -12,6 +12,7 @@
 @mixin h2 {
   font-size: $h2-font-size;
   font-weight: $font-bold;
+  color: #205493;
 }
 
 @mixin h3 {

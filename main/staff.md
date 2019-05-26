@@ -88,7 +88,7 @@ Normally, if given the choice between doing something and nothing, I’d choose 
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Rylie</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6rem; padding: 0;">--@Rylie R. Shadowsynth#2839</p>
+    <p style="position: absolute; margin-top: -3.8rem; margin-left: 5.5rem; padding: 0;">--@Rylie R. Shadowsynth#2839</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">I do stuff with computers as a hobby (well, more so because it's all I'm good with) and love messing with software. If you've got any questions, feel free to hit me up!</p>
         </div>
