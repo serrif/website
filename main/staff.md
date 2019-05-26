@@ -29,7 +29,7 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>serrif</h3>
-    <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+    <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them.</p>
         </div>
 </div>
@@ -43,7 +43,7 @@ Normally, if given the choice between doing something and nothing, I’d choose 
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>detectiv</h3>
-    <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+    <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">Give a man a fish and feed him for a day. Don’t teach a man to fish...and feed yourself. He’s a grown man. And fishing’s not that hard.</p>
         </div>
 </div>
@@ -54,7 +54,7 @@ Normally, if given the choice between doing something and nothing, I’d choose 
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>anishh</h3>
-    <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+    <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">History began on July 4, 1776. Everything that happened before that was a mistake.</p>
         </div>
 </div>
@@ -65,7 +65,7 @@ Normally, if given the choice between doing something and nothing, I’d choose 
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Paldiu</h3>
-    <hr style="margin-top: 3.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+    <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
 		<p style="margin-bottom: 1rem; max-width: 65rem;">Fishing is for sport only. Fish meat is practically a vegetable.</p>
         </div>
 </div>
