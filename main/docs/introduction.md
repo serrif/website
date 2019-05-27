@@ -104,7 +104,7 @@ Members can manage settings relating to their character; such as gamemode, and m
 </ul>
 
 ## Website
-Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit to different sections of our site is helpful to know how to get around the server.
+Our website provides essential information as the center of server operation; housing explore pages, resources, and information. Learning how we commit to different sections of our site is helpful to know how to get around the server.
 
 ### Homepage
 Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
