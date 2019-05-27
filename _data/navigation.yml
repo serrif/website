@@ -14,8 +14,8 @@
 primary:
   - text: Information center
     href: /center/
-  - text: Particulars
-    links: particulars
+  - text: Explore
+    links: explore
   - text: Resources
     links: footer
   - text: Blog
@@ -69,7 +69,7 @@ policies:
 
     external: true
 
-particulars:
+explore:
   - text: Staff directory
     href: /staff/
     external: true
