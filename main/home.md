@@ -21,7 +21,7 @@ hero:
         <p class="usa-alert-text">The directorial staff will away for a prolonged time period, leadership has decided to appoint two of our staff members to be active directors to head the server temporarily. </p>
     </div>
 </div>
-
+<!--
 ## Amenities
 Information paragraph.
 <div class="usa-grid-full">
@@ -33,7 +33,7 @@ Information paragraph.
       <h3>Item two</h3>
       <p>Amenity description two</p>
     </div>
-</div>           
+</div> -->          
 
 <hr style="margin-top: 4rem;">
 

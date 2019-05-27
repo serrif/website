@@ -15,9 +15,16 @@ tagline: We're a modern, creative community.
 Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
+All of our features are added with stability and security in mind.
+<br>
+If any additional feature violates one of these principles, please let us know.
+
+<hr style="margin-top: 3rem;">
+
 ## Gallery
 Our in-game server and other platforms are on the forefront of security and are filled to the brim with advanced features. Here are some of the features that make our freedom environment unique.
 
+<br>
 <div class="usa-grid-full">
         <div class="usa-width-one-third">
             <h3>Basil plant?</h3>
@@ -28,7 +35,7 @@ Our in-game server and other platforms are on the forefront of security and are 
         </div>
 </div>
 
-<hr style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
+<hr style="margin-top: 3rem; margin-bottom: 3rem;">
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Item one</h2>
@@ -39,6 +46,7 @@ Our in-game server and other platforms are on the forefront of security and are 
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
+<br>
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Item three</h2>
@@ -49,7 +57,7 @@ Our in-game server and other platforms are on the forefront of security and are 
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
-<hr style="margin-top: 2.5rem; margin-bottom: 2.5rem;">
+<hr style="margin-top: 3rem; margin-bottom: 3rem;">
 
 <div class="usa-grid-full">
         <div class="usa-width-two-thirds">

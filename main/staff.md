@@ -12,8 +12,14 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-I like saying ‘No,’ it lowers their enthusiasm.
+We strive to have an effective, reliable, and supportive staff team. Careful selection and management is evaluated in those of authority.
 {: .usa-font-lead }
+
+Effective relationships with our members is a building block of our architectural environment.
+<br>
+Values of quality across the board with our staff members shapes the server's identity.
+
+<hr style="margin-top: 3rem;">
 
 ## Authority
 My idea of a perfect government is one guy who sits in a small room at a desk, and the only thing he's allowed to decide is who to nuke. The man is chosen based on some kind of IQ test, and maybe also a physical tournament, like a decathlon. And women are brought to him, maybe...when he desires them.

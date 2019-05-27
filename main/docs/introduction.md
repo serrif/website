@@ -43,7 +43,7 @@ If something's blocked or off-limits that you think shouldn't be, please let us 
 <hr style="margin-top: 3rem;">
 
 ## In-game server
-Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. We provide operator permissions for anyone without hassle, an assortment of plugins, and powerful tools for building and management.
+Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Operator permissions are provided to anyone without hassle, with an assortment of plugins, and powerful tools for building and management.
 
 ### Connection
 Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. Applying a port isn't necessary for connection  but `25565` can be appended to an address.
@@ -104,7 +104,7 @@ Members can manage settings relating to their character; such as gamemode, and m
 </ul>
 
 ## Website
-Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit different sections of our site is helpful to know how to get around the server.
+Our website provides essential information as the center of server operation; housing particulars, resources, and information. Learning how we commit to different sections of our site is helpful to know how to get around the server.
 
 ### Homepage
 Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
