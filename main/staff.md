@@ -12,7 +12,7 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-We strive to have an effective, reliable, and supportive staff team. Careful selection and management is evaluated in those of authority.
+We strive to have an effective, reliable, and supportive staff team. Careful selection and management is invested in those of authority.
 {: .usa-font-lead }
 
 Effective relationships with our members is a building block of our architectural environment.
