@@ -132,6 +132,7 @@ main {
 .usa-logo-text {
   @include media($nav-width) {
     font-size: 3rem;
+    color:
   }
 }
 
@@ -144,6 +145,7 @@ main {
 .usa-nav-primary > li > a {
   @include media($nav-width) {
     padding: 1rem 1.5rem;
+    color: $color-white;
   }
 }
 

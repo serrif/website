@@ -16,6 +16,7 @@ $z-index-nav:     9000;
 
   @include media($nav-width) {
     border-bottom: 1rem solid $color-gold;
+    background: $color-blue-darkest;
   }
 
   a {
@@ -60,6 +61,7 @@ $z-index-nav:     9000;
   font-style: normal;
   font-weight: $font-bold;
   margin: 0;
+  color: $color-white;
 
   @include media($nav-width) {
     display: block;
