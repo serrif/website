@@ -15,7 +15,7 @@ $z-index-nav:     9000;
   z-index: $z-index-header;
 
   @include media($nav-width) {
-    border-bottom: 1px solid $color-gray-lighter;
+    border-bottom: 1rem solid $color-gold;
   }
 
   a {
