@@ -84,7 +84,7 @@ explore:
     external: true
 
 footer:
-  - text: Guild
+  - text: Discord server
     href: /discord/
     external: true
   - text: HTTPD server
