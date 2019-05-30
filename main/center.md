@@ -1,4 +1,4 @@
----
+Aaa ---
 title: Information center
 permalink: /center/
 
@@ -11,12 +11,6 @@ hero:
 
 tagline: We're a modern, creative community.
 ---
-
-<div class="usa-alert  usa-alert-error" >
-  <div class="usa-alert-body">
-    <p class="usa-alert-text">All documentation and campaign library information is under construction and is unfinished. Currently all information has yet to be updated, or checked for language and grammatical proficiency. Accurate, complete and proofread information files will be marked with a green quality seal.</p>
-  </div>
-</div>
 
 ## Documentation
 Learn about server-exclusive features, reference commands, and index policies with our hand-written legislation.
