@@ -15,12 +15,6 @@ hero:
       #href: '../docs/'
 ---
 
-<div class="usa-alert usa-alert-warning">
-    <div class="usa-alert-body">
-        <h3 class="usa-alert-heading">Temporary leadership</h3>
-        <p class="usa-alert-text">The directorial staff will be away temporarily. Server leadership has decided to appoint two of our staff members to be active directors to head the server until they return.</p>
-    </div>
-</div>
 <!--
 ## Amenities
 Information paragraph.
@@ -35,7 +29,7 @@ Information paragraph.
     </div>
 </div>          
 
-<hr style="margin-top: 4rem;">  -->
+<hr style="margin-top: 4.5rem;">  -->
 
 ## Join the community
 More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
