@@ -19,7 +19,7 @@ All of our features are added with stability and security in mind.
 <br>
 If any additional feature violates one of these principles, please let us know.
 
-<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 3rem;">
 
 ## Gallery
 Our in-game server and other platforms are on the forefront of security and are filled to the brim with advanced features. Here are some of the features that make our freedom environment unique.
