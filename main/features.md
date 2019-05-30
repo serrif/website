@@ -19,7 +19,7 @@ All of our features are added with stability and security in mind.
 <br>
 If any additional feature violates one of these principles, please let us know.
 
-<hr style="margin-top: 3rem;">
+<hr style="margin-top: 4.5rem;">
 
 ## Gallery
 Our in-game server and other platforms are on the forefront of security and are filled to the brim with advanced features. Here are some of the features that make our freedom environment unique.
@@ -43,17 +43,6 @@ Our in-game server and other platforms are on the forefront of security and are 
     </div>
     <div class="usa-width-one-half">
       <h2>Item two</h2>
-      <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
-    </div>
-</div>
-<br>
-<div class="usa-grid-full">
-    <div class="usa-width-one-half">
-      <h2>Item three</h2>
-      <p>No home is complete without a proper toolbox. Here’s April and Andy’s: A hammer, a half-eaten pretzel, a baseball card, some cartridge that says Sonic and Hedgehog, a scissor half, a flashlight filled with jellybeans.</p>
-    </div>
-    <div class="usa-width-one-half">
-      <h2>Item four</h2>
       <p>The less I know about other people’s affairs, the happier I am. I’m not interested in caring about people. I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.</p>
     </div>
 </div>
