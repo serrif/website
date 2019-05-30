@@ -23,8 +23,8 @@ subnav:
   - text: "₍₂₎ Social media"
     href: '#social-media'
   -
-  - text: "Guild"
-    href: '#guild'
+  - text: "Discord"
+    href: '#discord'
   - text: "₍₁₎ Channels"
     href: '#channels'
   - text: "₍₂₎ Roles"
@@ -124,8 +124,8 @@ Social media is used for brief informational updates to our members. We have a <
 
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
-## Guild
-The guild is our community on <a class="usa-external_link" href="https://discordapp.com">Discord</a> where anyone can talk to each other in real time. This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
+## Discord
+Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk to each other in real time. This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
 
 ### Channels
 Text channels are the focus of our guild, along with voice channels.
