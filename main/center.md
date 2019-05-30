@@ -1,4 +1,4 @@
-Aaa ---
+---
 title: Information center
 permalink: /center/
 
