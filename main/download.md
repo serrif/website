@@ -14,7 +14,7 @@ Transparency and security first, everyone has a right to server information.
 <a class="usa-button usa-button" href="../#">Return home</a>
 <a class="usa-button usa-button-secondary" href="../center">Return to center</a>
 
-<hr style="margin-top: 3rem;">
+<hr style="margin-top: 4.5rem;">
 
 ## Downloadable resources
 Here you'll find all the assets you need to view information offline.
