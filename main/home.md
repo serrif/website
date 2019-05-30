@@ -41,7 +41,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Collaborate with our members</h3>
-		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely communicate; anything that happens on (and off) the server.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely communicate about anything that happens on (and off) the server.</p>
 		<a class="usa-button usa-button" href="../discord">Enroll</a>
     <a class="usa-button usa-button-secondary" href="../docs/#discord">Learn more</a>
         </div>
