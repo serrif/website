@@ -40,8 +40,8 @@ More than a server; we're an open-source network of experienced and aspiring mem
 		<img class="footer-main-img" src="../assets/img/svg/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
-		<h3>Engage with our members</h3>
-		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite Discord guild with which members of our in-game server can freely communicate topics; both pertinent to our service, and of everyday life.</p>
+		<h3>Collaborate with our members</h3>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely communicate; anything that happens on (and off) the server.</p>
 		<a class="usa-button usa-button" href="../discord">Enroll</a>
     <a class="usa-button usa-button-secondary" href="../docs/#guild">Learn more</a>
         </div>
