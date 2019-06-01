@@ -17,27 +17,27 @@ intro: |
 
   Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 
-graphics:
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Graphic headings can vary.
-    description: Graphic headings can be used a few [different ways](javascript:void(0);), depending on what your landing page is for. Highlight your values, specific program areas, or results.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Stick to 6 or fewer words.
-    description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Never highlight anything without a goal.
-    description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
-  - image:
-      src: /assets/uswds/img/circle-124.png
-      alt: ''
-    title: Could also have 2 or 6.
-    description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
+#graphics:
+  #- image:
+      #src: /assets/uswds/img/circle-124.png
+      #alt: ''
+    #title: Graphic headings can vary.
+    #description: Graphic headings can be used a few [different ways](javascript:void(0);), depending on what your landing page is for. Highlight your values, specific program areas, or results.
+  #- image:
+      #src: /assets/uswds/img/circle-124.png
+      #alt: ''
+    #title: Stick to 6 or fewer words.
+    #description: Keep body text to about 30. They can be shorter, but try to be somewhat balanced across all four. It creates a clean appearance with good spacing.
+  #- image:
+      #src: /assets/uswds/img/circle-124.png
+      #alt: ''
+    #title: Never highlight anything without a goal.
+    #description: For anything you want to highlight here, understand what your users know now, and what activity or impression you want from them after they see it.
+  #- image:
+      #src: /assets/uswds/img/circle-124.png
+      #alt: ''
+    #title: Could also have 2 or 6.
+    #description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
 ---
 
 ## Join the community
@@ -67,12 +67,6 @@ More than a server; we're an open-source network of experienced and aspiring mem
     <a class="usa-button usa-button-secondary" href="../library/developer">Learn more</a>
         </div>
 </div>
-
-<hr style="margin-top: 4.5rem;">
-
-## Section heading
-
-Everything up to this point [should help people](javascript:void(0);) understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.
 
 <hr style="margin-top: 4rem;">
 
@@ -109,5 +103,3 @@ Everything up to this point [should help people](javascript:void(0);) understand
 		</div>
 	</div>
 </div>
-
-{% include team-list.html %}
