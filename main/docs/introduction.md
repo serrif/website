@@ -33,10 +33,10 @@ subnav:
     href: '#applications'
 ---
 
-"We give members every command they need to powerfully build and enjoy our server without meeting any requirements."
+We give members every command they need to explore their creative side and enjoy our server without meeting any requirements.
 {: .usa-font-lead }
 
-Permissions are developed in accordance with our commitment towards freedom.
+Everyone has access to advanced commands with freedom in mind.
 <br>
 If something's blocked or off-limits that you think shouldn't be, please let us know.
 

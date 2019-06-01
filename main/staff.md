@@ -26,7 +26,7 @@ My idea of a perfect government is one guy who sits in a small room at a desk, a
 
 I regret nothing. The end.
 
-### Directors
+### Director-in-Chief
 That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
@@ -41,7 +41,7 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
         </div>
 </div>
 
-### Admins
+### Directors
 Normally, if given the choice between doing something and nothing, I’d choose to do nothing. But I will do something if it helps someone else do nothing. I’d work all night, if it meant nothing got done.
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
