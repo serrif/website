@@ -11,14 +11,10 @@ hero:
     text: for the spontaneous architect.
   content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
 ---
-<div class="usa-grid-full">
-        <div class="usa-width-one-half">
-            <h2>Creative wheels are spinning.</h2>
-        </div>
-        <div class="usa-width-one-half">
-            <p>Placeholder.</p>  
-        </div>
-</div>
+
+## Creative wheels are spinning
+Placeholder text.
+<a class="usa-button usa-button-secondary" href="../mission">Our mission</a>
 
 <hr style="margin-top: 4.5rem;">
 

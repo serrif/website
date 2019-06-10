@@ -34,19 +34,19 @@ subnav:
 ---
 
 ## In-game server
-Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Operator permissions are given to anyone without hassle, with an assortment of plugins, and powerful tools for building and management.
+Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Everyone gets operator-style permissions without hassle, with an array of plugins, and powerful tools for building and management.
 
 ### Connection
-Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. Applying a port isn't necessary for connection  but `25565` can be appended to an address.
+Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. A port isn't necessary to join  but `25565` can be added to an address.
 
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` or `/mem` - Displays memory statistics, loaded worlds, and ticks per second (TPS).
 
-You can also view and lookup other members, as opposed to the default tab list.
+You can also view and lookup other members, instead of the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Many in-game commands that show member-specific information will only apply to those connected during when the command was sent. Make sure those commands are accurate and specific.</p>
+    <p class="usa-alert-text">Many in-game commands that show member-specific information will only apply to players on the server when the command was sent. Make sure those commands are accurate and specific.</p>
   </div>
 </div>
 
@@ -60,7 +60,7 @@ Nearby members can be located with a few proximity commands.
  * `/radar` - Displays a list of nearby members and their proximity to you.
  * `/nearby`  or `/near` - An Essentials-based variant of the above command, tracks proximity.
 
-Join us using the version that is favorite to you; from `1.8` to `1.13`. As the game updates, our support for older versions may change.
+We currently only support Minecraft for `1.14.2`. As the game updates, our support for older versions may change.
 
 ### Communication
 Besides the chat, we offer other features to take advantage of messaging, with additional features, though a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Command_Reference">Essentials</a> features library along with several other plugins for additional functionality.
@@ -70,7 +70,7 @@ Besides the chat, we offer other features to take advantage of messaging, with a
  * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
 
 #### Mail usage
-The `/mail` function can be used to send, receive, and manage messages. All messages sent must comply with our guidelines or they'll be removed.
+The `/mail` function can be used to send, receive, and manage messages. All messages sent must follow [our guidelines](../docs/policy) or they'll be removed.
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
@@ -83,7 +83,7 @@ The `/mail` function can be used to send, receive, and manage messages. All mess
  * `/mail clear` - Clears your inbox; deletes all (if any) messages sent to you.
 
 ### Other commands
-Members can manage settings relating to their character; such as gamemode, and modifications to health-based damage.
+Members can also manage settings of their character; such as gamemode, and health-based damage.
 
 <ul>
   <li><code class="highlighter-rouge">/gamemode &lt;creative | survival | adventure | spectator&gt;</code> - Sets your gamemode.</li>
@@ -95,10 +95,10 @@ Members can manage settings relating to their character; such as gamemode, and m
 </ul>
 
 ## Website
-Our website provides essential information as the center of server operation; housing explore pages, resources, and information. Learning how we commit to different sections of our site is helpful to know how to get around the server.
+Our website provides essential information as the center of our community's operation; housing explore pages, resources, and information. Learning how we structure different sections of our site is helpful to know how to get around the server.
 
 ### Homepage
-Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our features gallery) can provide material. This and akin files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
+Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our mission page) can provide material. These and similar files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
 We provide instructions, policy, and guides on our documentation; so everyone can learn easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
 
@@ -108,10 +108,10 @@ We provide instructions, policy, and guides on our documentation; so everyone ca
   </div>
 </div>
 
-Everyone should thoroughly read our documentation to familiarize themselves with server procedure and policy. Information also helps with using the advanced (and exclusive) features of our server, and other resources.
+Everyone should read our documentation carefully to familiarize themselves with server procedure and policy. Information also helps with using the advanced (and exclusive) features of our server, and other resources.
 
 ### Social media
-Social media is used for brief informational updates to our members. We have a <a class="usa-external_link" href="../twitter/">Twitter</a> for updating our members on what's happening.
+Social media is used for brief updates to our members. We have a <a class="usa-external_link" href="../twitter/">Twitter</a> for updating our members on what's happening.
 
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 

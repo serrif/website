@@ -70,14 +70,14 @@ policies:
     external: true
 
 explore:
-  - text: Staff directory
-    href: /staff/
+  - text: Our mission
+    href: /mission/
     external: true
-  - text: Documentation
-    href: /docs/
+  - text: Our team
+    href: /team/
     external: true
-  - text: Campaign libraries
-    href: /library/
+  - text: Server FAQ
+    href: /faq/
     external: true
   - text: Legal policies
     href: /center/#legal-policies
