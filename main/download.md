@@ -9,13 +9,14 @@ layout: post
 Here you'll find all the assets you need to view information offline.
 
 ### Converse
-This is a placeholder.
-<a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases">Download docs</a>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
+
+<a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases">Download Converse</a>
 
 <hr style="margin-top: 3.5rem;">
 
 ### Documentation
-This is a placeholder. Here are some lines from the Mueller Report. Because we determined not to make a traditional prosecutorial judgment, we did not draw ultimate conclusions about the President' s conduct. The evidence we obtained about the President's actions and intent presents difficult issues that would need to be resolved if we were making a  traditional prosecutorial judgment...
+Donec vestibulum tempus aliquet. Curabitur tristique sed leo ut rutrum. Donec vel neque at magna tempus ullamcorper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam sit amet consequat odio. Morbi maximus pretium dapibus. Proin arcu nulla, laoreet id accumsan vitae, ultrices ut massa. Pellentesque consectetur nec massa id feugiat. Cras a lorem vel eros lacinia auctor in vitae urna. Vestibulum congue maximus sodales. Proin et bibendum erat. Donec quis malesuada arcu.
 
 <!-- <a class="usa-button usa-button" href="https://github.com/novelmc/novlemc.github.io/releases/download/docs.zip">Download docs</a> -->
 <button class="usa-button" disabled>Download docs</button>
@@ -23,7 +24,7 @@ This is a placeholder. Here are some lines from the Mueller Report. Because we d
 <hr style="margin-top: 3.5rem;">
 
 ### Campaign libraries
-This is a placeholder. Here are some lines from the Mueller Report. ...At the same time, if we had confidence after a thorough investigation of the facts that the President clearly did not commit obstruction of justice, we would so state. Based on the facts and the applicable legal standards, we are unable to reach that judgment. Accordingly, while this report does not conclude that the President committed a crime, it also does not exonerate him.  
+In eget leo arcu. Vivamus nec tempor augue, nec eleifend lorem. In sed mattis orci. Proin id mauris ac nisl pretium fringilla. Donec pellentesque, nisi a suscipit interdum, metus sem tincidunt erat, at mattis turpis tellus ut magna. Maecenas fringilla eget turpis iaculis viverra. Sed consequat, augue vitae fringilla sollicitudin, eros justo faucibus neque, in blandit mi leo ut nunc. Ut ac eros nulla. Nunc quis nunc lacinia magna bibendum accumsan. Nunc lacus metus, pharetra gravida metus in, cursus eleifend velit. Sed tristique diam ac facilisis pretium. Proin pharetra hendrerit velit. 
 
 <!-- <a class="usa-button usa-button" href="https://github.com/novelmc/novlemc.github.io/releases/download/developerlib.zip">Download developer library</a>
 <a class="usa-button usa-button-secondary" href="https://github.com/novelmc/novlemc.github.io/releases/download/magisteriallib.zip">Download magisterial library</a>

@@ -13,14 +13,12 @@ tagline: We're a modern, creative community.
 ---
 
 ## Team members
-My idea of a perfect government is one guy who sits in a small room at a desk, and the only thing he's allowed to decide is who to nuke. The man is chosen based on some kind of IQ test, and maybe also a physical tournament, like a decathlon. And women are brought to him, maybe...when he desires them.
-
-I regret nothing. The end.
+We appoint members to our team to make sure everyone's doing the right thing. Every member of our team is chosen to be a supportive member of the server; to keep the server open, and available to everyone. Our staff members serve the members, and everyone has the right to get in contact with those in charge.
 
 <hr style="margin-top: 3.5rem;">
 
 ### Executives
-That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.
+Executives are in charge of all lower positions; they have the ability to remove and appoint staff members, and manage permeant punishments. You probably won't see these staff members in-game often because they also are responsible for the Discord server, and community advertising.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
@@ -79,7 +77,7 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 <hr style="margin-top: 3.5rem;">
 
 ### Developers
-It's always a good idea to demonstrate to your coworkers that you are capable of withstanding a tremendous amount of pain.
+Developers are responsible for programming and maintaining custom, and non-custom, plugins on the server. They have access to every command, manage permissions using `/luckperms`, and are able to manage server files. These staff members spend most of their time on Discord and GitHub, and often aren't in-game.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
@@ -111,7 +109,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
 <hr style="margin-top: 3.5rem;">
 
 ### Senior Mods
-My dream is to have the park system privatized and run entirely for profit by corporations, like Chuck E. Cheese. They have an impeccable business model. I would rather work for Chuck E. Cheese.
+Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permeant punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
@@ -158,7 +156,7 @@ My dream is to have the park system privatized and run entirely for profit by co
 <hr style="margin-top: 3.5rem;">
 
 ### Mods
-There’s only one thing I hate more than lying: skim milk. Which is water that is lying about being milk.
+Mods are the basic staff members on the server. They have basic moderation permissions, such as `/ban` and `/mute` with limited punishment lengths. They also have additional non-moderation privileges such as `/tpo`.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
