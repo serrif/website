@@ -14,6 +14,7 @@ hero:
 
 ## Creative wheels are spinning
 Placeholder text.
+
 <a class="usa-button usa-button-secondary" href="../mission">Our mission</a>
 
 <hr style="margin-top: 4.5rem;">

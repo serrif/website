@@ -116,55 +116,52 @@ Social media is used for brief updates to our members. We have a <a class="usa-e
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
 ## Discord
-Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk to each other in real time. This service is great for sharing content, collaboration, and quick support; anyone can [join](/guild/), and it's linked to in the navigation bar.
+Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk to each other in real time. This service is great for sharing content, and quick support. Anyone can [join](/discord/), and it's linked to in the navigation bar.
 
 ### Channels
-Text channels are the focus of our guild, along with voice channels.
-We segregate our channels based on the subject they were constructed for; as a result, please keep things where they belong.
+We have text and voice channels for everyone in the community to use. We separate a few discussion streams into separate channels to keep conversations more organized.
 
- * [`#announcements`](https://discord.gg/kpePHUP) - Executive-only channel for important stuff; updates, tweets, and articles.
+ * [`#github`](https://discord.gg/TY5Jw2C) - GitHub organization activity log.
+ * [`#announcements`](https://discord.gg/nuNTR3U) - For important stuff; updates, and server news. Only Executives can send messages here.
+ * [`#terminal-logs`](https://discord.gg/hmKEtH9) - Where all moderation actions log.
 
 The following channels can be used by anyone who isn't muted or removed.
 
- * [`#general-chat`](https://discord.gg/3fFF2V2) - Catalyst of 'normal' content—everyday and relevant talk.
- * [`#spam-chat`](https://discord.gg/k6RHq5N) - For content that's purposeless or has been designated as spam.
- * [`#dev-chat`](https://discord.gg/XQjuvt3) - The support hotline and place for development discussion.
-
-Other channels that aren't listed here (such as admin-only channels) function limitedly; for more information, see the various channel topics.
+ * [`#general`](https://discord.gg/vXydQmT) - For any and all discussions without a specific channel.
+ * [`#nonsense`](https://discord.gg/FdBymjx) - Messages that are purposeless or spam.
+ * [`#server`](https://discord.gg/PB3atCg) - Channel that receives in-game chat messages and sends messages to the in-game server.
 
 ### Roles
-The guild uses Discord's role system for standalone designation; meaning that some roles provided to members will have no server or forum counterpart.
-These are called 'titles' because they carry no permissions (unlike ranks).
+We use Discord's role system to designate and separate members on the server; meaning that some roles will have no server or forum counterpart.
 
 ---
 
-<div style="text-align: center; margin-top: 15px;"><img src="https://shadow.ga/img/svg/titles.svg"></div>
+<div style="text-align: center; margin-top: 15px;"><img src="https://novelmc.net/assets/img/svg/titles.svg"></div>
 
 ---
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Only titles will be listed here, as the guild's ranking system is identical to that of our server; a list of administrator ranks can be found at our hierarchy.</p>
+    <p class="usa-alert-text">There are only our server's titles. Our ranks are listed on our [authority documentation](../docs/authority)</p>
   </div>
 </div>
 
- * **Developer** - Provided to those who make code contribution to our <a class="usa-external_link" href="https://github.com/shadowga">organisation</a>.
- * **Architect** - Awarded to the prolific builders of our in-game atmosphere.
+ * **Robot** - Given to all [robots](../docs/#applications).
+ * **Architect** - Awarded to exemplary builders on the server.
 
-The following positions can only be granted to administrators.
+The following titles are given to staff members only.
 
- * **Inactive** - Attached to an inactive admin's account; provided upon request.
- * **Emeritus** - Attached to administrators designated as permanently active.
+ * **Emeritus** - Given to staff members designated as permanently active.
+ * **Inactive** - Given to staff members to show inactivity; per request.
 
 ### Applications
-We use bots to emulate a personal assistant for every member.
-Bots have a wide variety of control and may cover customisation to specification.
-They can't be used in-game.
+We use bots to manage our server members, its moderation, and to add additional features.  
 
- * `/` - Triggers a pop-up menu listing the built-in commands of our Discord guild.
- * `.help` - Provides a list of the <a class="usa-external_link" href="https://github.com/robingall2910/RobTheBoat">Some Dragon</a> bot's commands via a personal message.
- * `t!help` - Provides a list of the <a class="usa-external_link" href="https://www.tatsumaki.xyz/">Tatsumaki</a> bot's commands via a personal message.
+ * `/` - Displays a pop-up menu listing the built-in commands on Discord.
+ * `!help` - Displays a list of the <a class="usa-external_link" href="https://rythmbot.co/">Rythm</a> bot's commands via its website.
+ * `>_help` - Displays a list of the terminal bot's commands.
+ * `?help` - Displays a list of the in-game bot's commands.
 
 ---
 
-Other commands and information; regarding in-game features, resources, and tools are further detailed appropriately.
+Other commands and information; including in-game features, resources, and tools are outline further in documentation pages.
