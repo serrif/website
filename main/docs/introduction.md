@@ -33,15 +33,6 @@ subnav:
     href: '#applications'
 ---
 
-We give members every command they need to explore their creative side and enjoy our server without meeting any requirements.
-{: .usa-font-lead }
-
-Everyone has access to advanced commands with freedom in mind.
-<br>
-If something's blocked or off-limits that you think shouldn't be, please let us know.
-
-<hr style="margin-top: 3rem;">
-
 ## In-game server
 Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Operator permissions are given to anyone without hassle, with an assortment of plugins, and powerful tools for building and management.
 

@@ -12,15 +12,6 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-We strive to have an effective, reliable, and supportive staff team. Careful selection and management is invested in those of authority.
-{: .usa-font-lead }
-
-Effective relationships with our members is a building block of our architectural environment.
-<br>
-Values of quality across the board with our staff members shapes the server's identity.
-
-<hr style="margin-top: 3rem;">
-
 ## Authority
 My idea of a perfect government is one guy who sits in a small room at a desk, and the only thing he's allowed to decide is who to nuke. The man is chosen based on some kind of IQ test, and maybe also a physical tournament, like a decathlon. And women are brought to him, maybe...when he desires them.
 
@@ -35,9 +26,8 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>almanacks</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 11.5rem; padding: 0;">--@almanacks#0484</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them. --@almanacks#0484</p>
         </div>
 </div>
 
@@ -47,9 +37,8 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Panther</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 8.5rem; padding: 0;">--@Panther#2122</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">Give a man a fish and feed him for a day. Don’t teach a man to fish...and feed yourself. He’s a grown man. And fishing’s not that hard.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">Give a man a fish and feed him for a day. Don’t teach a man to fish...and feed yourself. He’s a grown man. And fishing’s not that hard. --@Panther#2122</p>
         </div>
 </div>
 
@@ -59,9 +48,8 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Anish</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 6.5rem; padding: 0;">--@anish#0029</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">History began on July 4, 1776. Everything that happened before that was a mistake.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">History began on July 4, 1776. Everything that happened before that was a mistake. --@anish#0029</p>
         </div>
 </div>
 
@@ -71,9 +59,8 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Rylie</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 5.5rem; padding: 0;">--@Rylie R. Shadowsynth#2839</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">I do stuff with computers as a hobby (well, more so because it's all I'm good with) and love messing with software. If you've got any questions, feel free to hit me up!</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">I do stuff with computers as a hobby (well, more so because it's all I'm good with) and love messing with software. If you've got any questions, feel free to hit me up! --@Rylie R. Shadowsynth#2839</p>
         </div>
 </div>
 
@@ -97,9 +84,8 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Telesphoreo</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 13rem; padding: 0;">--@Telesphoreo#7854</p>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">Clear alcohols are for rich women on diets.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">Clear alcohols are for rich women on diets. --@Telesphoreo#7854</p>
         </div>
 </div>
 
@@ -122,10 +108,9 @@ My dream is to have the park system privatized and run entirely for profit by co
 		<img class="footer-main-img" src="https://crafatar.com/renders/head/0bc1c4647c4c4b209c17a1079145de8d?scale=10&overlay" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
-		<h3>rovertpug</h3>
-    <p style="position: absolute; margin-top: -3.8rem; margin-left: 13rem; padding: 0;">--@Telesphoreo#7854</p>
+		<h3>Simul</h3>
     <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-		<p style="margin-bottom: 1rem; max-width: 65rem;">Any dog under fifty pounds is a cat and cats are useless.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">Any dog under fifty pounds is a cat and cats are useless. --@Simul#2461</p>
         </div>
 </div>
 

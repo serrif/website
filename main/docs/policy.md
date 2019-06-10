@@ -5,8 +5,6 @@ permalink: /docs/policy
 layout: post
 sidenav: docs
 ---
-When members aren’t doing the right thing, admins are capable of punishing them.
-It's important for everyone to know our administration's guidelines for proper gameplay and activity.
 
 ## Guidelines
 Guidelines give the community a direct and consistent set of rules.
