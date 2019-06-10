@@ -10,18 +10,15 @@ hero:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
   content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
+
+  tagline: Creative wheels are spinning.
+  intro: |
+    The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
+
+    Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 ---
 
-## Creativity wheels are spinning
-<div class="usa-grid">
-    <div class="usa-width-two-thirds">
-      <p>Oregon is a state in the Pacific Northwest of the United States. Oregon is bordered on the west by the Pacific Ocean, on the north by Washington, on the south by California, on the east by Idaho, and on the southeast by Nevada. The Columbia River delineates much of Oregon's northern boundary, and the Snake River delineates much of the eastern boundary. It is one of only three states of the contiguous United States to have a coastline on the Pacific Ocean. The capital of Oregon is Salem, the second most populous of its cities, with 160,614 residents (2013 estimate).</p>
-    </div>
-    <div class="usa-width-one-third">
-      <a class="usa-button usa-button-secondary" href="../mission">Learn about our mission</a>
-    </div>
-  </div>
-</div>
+<hr style="margin-top: 4.5rem;">
 
 ## We're a community, too
 It's more than a server; we're a group of experienced and aspiring designers; developers, and engineers. When you join us, you're joining a supportive and experienced group of members.

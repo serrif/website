@@ -169,6 +169,15 @@ dfn {
   max-width: $lead-max-width;
 }
 
+.usa-font-mission {
+  font-family: 'Public Sans Thin';
+  font-size: 4rem;
+  font-weight: $font-normal;
+  line-height: $lead-line-height;
+  max-width: $lead-max-width;
+  color: $color-blue-darker;
+}
+
 .usa-image-block {
   position: relative;
 }
