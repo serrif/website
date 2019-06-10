@@ -63,7 +63,7 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/93d6bdbc0ede4d4baf43e31d5333a7b6?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>Rylie</h3>
@@ -81,7 +81,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/7c2eee6f33a244de8dd11e3fe06d2150?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/7840808619914c33a571d8fa325465b2?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>Telesphoreo</h3>
@@ -93,7 +93,7 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/a8ab4eb2280546318351f3be58056e37?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/7c2eee6f33a244de8dd11e3fe06d2150?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>falceso</h3>

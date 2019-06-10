@@ -7,16 +7,11 @@ layout: home
 hero:
   image: ../assets/img/hero/ohlvtwm.png
   callout:
-    text: Our mission
+    text: Wot's… Uh The Mission?
+  content: We want to deliver a better; more modern, resourceful, and secure server experience for everyone.
 
 tagline: We're a modern, creative community.
 ---
-
-*To deliver a better; more safe, and secure server experience for everyone.*
-{: .usa-font-lead }
-
-<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
-
 <div class="usa-grid-full">
     <div class="usa-width-one-half">
       <h2>Who we are</h2>
