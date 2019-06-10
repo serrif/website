@@ -10,13 +10,15 @@ hero:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
   content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
-
-  tagline: Creative wheels are spinning.
-  intro: |
-    The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
-
-    Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 ---
+<div class="usa-grid-full">
+        <div class="usa-width-one-half">
+            <h2>Creative wheels are spinning.</h2>
+        </div>
+        <div class="usa-width-one-half">
+            <p>Placeholder.</p>  
+        </div>
+</div>
 
 <hr style="margin-top: 4.5rem;">
 

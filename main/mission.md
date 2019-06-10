@@ -12,8 +12,8 @@ hero:
 tagline: We're a modern, creative community.
 ---
 
-To deliver a better; more safe, and secure server experience for everyone.
-{: .usa-font-mission }
+*To deliver a better; more safe, and secure server experience for everyone.*
+{: .usa-font-lead }
 
 <hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 

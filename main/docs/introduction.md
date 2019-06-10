@@ -46,7 +46,7 @@ You can also view and lookup other members, as opposed to the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Many in-game commands displaying member-specific information will only apply to those connected during when the command was sent. Make sure those commands are accurate and specific.</p>
+    <p class="usa-alert-text">Many in-game commands that show member-specific information will only apply to those connected during when the command was sent. Make sure those commands are accurate and specific.</p>
   </div>
 </div>
 
@@ -74,7 +74,7 @@ The `/mail` function can be used to send, receive, and manage messages. All mess
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Mailed messages can be sent to offline members—or members that aren't currently on the server when the command is sent. <code class="highlighter-rouge">/mail sendall</code> is reserved for staff member use.</p>
+    <p class="usa-alert-text">Mailed messages can be sent to offline members—or members that aren't currently on the server when the command is sent. <code class="highlighter-rouge">/mail sendall</code> is for staff member use only.</p>
   </div>
 </div>
 
@@ -104,7 +104,7 @@ We provide instructions, policy, and guides on our documentation; so everyone ca
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">We use information cards in our documentation pages to signify upcoming important information. Warning cards are also used for developmental and provisional information.</p>
+    <p class="usa-alert-text">We use information cards in our documentation pages to highlight upcoming important information. Warning cards are also used for temporary information alerts.</p>
   </div>
 </div>
 
