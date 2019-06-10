@@ -13,7 +13,11 @@ hero:
 ---
 
 ## Creative wheels are spinning
-Placeholder text.
+We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
+{: .usa-font-lead }
+
+Our goal in everything we do is founded in our mission statement. All of our members are entitled to be supported in a safe, and secure environment.
+{: .usa-font-lead }
 
 <a class="usa-button usa-button-secondary" href="../mission">Our mission</a>
 

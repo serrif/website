@@ -17,6 +17,8 @@ My idea of a perfect government is one guy who sits in a small room at a desk, a
 
 I regret nothing. The end.
 
+<hr style="margin-top: 3.5rem;">
+
 ### Executives
 That is a canvas sheet, the most versatile object known to man. It can be used to make tents, backpacks, shoes, stretchers, sails, tarpaulins, and I suppose, in the most dire of circumstances, it can be a surface on which to make art.
 
@@ -74,6 +76,8 @@ That is a canvas sheet, the most versatile object known to man. It can be used t
         </div>
 </div>
 
+<hr style="margin-top: 3.5rem;">
+
 ### Developers
 It's always a good idea to demonstrate to your coworkers that you are capable of withstanding a tremendous amount of pain.
 
@@ -103,6 +107,8 @@ It's always a good idea to demonstrate to your coworkers that you are capable of
           </div>
         </div>
 </div>
+
+<hr style="margin-top: 3.5rem;">
 
 ### Senior Mods
 My dream is to have the park system privatized and run entirely for profit by corporations, like Chuck E. Cheese. They have an impeccable business model. I would rather work for Chuck E. Cheese.
@@ -148,6 +154,8 @@ My dream is to have the park system privatized and run entirely for profit by co
           </div>
         </div>
 </div>
+
+<hr style="margin-top: 3.5rem;">
 
 ### Mods
 There’s only one thing I hate more than lying: skim milk. Which is water that is lying about being milk.

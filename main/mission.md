@@ -7,7 +7,7 @@ layout: home
 hero:
   image: ../assets/img/hero/ohlvtwm.png
   callout:
-    text: Wot's… Uh The Mission?
+    text: Our mission
   content: We want to deliver a better; more modern, resourceful, and secure server experience for everyone.
 
 tagline: We're a modern, creative community.
@@ -26,7 +26,43 @@ tagline: We're a modern, creative community.
 <hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 
 ## Our values
-Placeholder text.
+<div class="usa-grid-full">
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>One of our values</h3>
+            <p>Placeholder text.</p>
+        </div>
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>Another value</h3>
+            <p>Placeholder text.</p>
+        </div>
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>Another value</h3>
+            <p>Placeholder text.</p>
+        </div>
+</div>
+
+<br>
+
+<div class="usa-grid-full">
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>One of our values</h3>
+            <p>Placeholder text.</p>
+        </div>
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>Another value</h3>
+            <p>Placeholder text.</p>
+        </div>
+        <div class="usa-width-one-third">
+            <img src="../assets/img/circle.png" alt="">
+            <h3>Another value</h3>
+            <p>Placeholder text.</p>
+        </div>
+</div>
 
 <hr style="margin-top: 4.5rem;">
 
