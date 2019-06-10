@@ -73,14 +73,14 @@ explore:
   - text: Staff directory
     href: /staff/
     external: true
-  - text: Features gallery
-    href: /features/
-    external: true
   - text: Documentation
     href: /docs/
     external: true
   - text: Campaign libraries
     href: /library/
+    external: true
+  - text: Legal policies
+    href: /center/#legal-policies
     external: true
 
 footer:

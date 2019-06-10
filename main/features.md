@@ -1,18 +1,18 @@
 ---
-title: Features gallery
-permalink: /features/
+#title: Features gallery
+#permalink: /features/
 
-layout: home
+#layout: home
 
-hero:
-  image: ../assets/img/hero/ohlvtwm.png
-  callout:
-    text: Features gallery
+#hero:
+  #image: ../assets/img/hero/ohlvtwm.png
+  #callout:
+    #text: Features gallery
 
-tagline: We're a modern, creative community.
+#tagline: We're a modern, creative community.
 ---
 
-Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
+<!--- Learn about everything we provide to our users from our web services to those in-game, and explore how security is maintained responsibly.
 {: .usa-font-lead }
 
 All of our features are added with stability and security in mind.
@@ -56,4 +56,4 @@ Our in-game server and other platforms are on the forefront of security and are 
             <h3>Marmalade?</h3>
             <p>My dream is to have the park system privatized and run entirely for profit by corporations, like Chuck E. Cheese. They have an impeccable business model. I would rather work for Chuck E. Cheese.</p>        
         </div>
-</div>
+</div> --->

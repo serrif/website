@@ -7,9 +7,9 @@ layout: home
 hero:
   image: ../assets/img/hero/BacM6mm.png
   callout:
-    alt: "An end-to end creative platform"
+    alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
-  content: An open-source network of experienced and aspiring members; designers, developers, and engineers establishing an environment for freedom.
+  content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
 
 #tagline: A tagline highlights your approach.
 #intro: |
@@ -19,16 +19,15 @@ hero:
 ---
 
 ## Join the community
-More than a server; we're an open-source network of experienced and aspiring members--designers, developers, and engineers.
-{: .usa-font-lead }
+More than a server; we're an open-source network of experienced and aspiring designers; developers, and engineers.
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
 	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
 		<img class="footer-main-img" src="../assets/img/svg/discord.svg" alt="" style="width: 130px; padding: 10px;">
 	</div>
 	<div class="usa-width-five-sixths footer-content">
-		<h3>Collaborate with our members</h3>
-		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely communicate about anything that happens on (and off) the server.</p>
+		<h3>Share with our members</h3>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely discuss about anything that happens on (and off) the server.</p>
 		<a class="usa-button usa-button" href="../discord">Enroll</a>
     <a class="usa-button usa-button-secondary" href="../docs/#discord">Learn more</a>
         </div>
@@ -66,7 +65,7 @@ More than a server; we're an open-source network of experienced and aspiring mem
 		<div class="usa-media_block">
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-message.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
-				<p style="margin: 0; font-size: 15px;">Engage with the community</p>
+				<p style="margin: 0; font-size: 15px;">Talk in real time</p>
 				<a href="../discord">Join us on Discord</a>
 			</div>
 		</div>

@@ -43,7 +43,7 @@ If something's blocked or off-limits that you think shouldn't be, please let us 
 <hr style="margin-top: 3rem;">
 
 ## In-game server
-Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Operator permissions are provided to anyone without hassle, with an assortment of plugins, and powerful tools for building and management.
+Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Operator permissions are given to anyone without hassle, with an assortment of plugins, and powerful tools for building and management.
 
 ### Connection
 Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. Applying a port isn't necessary for connection  but `25565` can be appended to an address.

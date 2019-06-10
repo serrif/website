@@ -4,7 +4,7 @@ permalink: /download/
 
 layout: post
 ---
-"Explore the archives of information files in a downloadable package, with available archived resources."
+Explore the archives of information files in a downloadable package, with available archived resources.
 {: .usa-font-lead }
 
 View all documentation and library information of the present and past.
