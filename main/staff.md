@@ -23,7 +23,7 @@ Executives are in charge of all lower positions; they have the ability to remove
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -35,7 +35,7 @@ Executives are in charge of all lower positions; they have the ability to remove
         </div>
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/a8ab4eb2280546318351f3be58056e37?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -50,7 +50,7 @@ Executives are in charge of all lower positions; they have the ability to remove
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/93d6bdbc0ede4d4baf43e31d5333a7b6?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -62,7 +62,7 @@ Executives are in charge of all lower positions; they have the ability to remove
         </div>
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -82,7 +82,7 @@ Developers are responsible for programming and maintaining custom, and non-custo
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/7840808619914c33a571d8fa325465b2?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -94,7 +94,7 @@ Developers are responsible for programming and maintaining custom, and non-custo
         </div>
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/7c2eee6f33a244de8dd11e3fe06d2150?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -114,7 +114,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/f245471ad61d41b2affdf3d70f4a2a3e?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -126,7 +126,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
         </div>
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/0bc1c4647c4c4b209c17a1079145de8d?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -141,7 +141,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -161,7 +161,7 @@ Mods are the basic staff members on the server. They have basic moderation permi
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/7e1d015b23804204a0ef19d0b73280e5?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -173,7 +173,7 @@ Mods are the basic staff members on the server. They have basic moderation permi
         </div>
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/d018f2b8ce604672a45fe580e0331299?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
