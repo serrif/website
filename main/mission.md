@@ -16,7 +16,7 @@ tagline: We're a modern, creative community.
 ## Guided by principle
 Everything that we're built around, every idea we adopt as a principle of the server, and down to who we select to be our staff members is cemented within our mission statement. Who we are as a server is where our values and trust lie as an organization; a supportive and experienced group of aspiring designers; developers, and engineers.
 
-<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 3.5rem;">
 
 ### Who we are
 A group of aspiring designers; developers, and engineers. A collective who believes that sometimes everyone needs a place to kick back, block by block, bit by bit. An organization who is dedicated to transparency and excellence.
@@ -24,7 +24,7 @@ A group of aspiring designers; developers, and engineers. A collective who belie
 ### What we're doing
 Building an in-game community that's more resourceful, efficient, supportive, and always has the member at heart. We're putting architects, developers, and designers together for everyone's creative side.
 
-<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 3.5rem;">
 
 ### Our values
 Placeholder.
@@ -48,7 +48,7 @@ Placeholder.
     </span>
 	</div>
 	<div class="usa-width-five-sixths footer-content">
-		<h3>Half full philosophy</h3>
+		<h3>Half-full philosophy</h3>
 		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely discuss about anything that happens on (and off) the server.</p>
         </div>
 </div>
@@ -77,7 +77,7 @@ Placeholder.
         </div>
 </div>
 
-<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
+<hr style="margin-top: 3.5rem;">
 
 ### Who we're designing for
 Placeholder.
@@ -106,7 +106,7 @@ Placeholder.
     </div>
   </div>
 
-<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
+<hr style="margin-top: 3.5rem;">
 
 ### How we started
 <div class="usa-grid-full">
