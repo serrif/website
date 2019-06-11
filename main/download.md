@@ -8,6 +8,15 @@ layout: post
 ## Downloadable resources
 Here you'll find all the assets you need to view information offline.
 
+<hr style="margin-top: 3.5rem;">
+
+### Press kit
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
+
+<a class="usa-button usa-button" href="https://novelmc.net/assets/img/presskit.zip">Download press kit</a>
+
+<hr style="margin-top: 3.5rem;">
+
 ### Converse
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
 
@@ -24,7 +33,7 @@ Donec vestibulum tempus aliquet. Curabitur tristique sed leo ut rutrum. Donec ve
 <hr style="margin-top: 3.5rem;">
 
 ### Campaign libraries
-In eget leo arcu. Vivamus nec tempor augue, nec eleifend lorem. In sed mattis orci. Proin id mauris ac nisl pretium fringilla. Donec pellentesque, nisi a suscipit interdum, metus sem tincidunt erat, at mattis turpis tellus ut magna. Maecenas fringilla eget turpis iaculis viverra. Sed consequat, augue vitae fringilla sollicitudin, eros justo faucibus neque, in blandit mi leo ut nunc. Ut ac eros nulla. Nunc quis nunc lacinia magna bibendum accumsan. Nunc lacus metus, pharetra gravida metus in, cursus eleifend velit. Sed tristique diam ac facilisis pretium. Proin pharetra hendrerit velit. 
+In eget leo arcu. Vivamus nec tempor augue, nec eleifend lorem. In sed mattis orci. Proin id mauris ac nisl pretium fringilla. Donec pellentesque, nisi a suscipit interdum, metus sem tincidunt erat, at mattis turpis tellus ut magna. Maecenas fringilla eget turpis iaculis viverra. Sed consequat, augue vitae fringilla sollicitudin, eros justo faucibus neque, in blandit mi leo ut nunc. Ut ac eros nulla. Nunc quis nunc lacinia magna bibendum accumsan. Nunc lacus metus, pharetra gravida metus in, cursus eleifend velit. Sed tristique diam ac facilisis pretium. Proin pharetra hendrerit velit.
 
 <!-- <a class="usa-button usa-button" href="https://github.com/novelmc/novlemc.github.io/releases/download/developerlib.zip">Download developer library</a>
 <a class="usa-button usa-button-secondary" href="https://github.com/novelmc/novlemc.github.io/releases/download/magisteriallib.zip">Download magisterial library</a>
