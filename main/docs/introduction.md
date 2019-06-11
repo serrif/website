@@ -14,7 +14,7 @@ subnav:
   - text: "₍₂ₐ₎ Mail usage"
     href: '#mail-usage'
   - text: "₍₃₎ Other commands"
-    href: '#economy'
+    href: '#other-commands'
   -
   - text: "Website"
     href: '#website'

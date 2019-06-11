@@ -13,10 +13,10 @@ tagline: We're a modern, creative community.
 ---
 
 ## Documentation
-Learn about server-exclusive features, reference commands, and index policies with our hand-written legislation.
+Read up on server procedure and policy, learn how to get around, and see how every piece fits into the puzzle.  
 {: .usa-font-lead }
 
-Our documentative chambers provide actively-maintained (non-correlative) instructions; unto our server, and many online services. Exemplary activities such as automated instruction, and programming, are specifically outlined within these texts.
+Our documentation pages are our actively-maintained instructions for our server, and many online services. Anyone can learn about community culture, advanced in-game commands, or just how to be a smarter server member.
 
   <div class="usa-grid-full">
     <div class="usa-width-one-third">

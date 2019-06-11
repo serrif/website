@@ -29,7 +29,7 @@ Executives are in charge of all lower positions; they have the ability to remove
             <div class="usa-width-five-sixths footer-content">
               <h3>almanacks</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">When people get too chummy with me, I like to call them by the wrong name to let them know I don’t really care about them. --@almanacks#0484</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">I'm a percussionist. Ask me anything about marching percussion or marching band. <a class="usa-external_link" href="http://gusdapperton.com/">Gus Dapperton</a> enthusiast. --@almanacks#0484</p>
                 </div>
           </div>
         </div>
@@ -41,7 +41,7 @@ Executives are in charge of all lower positions; they have the ability to remove
             <div class="usa-width-five-sixths footer-content">
               <h3>Panther</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Give a man a fish and feed him for a day. Don’t teach a man to fish...and feed yourself. He’s a grown man. And fishing’s not that hard. --@Panther#2122</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">I like to eat ramen noodles uncooked and then get stomachaches. I also probably waste 14 hours a day talking to people on Snapchat. It's multitasking. --@Panther#2122</p>
                 </div>
           </div>
         </div>
