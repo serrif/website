@@ -25,48 +25,35 @@ Everything that we're built around, every idea we adopt as a principle of the se
     </div>
     <div class="usa-width-one-half">
       <h2>What we're doing</h2>
-      <p>Building an in-game community that's more resourceful, efficient, supportive, and always has security in mind. We're putting architects, developers, and designers together for everyone's creative side.</p>
+      <p>Building an in-game community that's more resourceful, efficient, supportive, and always has the member at heart. We're putting architects, developers, and designers together for everyone's creative side.</p>
     </div>
 </div>
 
 <hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 
 ## Our values
-<div class="usa-grid-full">
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>One of our values</h3>
-            <p>Placeholder text.</p>
-        </div>
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>Another value</h3>
-            <p>Placeholder text.</p>
-        </div>
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>Another value</h3>
-            <p>Placeholder text.</p>
+Placeholder.
+{: .usa-font-lead }
+
+<div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 3rem;">
+		<span style="color: #0071bc;">
+      <i class="fa fa-lock"></i>
+    </span>
+	</div>
+	<div class="usa-width-five-sixths footer-content">
+		<h3>Spotlight on security</h3>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely discuss about anything that happens on (and off) the server.</p>
         </div>
 </div>
 
-<br>
-
-<div class="usa-grid-full">
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>One of our values</h3>
-            <p>Placeholder text.</p>
-        </div>
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>Another value</h3>
-            <p>Placeholder text.</p>
-        </div>
-        <div class="usa-width-one-third">
-            <img src="../assets/img/circle.png" alt="">
-            <h3>Another value</h3>
-            <p>Placeholder text.</p>
+<div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 3rem;">
+		<h1 style="text-align:center">2.</h1>
+	</div>
+	<div class="usa-width-five-sixths footer-content">
+		<h3>Pick great people</h3>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely discuss about anything that happens on (and off) the server.</p>
         </div>
 </div>
 
