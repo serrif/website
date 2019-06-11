@@ -70,7 +70,38 @@ Placeholder.
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <span style="color: #0071bc;">
+                <i aria-hidden="true" class="fas fa-glass-whiskey fa-4x"></i>
+              </span>
+            </div>
+            <div class="usa-width-five-sixths footer-content">
+              <h3>"Half full" philosophy</h3>
+              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <p style="margin-bottom: 1rem; max-width: 65rem;">Placeholder.</p>
+                </div>
+          </div>
+        </div>
+        <div class="usa-width-one-half">
+          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
+              <span style="color: #0071bc;">
                 <i aria-hidden="true" class="fas fa-blender fa-4x"></i>
+              </span>
+            </div>
+            <div class="usa-width-five-sixths footer-content">
+              <h3>Another item</h3>
+              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <p style="margin-bottom: 1rem; max-width: 65rem;">Placeholder.</p>
+                </div>
+          </div>
+        </div>
+</div>
+
+<div class="usa-grid-full">
+        <div class="usa-width-one-half">
+          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
+              <span style="color: #0071bc;">
+                <i aria-hidden="true" class="fas fa-glass-blender fa-4x"></i>
               </span>
             </div>
             <div class="usa-width-five-sixths footer-content">
@@ -98,7 +129,40 @@ Placeholder.
 
 <hr style="margin-top: 4.5rem;">
 
-## How we started
+### Who we're designing for
+Placeholder.
+
+<br>
+<div class="usa-grid-full">
+    <div class="usa-width-one-fourth" style="text-align: center;">
+      <span style="color: #0071bc;">
+        <i aria-hidden="true" class="fas fa-user-ninja fa-4x"></i>
+        <h5>User 1</h5>
+      </span>
+    </div>
+    <div class="usa-width-one-fourth" style="text-align: center;">
+      <span style="color: #0071bc;">
+        <i aria-hidden="true" class="fas fa-user-tie fa-4x"></i>
+        <h5>User 2</h5>
+      </span>
+    </div>
+    <div class="usa-width-one-fourth" style="text-align: center;">
+      <span style="color: #0071bc;">
+        <i aria-hidden="true" class="fas fa-user-injured fa-4x"></i>
+        <h5>User 3</h5>
+      </span>
+    </div>
+    <div class="usa-width-one-fourth" style="text-align: center;">
+      <span style="color: #0071bc;">
+        <i aria-hidden="true" class="fas fa-user-ninja fa-4x"></i>
+        <h5>User 4</h5>
+      </span>
+    </div>
+  </div>
+
+<hr style="margin-top: 4.5rem;">
+
+### How we started
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
             <p>Placeholder text.</p>
