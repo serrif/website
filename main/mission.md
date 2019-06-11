@@ -36,9 +36,9 @@ Placeholder.
 {: .usa-font-lead }
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 3rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; text-align: center;">
 		<span style="color: #0071bc;">
-      <i class="fa fa-lock"></i>
+      <i aria-hidden="true" class="fas fa-lock fa-6x"></i>
     </span>
 	</div>
 	<div class="usa-width-five-sixths footer-content">
@@ -48,8 +48,10 @@ Placeholder.
 </div>
 
 <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 3rem;">
-		<h1 style="text-align:center">2.</h1>
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; text-align: center;">
+		<span style="color: #0071bc;">
+      <i aria-hidden="true" class="fas fa-male fa-6x"></i>
+    </span>
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Pick great people</h3>
