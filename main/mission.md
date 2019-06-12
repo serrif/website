@@ -30,7 +30,7 @@ Building an in-game community that's more resourceful, efficient, supportive, an
 Placeholder.
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 1.5rem; text-align: center;">
 		<span style="color: #0071bc;">
       <i aria-hidden="true" class="fas fa-lock fa-4x"></i>
     </span>
@@ -42,7 +42,7 @@ Placeholder.
 </div>
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 1.5rem; text-align: center;">
 		<span style="color: #0071bc;">
       <i aria-hidden="true" class="fas fa-glass-whiskey fa-4x"></i>
     </span>
@@ -54,7 +54,7 @@ Placeholder.
 </div>
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 1.5rem; text-align: center;">
 		<span style="color: #0071bc;">
       <i aria-hidden="true" class="fas fa-fish fa-4x"></i>
     </span>
@@ -66,7 +66,7 @@ Placeholder.
 </div>
 
 <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem;">
+	<div class="usa-width-one-sixth" style="max-width: 13rem; margin-right: 3rem; margin-top: 1.5rem; text-align: center;">
 		<span style="color: #0071bc;">
       <i aria-hidden="true" class="fas fa-life-ring fa-4x"></i>
     </span>

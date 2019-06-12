@@ -42,33 +42,6 @@ Our documentation pages are our actively-maintained instructions for our server,
 
 <hr style="margin-top: 4.5rem;">
 
-## Campaign libraries
-Specified information on proprietary extensions, server plugins, and on-board software. Contains branding information (along with web resources) and plugin libraries.
-
-<div class="usa-grid-full">
-  <div class="usa-width-one-third">
-
-    <ul>
-      <li>Introduction (to general library information and contribution)</li>
-      <li>Developer library (of collections for information on plugin code contribution)</li>
-    </ul>
-
-  </div>
-  <div class="usa-width-one-third">
-
-    <ul>
-      <li>Magisterial library (of policy and procedures for staff members)</li>
-      <li>Judicial library (of rights and legislative handling of members)</li>
-    </ul>
-
-  </div>
-</div>
-
-<a class="usa-button usa-button" href="../library">View libraries</a>
-<a class="usa-button usa-button-secondary" href="../download">Download</a>
-
-<hr style="margin-top: 4.5rem;">
-
 ## Legal policies
 Our legal policies help users understand applicable laws and regulations for our online services. Commitment to privacy is a keystone of the organization's operations and how security factors into the server environment.
 
