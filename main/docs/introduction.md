@@ -142,7 +142,7 @@ We use Discord's role system to designate and separate members on the server; me
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">There are only our server's titles. Our ranks are listed on our [authority documentation](../docs/authority)</p>
+    <p class="usa-alert-text">There are only our server's titles. Our ranks are listed on our <a href="../docs/authority">authority documentation</a>.</p>
   </div>
 </div>
 
