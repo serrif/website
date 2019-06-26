@@ -60,7 +60,7 @@ Nearby members can be located with a few proximity commands.
  * `/radar` - Displays a list of nearby members and their proximity to you.
  * `/nearby`  or `/near` - An Essentials-based variant of the above command, tracks proximity.
 
-We currently only support Minecraft for `1.14.2`. As the game updates, our support for older versions may change.
+We currently only support Minecraft for `1.14.3`. As the game updates, our support for older versions may change.
 
 ### Communication
 Besides the chat, we offer other features to take advantage of messaging, with additional features, though a variety of different commands. We use the <a class="usa-external_link" href="http://wiki.mc-ess.net/wiki/Command_Reference">Essentials</a> features library along with several other plugins for additional functionality.
@@ -121,9 +121,9 @@ Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a
 ### Channels
 We have text and voice channels for everyone in the community to use. We separate a few discussion streams into separate channels to keep conversations more organized.
 
- * [`#github`](https://discord.gg/TY5Jw2C) - GitHub organization activity log.
  * [`#announcements`](https://discord.gg/nuNTR3U) - For important stuff; updates, and server news. Only Executives can send messages here.
- * [`#terminal-logs`](https://discord.gg/hmKEtH9) - Where all moderation actions log.
+ * [`#github`](https://discord.gg/TY5Jw2C) - GitHub organization activity log.
+ * [`#public-logs`](https://discord.gg/hmKEtH9) - Where all moderation actions log.
 
 The following channels can be used by anyone who isn't muted or removed.
 
@@ -159,7 +159,8 @@ We use bots to manage our server members, its moderation, and to add additional 
 
  * `/` - Displays a pop-up menu listing the built-in commands on Discord.
  * `!help` - Displays a list of the <a class="usa-external_link" href="https://rythmbot.co/">Rythm</a> bot's commands via its website.
- * `>_help` - Displays a list of the terminal bot's commands.
+ * `~help` - Displays a list of the <a class="usa-external_link" href="https://auttaja.io/">Auttaja</a> bot's commands.
+ * `s?help` - Displays a list of the <a class="usa-external_link" href="https://statbot.net">Statbot</a> bot's commands.
  * `?help` - Displays a list of the in-game bot's commands.
 
 ---
