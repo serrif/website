@@ -14,4 +14,5 @@ tagline: We're a modern, creative community.
 
 ## Latest posts
 {% for post in site.posts %}
-  {% include post.html %}
+  {% include post.html post=post excerpt=true %}
+{% endfor %}
