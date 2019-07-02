@@ -129,6 +129,7 @@ The following channels can be used by anyone who isn't muted or removed.
 
  * [`#general`](https://discord.gg/vXydQmT) - For any and all discussions without a specific channel.
  * [`#nonsense`](https://discord.gg/FdBymjx) - Messages that are purposeless or spam.
+ * [`#support`](https://discord.gg/hGFsCkx) - For any and all things server development.
  * [`#server`](https://discord.gg/PB3atCg) - Channel that receives in-game chat messages and sends messages to the in-game server.
 
 ### Roles
