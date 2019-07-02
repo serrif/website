@@ -13,11 +13,5 @@ tagline: We're a modern, creative community.
 ---
 
 ## Latest posts
-<ul>
-				{% for post in site.posts %}
-					<li>
-						{{ post.content }}
-						<span>{{ post.date | date: "%B %e, %Y" }}</span>
-					</li>
-				{% endfor %}
-</ul>
+{% for post in site.posts %}
+  {% include post.html post=post excerpt=true %}

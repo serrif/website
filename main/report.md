@@ -6,8 +6,6 @@ layout: post
 ---
 
 ## File a report
-you can file a report etc
-
 <form class="usa-form-large" action="https://formspree.io/support@novelmc.net" method="POST">
   <input type="hidden" name="_subject" value="Report for support@novelmc.net" />
   <fieldset>
