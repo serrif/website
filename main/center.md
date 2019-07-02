@@ -5,7 +5,7 @@ permalink: /center/
 layout: home
 
 hero:
-  image: ../assets/img/hero/aJyfgGb.png
+  image: ../assets/img/hero/WVy0BOAMU9.png
   callout:
     text: Information center
 
