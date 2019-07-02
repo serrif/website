@@ -2,7 +2,7 @@
 title: File a report
 permalink: /report/
 
-layout: post
+layout: file
 ---
 
 ## File a report

@@ -2,7 +2,7 @@
 title: Policy
 permalink: /docs/policy
 
-layout: post
+layout: file
 sidenav: docs
 ---
 

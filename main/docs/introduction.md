@@ -2,7 +2,7 @@
 title: Introduction
 permalink: /docs/
 
-layout: post
+layout: file
 sidenav: docs
 subnav:
   - text: "In-game server"

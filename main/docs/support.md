@@ -2,6 +2,6 @@
 title: Support
 permalink: /docs/support
 
-layout: post
+layout: file
 sidenav: docs
 ---

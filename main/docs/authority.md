@@ -2,6 +2,6 @@
 title: Authority
 permalink: /docs/authority
 
-layout: post
+layout: file
 sidenav: docs
 ---

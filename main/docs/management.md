@@ -2,6 +2,6 @@
 title: Management
 permalink: /docs/management
 
-layout: post
+layout: file
 sidenav: docs
 ---

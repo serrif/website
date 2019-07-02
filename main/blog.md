@@ -7,7 +7,7 @@ layout: home
 hero:
   image: ../assets/img/hero/WVy0BOAMU9.png
   callout:
-    text: Server blog
+    text: Information center
 
 tagline: We're a modern, creative community.
 ---

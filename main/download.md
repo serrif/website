@@ -2,7 +2,7 @@
 title: Downloadable resources
 permalink: /download/
 
-layout: post
+layout: file
 ---
 
 ## Downloadable resources
