@@ -5,11 +5,9 @@
       {{ post.tags[0] }}
     </p>
 
-    <h1 class="post-title">
-      {% if include.excerpt %}<a href="{{ site.baseurl }}{{ post.url }}">{% endif %}
+    <h2 class="post-title">
       {{ post.title }}
-      {% if include.excerpt %}</a>{% endif %}
-    </h1>
+    </h2>
 
     {% if post.author %}
     <span class="post-date site-subheading">By {{ post.author }}</span>

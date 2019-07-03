@@ -13,7 +13,7 @@ Here you'll find all the assets you need to view information offline. logos, plu
 ### Converse
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
 
-<a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases">Download Converse</a>
+<a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases/tag/1.0">Download Converse v1.0</a>
 
 <hr style="margin-top: 3.5rem;">
 

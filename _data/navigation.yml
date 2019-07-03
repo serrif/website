@@ -47,19 +47,6 @@ docs:
 
     external: true
 
-library:
-  - text: Introduction
-    href: /library/
-  - text: Developer library
-    href: /library/developer
-  - text: Magisterial library
-    href: /library/magisterial
-  - text: Judicial library
-    href: /library/judicial
-
-
-    external: true
-
 policies:
   - text: Terms of service
     href: /terms/
@@ -70,14 +57,14 @@ policies:
     external: true
 
 explore:
-  - text: Our mission
-    href: /mission/
-    external: true
   - text: Our team
     href: /team/
     external: true
   - text: FAQs
     href: /faq/
+    external: true
+  - text: Get in touch
+    href: /contact/
     external: true
   - text: Legal policies
     href: /center/#legal-policies

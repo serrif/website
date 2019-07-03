@@ -5,7 +5,7 @@ permalink: /faq/
 layout: home
 
 hero:
-  image: ../assets/img/hero/ohlvtwm.png
+  image: ../assets/img/hero/h9qmclx8Hg.png
   callout:
     text: Frequently asked questions
 

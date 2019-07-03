@@ -5,7 +5,7 @@ permalink: /team/
 layout: home
 
 hero:
-  image: ../assets/img/hero/rQdjmqnCq8.png
+  image: ../assets/img/hero/Vr7SiQMQpJ.png
   callout:
     text: Our team
 

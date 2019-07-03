@@ -5,7 +5,7 @@ permalink: /
 layout: home
 
 hero:
-  image: ../assets/img/hero/BacM6mm.png
+  image: ../assets/img/hero/4R2kvopvIy.png
   callout:
     alt: "An end-to-end creative platform"
     text: for the spontaneous architect.
@@ -13,13 +13,19 @@ hero:
 ---
 
 ## Creative wheels are spinning
-We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
+Our goal in everything we do is founded in our mission statement- we want to deliver a better; more modern, resourceful, and secure server experience for everyone.
 {: .usa-font-lead }
 
-Our goal in everything we do is founded in our mission statement. All of our members are entitled to be supported in a safe, and secure environment.
+All of our members are entitled to be supported in a safe, and secure environment. We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
+
+<hr style="margin-top: 4.5rem;">
+
+## What we're up to
+Catch up with the latest of what's going on around here. Keep yourself updated, and learn how we're striving to be better as a server and as a creative group, and keep tabs on how to remain involved.
 {: .usa-font-lead }
 
-<a class="usa-button usa-button-secondary" href="../mission">Our mission</a>
+<a class="usa-button usa-button" href="../blog">Read the blog</a>
+<a class="usa-button usa-button-secondary" href="../twitter">Connect on Twitter</a>
 
 <hr style="margin-top: 4.5rem;">
 
