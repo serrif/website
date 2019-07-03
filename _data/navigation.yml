@@ -80,6 +80,6 @@ footer:
   - text: Dynamic map
     href: http://map.novelmc.net/
     external: true
-  - text: Management panel
-    href: https://panel.novelmc.net/
+  - text: Voting information
+    href: /vote/
     external: true

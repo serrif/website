@@ -16,7 +16,7 @@ hero:
 Our goal in everything we do is founded in our mission statement- we want to deliver a better; more modern, resourceful, and secure server experience for everyone.
 {: .usa-font-lead }
 
-All of our members are entitled to be supported in a safe, and secure environment. We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
+We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
 
 <hr style="margin-top: 4.5rem;">
 
