@@ -162,7 +162,6 @@ We use bots to manage our server members, its moderation, and to add additional 
  * `!help` - Displays a list of the <a class="usa-external_link" href="https://rythmbot.co/">Rythm</a> bot's commands via its website.
  * `~help` - Displays a list of the <a class="usa-external_link" href="https://auttaja.io/">Auttaja</a> bot's commands.
  * `s?help` - Displays a list of the <a class="usa-external_link" href="https://statbot.net">Statbot</a> bot's commands.
- * `?help` - Displays a list of the in-game bot's commands.
 
 ---
 
