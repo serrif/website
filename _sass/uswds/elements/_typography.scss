@@ -54,7 +54,7 @@ a {
 
 .site-page-title {
   font-weight: fw('bold');
-  color: color($site-ink);
+  color: color(#FFF);
 }
 
 .post-excerpt {
@@ -95,10 +95,10 @@ a {
   text-transform: none;
 }
 
-.post-title {
-  @include typeset-h2;
-  @include u-measure(1);
-}
+//.post-title {
+  //@include typeset-h2;
+  //@include u-measure(1);
+//}
 
 // External link consider "effortless style approach":
 // [href^="http:"]:not([href*="my-domain.com"])
