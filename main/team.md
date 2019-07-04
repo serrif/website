@@ -159,7 +159,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
             <div class="usa-width-five-sixths footer-content">
               <h3>Video</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">I steal good codes. --Video#9801</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">I steal good codes. --@Video#9801</p>
                 </div>
           </div>
         </div>
@@ -174,24 +174,12 @@ Mods are the basic staff members on the server. They have basic moderation permi
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/7e1d015b23804204a0ef19d0b73280e5?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/606e2ff0ed7748429d6ce1d3321c7838?scale=10&overlay" alt="" style="width: 130px;">
             </div>
             <div class="usa-width-five-sixths footer-content">
-              <h3>squarent</h3>
+              <h3>Maybe you?</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Birthdays were invented by Hallmark to sell cards. --@square#1255</p>
-                </div>
-          </div>
-        </div>
-        <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/d018f2b8ce604672a45fe580e0331299?scale=10&overlay" alt="" style="width: 130px;">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>speednt</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Give 100%. 110% is impossible. Only idiots recommend that. --@speed#3413</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">Come join us!</p>
                 </div>
           </div>
         </div>

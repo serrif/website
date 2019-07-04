@@ -1,92 +1,111 @@
-// TODO: abstract and integrate
+$usa-btn-small-width:   4.5rem;
+$usa-btn-medium-width:  8.5rem;
+$usa-btn-big-width:     11.6rem;
+
 @mixin search-icon {
-  @include add-background-svg('search');
-  background-position: center center;
-  background-size: units(3);
+  background-image: url('#{$image-path}/search.png');
+  background-image: url('#{$image-path}/search.svg');
+  background-position: 50%;
+  background-repeat: no-repeat;
 }
 
 .usa-search {
-  @include border-box-sizing;
   @include clearfix;
-  @include typeset($theme-search-font-family);
+  max-width: none;
   position: relative;
 
-  [role=search] {
-    display: flex;
-  }
-
-  [type=submit] {
+  [type=submit],
+  .usa-search-submit {
     @include search-icon;
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
-    height: units(4);
+    height: 3.3rem;
     margin: 0;
     padding: 0;
-    width: units($theme-button-small-width);
+    width: $usa-btn-small-width;
 
-    @include at-media('mobile-lg') {
-      @include u-padding-x(2);
+    @include media($small-screen) {
       background-image: none;
-      width: auto;
+      width: $usa-btn-medium-width;
+    }
+  }
+
+  &.usa-search-big {
+    @include media($small-screen) {
+      $height: 4.4rem;
+      $width: $usa-btn-big-width;
+
+      [type=search],
+      .usa-search-input {
+        font-size: $base-font-size;
+        height: $height;
+        width: calc(100% - #{$width});
+      }
+
+      [type=submit],
+      .usa-search-submit {
+        font-size: $h3-font-size;
+        height: $height;
+        width: $width;
+      }
+    }
+  }
+
+  &.usa-search-small {
+    @include media($small-screen) {
+      $width: $usa-btn-small-width;
+
+      [type=search],
+      .usa-search-input {
+        width: calc(100% - #{$width});
+      }
+
+      [type=submit],
+      .usa-search-submit {
+        @include search-icon;
+        width: $width;
+      }
+    }
+
+    $lt-nav-width: $nav-width - 1px;
+
+    @media screen and (max-width: $lt-nav-width) {
+      &.usa-sr-only {
+        left: auto;
+        position: relative;
+      }
     }
   }
 }
 
-.usa-search--big {
-  $height: units(6);
-
-  [type=search],
-  .usa-search__input {
-    @include at-media('mobile-lg') {
-      font-size: font-size($theme-search-font-family, 'sm');
-      height: $height;
-    }
-  }
-
-  [type=submit],
-  .usa-search__submit {
-    @include at-media('mobile-lg') {
-      @include u-padding-x(4);
-      font-size: font-size($theme-search-font-family, 'lg');
-      height: $height;
-      width: auto;
-    }
-  }
-}
-
-.usa-search--small {
-  [type=submit],
-  .usa-search__submit {
-    @include at-media('mobile-lg') {
-      @include search-icon;
-      width: units($theme-button-small-width);
-    }
-  }
-}
-
-// Extra specificity to override rules set in normalize.css.
+// Extra specificity to override rules set in reset.css.
 input[type=search] { /* stylelint-disable-line selector-no-qualifying-type */
   box-sizing: border-box;
-  appearance: none;
+  -webkit-appearance: none;
 }
 
 [type=search],
-.usa-search__input {
-  @include u-padding-y(0);
+.usa-search-input {
+  @include padding(0 null);
   border-bottom-right-radius: 0;
   border-right: none;
   border-top-right-radius: 0;
   box-sizing: border-box;
   float: left;
-  font-size: font-size($theme-search-font-family, 'xs');
-  height: units(4);
+  font-size: $small-font-size;
+  height: 3.3rem;
   margin: 0;
+  width: calc(100% - #{$usa-btn-small-width});
+
+  @include media($small-screen) {
+    width: calc(100% - #{$usa-btn-medium-width});
+  }
 }
 
-.usa-search__submit-text {
+.usa-search-submit-text {
   @include sr-only;
 
-  @include at-media('mobile-lg') {
-    @include not-sr-only;
+  @include media($small-screen) {
+    @include not-sr-only();
   }
 }
