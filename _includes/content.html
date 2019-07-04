@@ -1,0 +1,27 @@
+{% assign post = include.post %}
+<article id="{{ post.id | default: post.title | slugify }}"{% if include.excerpt %} class="post-excerpt padding-top-2 border-top-2px margin-top-4 measure-6"{% endif %}>
+  <header>
+    <h1>
+      {{ post.title }}
+    </h1>
+
+    {% if post.author %}
+    <span>By {{ post.author }}</span>
+    {% endif %}
+    <time datetime="{{ post.date | date: '%FT%T' }}">
+      {{ post.date | date: '%B %-d, %Y' }}
+    </time>
+  </header>
+
+  <div>
+  {% if include.excerpt == true %}
+    <p>
+      {{ post.lead | default: post.excerpt }}
+    </p>
+
+    <a class="usa-button usa-button-secondary" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
+  {% else %}
+    {{ post.content }}
+  {% endif %}
+  </div>
+</article>

@@ -16,5 +16,4 @@ tagline: We're a modern, creative community.
 {% for post in site.posts %}
   <hr style="margin-top: 3.5rem;">
   {% include post.html post=post excerpt=true %}
-  <hr style="margin-top: 3.5rem;">
 {% endfor %}
