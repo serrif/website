@@ -6,10 +6,8 @@
     <div class="usa-hero-callout usa-section-dark">
       <h2>
         <span class="usa-hero-callout-alt">{{ post.title }}</span>
-        {% endif %}
         {{ hero.callout.text | default: hero.callout }}
       </h2>
-      {% endif %}
 
       <div class="post-content site-prose {% if include.excerpt == true %}{% else%}measure-4 {% endif %}margin-top-4">
       {% if include.excerpt == true %}
