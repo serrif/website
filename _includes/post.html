@@ -11,9 +11,15 @@
 
       <div>
       {% if include.excerpt == true %}
-        <p class="post-excerpt">
+        <p>
           {{ post.lead | default: post.excerpt }}
         </p>
+      {% if post.author %}
+        <span>By {{ post.author }}</span>
+      {% endif %}
+        <time datetime="{{ post.date | date: '%FT%T' }}">
+          {{ post.date | date: '%B %-d, %Y' }}
+        </time>  
 
         <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
       {% else %}
