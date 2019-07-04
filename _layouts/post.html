@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign hero = page.hero %}
-{% include components/hero.html %}
+{% include components/hero-post.html %}
 
 {% capture _graphics %}
   {% include graphic-list.html graphics=page.graphics %}
@@ -14,7 +14,6 @@ layout: default
   <div class="usa-grid">
       <header>
         <p class="site-subheading">{{ page.category | default: layout.category }}</p>
-        <h1 id="{{ page.title | slugify }}" class="site-page-title">{{ page.title }}</h1>
       </header>
       {{ content }}
   </div>
