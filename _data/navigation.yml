@@ -60,11 +60,11 @@ explore:
   - text: Our team
     href: /team/
     external: true
+  - text: About us
+    href: /about/
+    external: true
   - text: FAQs
     href: /faq/
-    external: true
-  - text: Get in touch
-    href: /contact/
     external: true
   - text: Legal policies
     href: /center/#legal-policies

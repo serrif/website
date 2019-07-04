@@ -12,6 +12,13 @@ hero:
   content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
 ---
 
+<div class="usa-alert usa-alert-warning" >
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">When's the launch?</h3>
+    <p class="usa-alert-text">We're launching Wednesday the 10th of July at 2PM EST. We're excited about it. Mark your calendars!</p>
+  </div>
+</div>
+
 ## Creative wheels are spinning
 Our goal in everything we do is founded in our mission statement- we want to deliver a better; more modern, resourceful, and secure server experience for everyone.
 {: .usa-font-lead }

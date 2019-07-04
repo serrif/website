@@ -50,56 +50,6 @@ a {
   }
 }
 
-// Blog
-
-.site-page-title {
-  font-weight: fw('bold');
-  color: color(#FFF);
-}
-
-.post-excerpt {
-  margin-top: units(5);
-
-  .post-title {
-    margin-top: 0;
-    margin-bottom: 0;
-
-    a {
-      color: inherit;
-      text-decoration: none;
-
-      &:hover {
-        color: color($site-primary);
-        text-decoration: underline;
-      }
-    }
-  }
-
-  .post-category {
-    margin-top: 0;
-  }
-
-  .post-category + .post-title {
-    margin-top: 0;
-  }
-
-  .post-content p {
-    margin-bottom: 0;
-    margin-top: units(0.5);
-  }
-} // .post-excerpt
-
-.post-date {
-  display: block;
-  letter-spacing: normal;
-  text-transform: none;
-}
-
-//.post-title {
-  //@include typeset-h2;
-  //@include u-measure(1);
-//}
-
 // External link consider "effortless style approach":
 // [href^="http:"]:not([href*="my-domain.com"])
 // [href^="https:"]:not([href*="my-domain.com"])

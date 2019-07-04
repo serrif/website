@@ -151,6 +151,18 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
                 </div>
           </div>
         </div>
+        <div class="usa-width-one-half">
+          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+            <div class="usa-width-one-sixth" style="max-width: 13rem;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/c3bca952cff34ea58ff589b273b4fbfc?scale=10&overlay" alt="" style="width: 130px;">
+            </div>
+            <div class="usa-width-five-sixths footer-content">
+              <h3>Video</h3>
+              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <p style="margin-bottom: 1rem; max-width: 65rem;">I steal good codes. --Video#9801</p>
+                </div>
+          </div>
+        </div>
 </div>
 
 <hr style="margin-top: 3.5rem;">

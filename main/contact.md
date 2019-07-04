@@ -5,7 +5,7 @@ permalink: /contact/
 layout: home
 
 hero:
-  image: ../assets/img/hero/NpyBPU9vkD.png
+  image: ../assets/img/hero/rQdjmqnCq8.png
   callout:
     text: Get in touch
 
