@@ -57,11 +57,11 @@ policies:
     external: true
 
 explore:
-  - text: Our team
-    href: /team/
-    external: true
   - text: About us
     href: /about/
+    external: true
+  - text: Our team
+    href: /team/
     external: true
   - text: FAQs
     href: /faq/
