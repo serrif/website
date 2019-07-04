@@ -12,9 +12,6 @@ layout: default
 
 <section class="usa-section">
   <div class="usa-grid">
-    {% if page.collection == 'posts' %}
-      {% include content.html post=page %}
-    {% else %}
       <header>
         <p class="site-subheading">{{ page.category | default: layout.category }}</p>
         <h1 id="{{ page.title | slugify }}" class="site-page-title">{{ page.title }}</h1>
