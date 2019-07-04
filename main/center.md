@@ -2,7 +2,7 @@
 title: Information center
 permalink: /center/
 
-layout: home
+layout: page
 
 hero:
   image: ../assets/img/hero/WVy0BOAMU9.png

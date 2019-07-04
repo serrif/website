@@ -1,18 +1,17 @@
 ---
 layout: default
 ---
-<div class="default-container">
-  <aside class="sidenav">
-    {% assign sidenav = site.data.nav[page.category] %}
-    {% if sidenav %}
-    <ul class="site-sidenav usa-sidenav">
-      {% include nav/list.html links=sidenav %}
-    </ul>
-    {% endif %}
-  </aside>
 
-  <main id="main-content" class="main-content">
-    <div class="styleguide-content usa-prose site-prose">
+{% assign hero = page.hero %}
+{% include components/hero.html %}
+
+{% capture _graphics %}
+  {% include graphic-list.html graphics=page.graphics %}
+{% endcapture %}
+{% if page.graphics_position != 'after' %}{{ _graphics }}{% endif %}
+
+<section class="usa-section">
+  <div class="usa-grid">
     {% if page.collection == 'posts' %}
       {% include post.html post=page %}
     {% else %}
@@ -22,6 +21,7 @@ layout: default
       </header>
       {{ content }}
     {% endif %}
-    </div>
-  </main>
-</div>
+  </div>
+</section>
+
+{% if page.graphics_position == 'after' %}{{ _graphics }}{% endif %}
