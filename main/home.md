@@ -16,7 +16,7 @@ hero:
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">When's the launch?</h3>
     <p class="usa-alert-text">We're launching Wednesday the 10th of July at 2PM EST. We're excited about it. Mark your calendars!</p>
-    <a class="usa-button usa-button-active" href="../2019/07/04/preparing-for-launch.html"
+    <a class="usa-button usa-button-active" href="../2019/07/04/preparing-for-launch.html"></a>
   </div>
 </div>
 
