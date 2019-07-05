@@ -1,9 +1,9 @@
 {% assign post = include.post %}
-<article id="{{ post.id | default: post.title | slugify }}"{% if include.excerpt %} class="post-excerpt padding-top-2 border-top-2px margin-top-4 measure-6"{% endif %}>
+<article>
   <header>
-    <h1>
+    <h2>
       {{ post.title }}
-    </h1>
+    </h2>
 
     {% if post.author %}
     <span>By {{ post.author }} on</span>
