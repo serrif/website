@@ -11,7 +11,7 @@ We created this blog as another way to make sure no one is left in the dark when
 <section class="usa-hero" style="background-image: url('https://novelmc.net/assets/img/hero/h9qmclx8Hg.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
 </section>
 
-<p class="blog-caption">Look at this cool caption!</p>
+<p style="text-align: center; margin-top: -4rem; color: #d6d7d9;">Look at this cool caption!</p>
 
 ### When?
 Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. All of the information in our [documentation](https://novelmc.net/docs/), and our other services will be in full swing.
