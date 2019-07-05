@@ -6,7 +6,7 @@
     </h1>
 
     {% if post.author %}
-    <span>By {{ post.author }}</span>
+    <span>By {{ post.author }} on</span>
     {% endif %}
     <time datetime="{{ post.date | date: '%FT%T' }}">
       {{ post.date | date: '%B %-d, %Y' }}

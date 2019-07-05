@@ -2,8 +2,27 @@
 layout: default
 ---
 
-{% assign hero = page.hero %}
-{% include components/hero.html %}
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+    {% if site.google_analytics_ua or site.dap_agency %}
+      {% include analytics.html %}
+    {% endif %}
+  </head>
+  <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
+
+    {% include skipnav.html %}
+    {% include header.html %}
+
+    <section class="usa-hero" style="background-image: url('../assets/img/hero/WVy0BOAMU9.png')">
+      <div class="usa-grid">
+       <div class="usa-hero-callout usa-section-dark" style="max-width: fit-content;">
+         <h2>Information center</h2>
+       </div>
+      </div>
+    </section>
 
 {% capture _graphics %}
   {% include graphic-list.html graphics=page.graphics %}
@@ -12,10 +31,15 @@ layout: default
 
 <section class="usa-section">
   <div class="usa-grid">
+    {% if page.collection == 'posts' %}
+      {% include content.html post=page %}
+    {% else %}
       <header>
         <p class="site-subheading">{{ page.category | default: layout.category }}</p>
+        <h1 id="{{ page.title | slugify }}" class="site-page-title">{{ page.title }}</h1>
       </header>
       {{ content }}
+    {% endif %}
   </div>
 </section>
 
