@@ -1,14 +1,11 @@
 {% assign post = include.post %}
 <article id="{{ post.id | default: post.title | slugify }}"{% if include.excerpt %} class="post-excerpt padding-top-2 border-top-2px margin-top-4 measure-6"{% endif %}>
   <header>
-    <div class="usa-grid">
-      <div class="usa-width-one-third">
+    <div class="usa-grid-full">
         <h2>{{ post.title }}</h2>
-      </div>
-      <div class="usa-width-two-thirds">
-        <p>{% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %} {% if post.author %} By {{ post.author }} on{% endif %} <time datetime="{{ post.date | date: '%FT%T' }}"> {{ post.date | date: '%B %-d, %Y' }}. </time></p>
+        <p>{% if post.author %} <strong>By {{ post.author }} on{% endif %} <time datetime="{{ post.date | date: '%FT%T' }}"> {{ post.date | date: '%B %-d, %Y' }}. </time></strong></p>
+        <p>{% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %}</p>
         <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
-      </div>
     </div>
   </header>
 </article>
