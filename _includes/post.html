@@ -1,32 +1,20 @@
 {% assign post = include.post %}
 <article id="{{ post.id | default: post.title | slugify }}"{% if include.excerpt %} class="post-excerpt padding-top-2 border-top-2px margin-top-4 measure-6"{% endif %}>
-<section class="usa-hero"
-  style="background-image: url('../assets/img/hero/rQdjmqnCq8.png')">
-  <div class="usa-grid">
-    <div class="usa-hero-callout usa-section-dark">
-      <h2>
-        <span class="usa-hero-callout-alt">{{ post.title }}</span>
-        {{ hero.callout.text | default: hero.callout }}
-      </h2>
-
-      <div>
-      {% if include.excerpt == true %}
-        <p>
-          {{ post.lead | default: post.excerpt }}
-          {% if post.author %}
-            By {{ post.author }} on
-          {% endif %}
+  <header>
+    <div class="usa-grid">
+      <div class="usa-width-one-third">
+        <h2>{{ post.title }}</h2>
+      </div>
+      <div class="usa-width-two-thirds">
+        {% if include.excerpt == true %}
+          <p>{{ post.lead | default: post.excerpt }}</p> {% if post.author %} <p>By {{ post.author }} on{% endif %}
             <time datetime="{{ post.date | date: '%FT%T' }}">
               {{ post.date | date: '%B %-d, %Y' }}.
             </time>
-        </p>
-
-        <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
-      {% else %}
-        {{ post.content }}
-      {% endif %}
+          <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
+        {% else %}
+          {{ post.content }}
+        {% endif %}
       </div>
-    </div>
   </div>
-</section>
 </article>
