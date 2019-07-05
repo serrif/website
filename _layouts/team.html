@@ -1,0 +1,42 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    {% include meta.html %}
+    {% include styles.html %}
+    {% if site.google_analytics_ua or site.dap_agency %}
+      {% include analytics.html %}
+    {% endif %}
+  </head>
+  <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
+
+    {% include skipnav.html %}
+    {% include header.html %}
+
+    <section class="usa-hero" style="background-image: url('../assets/img/hero/Vr7SiQMQpJ.png')">
+      <div class="usa-grid">
+       <div class="usa-hero-callout usa-section-dark" style="max-width: fit-content;">
+         <h2>Our team</h2>
+       </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="usa-grid-full">
+          <div class="usa-width-one-third">
+            <img src="https://crafatar.com/renders/head/{{ team.uuid }}?scale=10&overlay" alt="" style="width: 130px;">
+          </div>
+          <div class="usa-width-two-thirds">
+            <h2>{{ team.member-name }}</h2>
+            {{ content }}
+            <a class="usa-button usa-button" href="../team">Team home</a>
+          </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
