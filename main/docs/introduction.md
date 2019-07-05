@@ -36,10 +36,6 @@ subnav:
     href: '#applications'
 ---
 
-# Introduction
-Learn about how to get around the server, and make use of the latest plugin features.
-{: .usa-font-lead }
-
 ## In-game server
 Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Everyone gets operator-style permissions without hassle, with an array of plugins, and powerful tools for building and management.
 

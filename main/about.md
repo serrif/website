@@ -17,7 +17,7 @@ Deliver a better; more modern, resourceful, and secure server experience for eve
 
 Everyone has a piece they can contribute to the puzzle, and we believe when someone is proud of their role in the community, creativity comes second nature.
 
-<hr style="margin-top: 4.5rem;">
+<hr style="margin-top: 4.5rem; margin-bottom: 4.5rem;">
 
 <div class="usa-grid-full">
     <div class="usa-width-one-third">
