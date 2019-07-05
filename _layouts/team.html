@@ -25,14 +25,7 @@
 
     <section>
       <div class="usa-grid-full">
-          <div class="usa-width-one-third">
-            <img src="https://crafatar.com/renders/head/{{ team.uuid }}?scale=10&overlay" alt="" style="width: 130px;">
-          </div>
-          <div class="usa-width-two-thirds">
-            <h2>{{ team.member-name }}</h2>
-            {{ content }}
-            <a class="usa-button usa-button" href="../team">Team home</a>
-          </div>
+        {% include member.html post=page %}
       </div>
     </section>
 
