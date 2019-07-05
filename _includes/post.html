@@ -3,7 +3,7 @@
   <header>
     <div class="usa-grid-full">
         <h3>{{ post.title }}</h3>
-        <p>{% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %} {% if post.author %} <strong>By <a href="../team/#executives">{{ post.author }}</a> on{% endif %} <time datetime="{{ post.date | date: '%FT%T' }}"> {{ post.date | date: '%B %-d, %Y' }}. </time></strong></p>
+        <p>{% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %} {% if post.author %} By <a href="../team/#executives">{{ post.author }}</a> on{% endif %} <time datetime="{{ post.date | date: '%FT%T' }}"> {{ post.date | date: '%B %-d, %Y' }}. </time></p>
         <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
     </div>
   </header>
