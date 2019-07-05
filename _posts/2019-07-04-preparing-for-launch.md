@@ -1,20 +1,30 @@
 ---
 title: Preparing for launch
 author: almanacks
-excerpt: I want to welcome everyone to the new blog native here on the website. We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first here will be about when the server releases to the public, when, why, and how it's going to happen.
+excerpt: We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first post here will be about when the server releases to the public, when, why, and how it's going to happen, along with all the information you need to get involved.
 layout: post
 ---
 
-I want to welcome everyone to the new blog native here on the website. We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first here will be about when the server releases to the public, when, why, and how it's going to happen.
+We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first post here will be about when the server releases to the public, when, why, and how it's going to happen, along with all the information you need to get involved.
+
+### When?
+Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. All of the information in our [documentation](../docs), and our other services will be in full swing.
+
+### Why?
+We've been [no stranger](../about) about making it show we're invested in creativity. The first eight words everyone reads on this site is outlining our mission to creativity. By launching, we're bringing an understanding of the value of creativity to everyone as a group of designers, developers, and engineers.
+
+We're not just for anyone who wants to build in-game, though. As a collective, we're trying to power everyone's imagination, whether yours is more in the form of a programming language, or someone who's skillset is with a pen and paper. Mine is when I have a pair of drumsticks in each hand.
+
+Before we launch, you can read some of the [bios](../team) our staff have written to make this new place feel more like home.
+
+### How?
+All of our staff team's hands are going to be on deck. Everyone is going to be around to moderate what's going on in-game, as well as being a supportive face for anyone who's joining for the first time.
+
+Part of our community is also built with trust between members, so, if you can be a helping hand, please reach out to those who need it.
 
 <section class="usa-hero" style="background-image: url('https://novelmc.net/assets/img/hero/h9qmclx8Hg.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 70vw; height: 30rem;">
 </section>
 
-### When?
-Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. 
+Thanks for the read.
 
-### Why?
-We appoint members to our team to make sure everyone’s doing the right thing. Every member of our team is chosen to be a supportive member of the server; to keep the server open, and available to everyone. Our staff members serve the members, and everyone has the right to get in contact with those in charge.
-
-### How?
-We appoint members to our team to make sure everyone’s doing the right thing. Every member of our team is chosen to be a supportive member of the server; to keep the server open, and available to everyone. Our staff members serve the members, and everyone has the right to get in contact with those in charge.
+<a class="usa-button usa-button" href="../blog">Blog home</a>

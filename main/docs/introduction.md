@@ -160,7 +160,7 @@ We use Discord's role system to designate and separate members on the server; me
 The following titles are given to staff members only.
 
  * **Emeritus** - Given to staff members designated as permanently active.
- * **Inactive** - Given to staff members to show inactivity; per request.
+ * **Inactive** - Given to staff members to show inactivity; by request.
 
 ### Applications
 We use bots to manage our server members, its moderation, and to add additional features.  

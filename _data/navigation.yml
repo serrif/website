@@ -56,7 +56,7 @@ policies:
 
     external: true
 
-who:
+explore:
   - text: About us
     href: /about/
     external: true

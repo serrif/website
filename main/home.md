@@ -26,7 +26,7 @@ Our goal in everything we do is founded in our mission statement- we want to del
 
 We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
 
-<a class="usa-button usa-button-secondary" href="../about">More about us</a>
+<a class="usa-button usa-button" href="../about">Who we are</a>
 
 <hr style="margin-top: 4.5rem;">
 
