@@ -11,7 +11,7 @@ I want to welcome everyone to the new blog native here on the website. We create
 </section>
 
 ### When?
-We appoint members to our team to make sure everyone’s doing the right thing. Every member of our team is chosen to be a supportive member of the server; to keep the server open, and a  available to everyone. Our staff members serve the members, and everyone has the right to get in contact with those in charge.
+Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. 
 
 ### Why?
 We appoint members to our team to make sure everyone’s doing the right thing. Every member of our team is chosen to be a supportive member of the server; to keep the server open, and available to everyone. Our staff members serve the members, and everyone has the right to get in contact with those in charge.

@@ -16,7 +16,7 @@ hero:
   <div class="usa-alert-body">
     <h3 class="usa-alert-heading">When's the launch?</h3>
     <p class="usa-alert-text">We're launching Wednesday the 10th of July at 2PM EST. We're excited about it. Mark your calendars!</p>
-    <a class="usa-button usa-button-active" href="../2019/07/04/preparing-for-launch.html">Read the post</a>
+    <a class="usa-button usa-button" href="../2019/07/04/preparing-for-launch.html">Read the post</a>
   </div>
 </div>
 
@@ -26,7 +26,7 @@ Our goal in everything we do is founded in our mission statement- we want to del
 
 We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
 
-<a class="usa-button usa-button-secondary" href="../about">Learn about us</a>
+<a class="usa-button usa-button-secondary" href="../about">More about us</a>
 
 <hr style="margin-top: 4.5rem;">
 

@@ -56,18 +56,18 @@ policies:
 
     external: true
 
-explore:
+who:
   - text: About us
     href: /about/
     external: true
   - text: Our team
     href: /team/
     external: true
-  - text: FAQs
-    href: /faq/
+  - text: Server environment
+    href: /environment/
     external: true
-  - text: Legal policies
-    href: /center/#legal-policies
+  - text: Frequently asked
+    href: /faq/
     external: true
 
 footer:
