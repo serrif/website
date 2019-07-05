@@ -1,6 +1,6 @@
 ---
 title: Preparing for launch
-author: [almanacks](https://novelmc.net/team/#executives)
+author: almanacks
 excerpt: I want to welcome everyone to the new blog native here on the website. We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first here will be about when the server releases to the public, when, why, and how it's going to happen.
 layout: post
 ---
