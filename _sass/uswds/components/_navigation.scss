@@ -11,8 +11,8 @@
 }
 
 .usa-navbar {
-  border-bottom: 1px solid $color-gray-light;
-  height: 4rem;
+  border-bottom: 1px solid $color-white;
+  height: 41px;
 
   @include media($nav-width) {
     border-bottom: none;
