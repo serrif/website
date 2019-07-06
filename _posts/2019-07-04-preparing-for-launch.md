@@ -27,5 +27,3 @@ Before we launch, you can read some of the [bios](https://novelmc.net/team/) our
 All of our staff team's hands are going to be on deck. Everyone is going to be around to moderate what's going on in-game, as well as being a supportive face for anyone who's joining for the first time.
 
 Part of our community is also built with trust between members, so, if you can be a helping hand, please reach out to those who need it.
-
-Thanks for the read.
