@@ -12,7 +12,7 @@
 
 .usa-navbar {
   border-bottom: 1px solid $color-white;
-  height: 41px;
+  height: 4rem;
 
   @include media($nav-width) {
     border-bottom: none;
