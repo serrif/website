@@ -1,6 +1,7 @@
 {% if hero %}
 <section class="usa-hero"{% if hero.image %}
   style="background-image: url('{{ hero.image | relative_url }}')"{% endif %}>
+  <img src="{{ site.baseurl }}/assets/img/svg/waves1.svg" style="margin-top: -4rem; margin-bottom: 3rem;" alt="">
   <div class="usa-grid">
     <div class="usa-hero-callout usa-section-dark">
       {% if hero.callout %}
