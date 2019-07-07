@@ -42,7 +42,7 @@ layout: file
 * [Vote](../vote)
 
 ### Server voting
-* [Site One](..vote/site1/)
-* [Site Two](..vote/site2/)
-* [Site Three](..vote/site3/)
-* [Site Four](..vote/site4/)
+* [Site One](../vote/site1/)
+* [Site Two](../vote/site2/)
+* [Site Three](../vote/site3/)
+* [Site Four](../vote/site4/)

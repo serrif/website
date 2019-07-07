@@ -6,7 +6,7 @@ layout: file
 ---
 
 ## Extend our files
-Make use of custom server plugins for yourself with their extendibility, learn how we present our server identity using logo branding, and view and edit our documentation and legal policies offline. All of our logos, plugins, and documents are free to download.
+Make use of custom server plugins for yourself with their extendibility, view and edit our documentation and legal policies offline, learn how we present our server identity using logo branding, and view the source of our website. All of our logos, source code, and documents are free to download.
 
 <hr style="margin-top: 3.5rem;">
 
@@ -14,21 +14,6 @@ Make use of custom server plugins for yourself with their extendibility, learn h
 Contains the source code to Converse, a custom plugin for the in-game Minecraft server to manages operator permissions, in-game functions, and staff member tools. It is served under Spigot for Minecraft Java Edition, and is licensed under the GNU General Public License v3.0.
 
 <a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases/tag/1.0.1">Download Converse v1.0.1</a>
-
-<hr style="margin-top: 3.5rem;">
-
-### Website
-Contains the source code for the homepage on `novelmc.net`, the server website that provides fundamental particulars, information and resources. It is forked from the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>, and is licensed under the Creative Commons CC0 1.0 Universal license.
-
-<!-- <a class="usa-button usa-button" href="https://github.com/novelmc/website/releases/tag/1.0">Download website</a> -->
-<button class="usa-button" disabled>Download website</button>
-
-<hr style="margin-top: 3.5rem;">
-
-### Press kit
-Contains all branding information for anywhere our logo may need to display. Including but not limited to, displaying the logo in-game, and alternate logo colors for various backgrounds and color schemes. All logos are saved in `.PNG` and `.SVG` filetype versions.
-
-<a class="usa-button usa-button" href="https://novelmc.net/assets/img/presskit.zip">Download press kit</a>
 
 <hr style="margin-top: 3.5rem;">
 
@@ -46,3 +31,18 @@ Contains all information for how we operate legally as a server, including how y
 <!-- <a class="usa-button usa-button" href="https://novelmc.net/assets/policies.zip">Download policies</a> -->
 
 <button class="usa-button" disabled>Download policies</button>
+
+<hr style="margin-top: 3.5rem;">
+
+### Press kit
+Contains all branding information for anywhere our logo may need to display. Including but not limited to, displaying the logo in-game, and alternate logo colors for various backgrounds and color schemes. All logos are saved in `.PNG` and `.SVG` filetype versions.
+
+<a class="usa-button usa-button" href="https://novelmc.net/assets/img/presskit.zip">Download press kit</a>
+
+<hr style="margin-top: 3.5rem;">
+
+### Website
+Contains the source code for the homepage on `novelmc.net`, the server website that provides fundamental particulars, information and resources. It is forked from the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>, and is licensed under the Creative Commons CC0 1.0 Universal license.
+
+<!-- <a class="usa-button usa-button" href="https://github.com/novelmc/website/releases/tag/1.0">Download website</a> -->
+<button class="usa-button" disabled>Download website</button>
