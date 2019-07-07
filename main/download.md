@@ -11,9 +11,17 @@ Make use of custom server plugins for yourself with their extendibility, learn h
 <hr style="margin-top: 3.5rem;">
 
 ### Converse
-Converse is a custom plugin for the in-game Minecraft server to manages operator permissions, in-game functions, and staff member tools. It is served under Spigot for Minecraft Java Edition, and is licensed under the GNU General Public License v3.0.
+Contains the source code to Converse, a custom plugin for the in-game Minecraft server to manages operator permissions, in-game functions, and staff member tools. It is served under Spigot for Minecraft Java Edition, and is licensed under the GNU General Public License v3.0.
 
 <a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases/tag/1.0.1">Download Converse v1.0.1</a>
+
+<hr style="margin-top: 3.5rem;">
+
+### Website
+Contains the source code for the homepage on `novelmc.net`, the server website that provides fundamental particulars, information and resources. It is forked from the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>, and is licensed under the Creative Commons CC0 1.0 Universal license.
+
+<!-- <a class="usa-button usa-button" href="https://github.com/novelmc/website/releases/tag/1.0">Download website</a> -->
+<button class="usa-button" disabled>Download website</button>
 
 <hr style="margin-top: 3.5rem;">
 

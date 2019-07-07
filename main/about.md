@@ -13,7 +13,7 @@ tagline: We're a modern, creative community.
 ---
 
 ## Rooted in a mission
-Deliver a better; more modern, resourceful, and secure server experience for everyone. We're working to make an environment that not only works for everyone, an environment that you want to be a part of.
+Deliver a better; more modern, resourceful, and secure server experience for everyone; working to make an environment that not only works for everyone, an environment that you want to be a part of.
 
 Everyone has a piece they can contribute to the puzzle, and we believe when someone is proud of their role in the community, creativity comes second nature.
 
