@@ -159,7 +159,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
             <div class="usa-width-five-sixths footer-content">
               <h3>Video</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">I steal good codes. --@Video#9801</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">The Bee Movie script can be very destructive. Telesphoreo learned that the hard way. --@Video#9801</p>
                 </div>
           </div>
         </div>

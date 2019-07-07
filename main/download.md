@@ -5,20 +5,27 @@ permalink: /download/
 layout: file
 ---
 
-## Downloadable files
-Here you'll find all the assets you need to view information offline. logos, plugins, and documents
+## Extend our files
+Make use of custom server plugins for yourself with their extendibility, learn how we present our server identity using logo branding, and view and edit our documentation and legal policies offline. All of our logos, plugins, and documents are free to download.
 
 <hr style="margin-top: 3.5rem;">
 
 ### Converse
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
+Converse is a custom plugin for the in-game Minecraft server to manages operator permissions, in-game functions, and staff member tools. It is served under Spigot for Minecraft Java Edition, and is licensed under the GNU General Public License v3.0.
 
 <a class="usa-button usa-button" href="https://github.com/novelmc/converse/releases/tag/1.0.1">Download Converse v1.0.1</a>
 
 <hr style="margin-top: 3.5rem;">
 
+### Press kit
+Contains all branding information for anywhere our logo may need to display. Including but not limited to, displaying the logo in-game, and alternate logo colors for various backgrounds and color schemes. All logos are saved in `.PNG` and `.SVG` filetype versions.
+
+<a class="usa-button usa-button" href="https://novelmc.net/assets/img/presskit.zip">Download press kit</a>
+
+<hr style="margin-top: 3.5rem;">
+
 ### Documentation
-Donec vestibulum tempus aliquet. Curabitur tristique sed leo ut rutrum. Donec vel neque at magna tempus ullamcorper. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam sit amet consequat odio. Morbi maximus pretium dapibus. Proin arcu nulla, laoreet id accumsan vitae, ultrices ut massa. Pellentesque consectetur nec massa id feugiat. Cras a lorem vel eros lacinia auctor in vitae urna. Vestibulum congue maximus sodales. Proin et bibendum erat. Donec quis malesuada arcu.
+Contains information such as our introductory material, server policy, support, and staff member information. Any general information for how things work on the in-game server is also included within the documentation. Living documentation files are hosted on [the website](../docs/).
 
 <!-- <a class="usa-button usa-button" href="https://novelmc.net/assets/docs.zip">Download docs</a> -->
 <button class="usa-button" disabled>Download docs</button>
@@ -26,15 +33,8 @@ Donec vestibulum tempus aliquet. Curabitur tristique sed leo ut rutrum. Donec ve
 <hr style="margin-top: 3.5rem;">
 
 ### Legal policies
-In eget leo arcu. Vivamus nec tempor augue, nec eleifend lorem. In sed mattis orci. Proin id mauris ac nisl pretium fringilla. Donec pellentesque, nisi a suscipit interdum, metus sem tincidunt erat, at mattis turpis tellus ut magna. Maecenas fringilla eget turpis iaculis viverra. Sed consequat, augue vitae fringilla sollicitudin, eros justo faucibus neque, in blandit mi leo ut nunc. Ut ac eros nulla. Nunc quis nunc lacinia magna bibendum accumsan. Nunc lacus metus, pharetra gravida metus in, cursus eleifend velit. Sed tristique diam ac facilisis pretium. Proin pharetra hendrerit velit.
+Contains all information for how we operate legally as a server, including how your privacy is secured and the terms for its use, and what the terms for using our service. Living legal policies are hosted as the [terms of service](../terms) and [privacy policy](../privacy).
 
 <!-- <a class="usa-button usa-button" href="https://novelmc.net/assets/policies.zip">Download policies</a> -->
 
 <button class="usa-button" disabled>Download policies</button>
-
-<hr style="margin-top: 3.5rem;">
-
-### Press kit
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus cursus rhoncus enim, finibus mattis mauris tristique sed. In elementum justo erat, et consectetur risus facilisis nec. Mauris sit amet viverra sem. Phasellus in lectus mattis, lobortis tellus in, posuere quam. Sed tempor non diam sed facilisis. Proin vel pharetra dolor. Nulla rhoncus tempor nibh id facilisis.
-
-<a class="usa-button usa-button" href="https://novelmc.net/assets/img/presskit.zip">Download press kit</a>
