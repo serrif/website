@@ -1,7 +1,7 @@
 ---
 title: Preparing for launch
 author: almanacks
-rank-url: /#executives
+rank-url: executives
 excerpt: We created this blog as another way to make sure no one is left in the dark when it comes to what's going on around here. The first post here will be about when the server releases to the public, when, why, and how it's going to happen, along with all the information you need to get involved.
 layout: post
 ---

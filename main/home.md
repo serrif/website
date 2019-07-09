@@ -31,7 +31,7 @@ We've set out to create a modern, supportive, and secure environment for everyon
 <hr style="margin-top: 4.5rem;">
 
 ## What we're up to
-Catch up with the latest of what's going on around here. Keep yourself updated, and learn how we're striving to be better as a server and as a creative group, and keep tabs on how to remain involved.
+Catch up with the latest of what's going on around here, and keep tabs on how to remain involved. Keep yourself updated, learn how we're striving to be better as a server and as a creative group.
 {: .usa-font-lead }
 
 <a class="usa-button usa-button" href="../blog">Read the blog</a>

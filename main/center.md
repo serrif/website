@@ -43,7 +43,7 @@ Our documentation pages are our actively-maintained instructions for our server,
 <hr style="margin-top: 4.5rem;">
 
 ## Legal policies
-Our legal policies help users understand applicable laws and regulations for our online services. Commitment to privacy is a keystone of the organization's operations and how security factors into the server environment.
+Our legal policies help users understand applicable laws and regulations for our services. Commitment to privacy is a keystone of the organization's operations and how security factors into the server environment.
 
 <div class="usa-grid-full">
   <div class="usa-width-one-third">

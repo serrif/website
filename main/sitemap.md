@@ -19,14 +19,14 @@ layout: file
 * [Information center](../center)
 
 ### Documentation
-* [Introduction](../docs/)
-* [Policy](../docs/policy)
-* [Navigation](../docs/navigation)
-* [Support](../docs/support)
 * [Authority](../docs/authority)
+* [Introduction](../docs/)
 * [Management](../docs/management)
+* [Navigation](../docs/navigation)
+* [Policy](../docs/policy)
 * [Resources](../docs/resources)
 * [Security](../docs/security)
+* [Support](../docs/support)
 
 ### Legal policies
 * [Privacy policy](../privacy)

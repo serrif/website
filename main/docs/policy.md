@@ -7,8 +7,7 @@ sidenav: docs
 ---
 
 ## Guidelines
-Guidelines give the community a direct and consistent set of rules.
-If you are caught violating the guidelines, an administrator can take the action they deem necessary—such as banning your account.
+Guidelines give the community a direct and consistent set of rules. If you are caught breaking the guidelines, a staff member can take the necessary course of action.
 
 ### General policy
 This portion of our rules focuses on in-game conduct and gameplay etiquette.
@@ -30,21 +29,13 @@ These guidelines reflect the optimal behaviour practiced by example members.
 
    Offensive tags or nicknames will be removed. Threatening harm to yourself or other members will result in an immediate suspension. If an administrator doesn't like what they see, they're entitled to punish for something that isn't directly mentioned here; use common sense.
 
-### Specific policy
-We also prefer to maintain the freedom of speech on our forum, but regulation is necessary.
-These guidelines also apply to the guild and other resources.
-
  * **Be respectful.** If someone is irritated, you're permitted to block other members; but don't block administrators. Inappropriate or offensive content on our forum and guild will be deleted and may result in a ban.
 
    Discussions made for the purpose of ranting will be removed. Members should only dispute in categories intended for formal debate. Being an annoyance on any of our platforms is unacceptable and warrants termination.
 
- * **Community etiquette.** Power-posting is usually defined as posting nonsensical messages or over-posting the same thing for no reason; don't do this. Instead, use the edit feature to make corrections when you can and don't make posts for short responses.
-
-   If you are going to make a post, compliment it with a good, meaningful sentence that is easy to understand and worth somebody's time reading. Always make sure the tags you add to your discussion are relevant; irrelevant tags will be removed.
-
- * **Don't hijack threads.** Thread hijacking is replying to an existing discussion with a different topic. Only make posts that are relevant to the discussion you're posting them on, this is why our forum has [tags](https://f.shadow.ga/tags).
-
-   Only create discussions with a unique topic and always make sure somebody hasn't already discussed what you are posting. Don't use misleading information to catch the attention of our members. Advertising anywhere is prohibited.
+### Specific policy
+We also prefer to maintain the freedom of speech on our forum, but regulation is necessary.
+These guidelines also apply to the guild and other resources.
 
  * **Control your account.** The account you create and keep secure is your responsibility. Don't let others have access to your account; change your password regularly and practice high [security](https://shadow.ga/docs/2/d-security/). If an alternate account acts up, your main account will also be sanctioned.
 
