@@ -60,24 +60,9 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
         </div>
 </div>
 
-<div class="usa-grid-full">
-    <div class="usa-width-one-half">
-      <section class="usa-hero" style="background-image: url('../assets/img/hero/h9qmclx8Hg.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 75vw; left: calc(-50vw + 50%); height: 30rem;">
-      </section>
-    </div>
-    <div class="usa-width-one-half">
-      <section class="usa-hero" style="background-image: url('../assets/img/hero/h9qmclx8Hg.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; height: 30rem;">
-      </section>
-    </div>
-</div>
+<hr style="margin-top: 3.5rem; margin-bottom: 3.5rem;">
 
 <div class="usa-grid-full">
-    <div class="usa-width-two-thirds">
-      <section class="usa-hero" style="background-image: url('../assets/img/hero/4R2kvopvIy.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-      </section>
-    </div>
-    <div class="usa-width-one-third">
-      <section class="usa-hero" style="background-image: url('../assets/img/hero/4R2kvopvIy.png'); margin-top: 5rem; margin-bottom: 6rem; position: relative; width: 100vw; left: calc(-50vw + 50%); height: 15rem;">
-      </section>
-    </div>
+      <img src="https://novelmc.net/assets/img/hero/rQdjmqnCq8.png" alt="" style="max-width: 100rem;">
+      <p style="text-align: center; margin-top: 1.5rem; color: #757575;">By JodadGaming</p>
 </div>
