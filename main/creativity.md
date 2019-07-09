@@ -22,7 +22,7 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?scale=10&overlay" alt="">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>almanacks</h3>
@@ -34,7 +34,7 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/3bb91abef98c4970ac822cd8c8f25ff5?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/3bb91abef98c4970ac822cd8c8f25ff5?scale=10&overlay" alt="">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>JodadGaming</h3>
@@ -49,7 +49,7 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="" style="width: 130px;">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="">
             </div>
             <div class="usa-width-five-sixths footer-content">
               <h3>jwmphall</h3>
@@ -63,6 +63,11 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
 <hr style="margin-top: 3.5rem; margin-bottom: 3.5rem;">
 
 <div class="usa-grid-full">
-      <img src="https://novelmc.net/assets/img/hero/rQdjmqnCq8.png" alt="" style="max-width: 100rem;">
+      <img src="https://novelmc.net/assets/img/hero/rQdjmqnCq8.png" alt="">
+      <p style="text-align: center; margin-top: 1.5rem; color: #757575;">By JodadGaming</p>
+</div>
+
+<div class="usa-grid-full">
+      <img src="https://novelmc.net/assets/img/hero/h9qmclx8Hg.png" alt="">
       <p style="text-align: center; margin-top: 1.5rem; color: #757575;">By JodadGaming</p>
 </div>
