@@ -64,7 +64,7 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
 
 <div class="usa-grid-full">
       <img src="https://novelmc.net/assets/img/hero/rQdjmqnCq8.png" alt="">
-      <p style="text-align: center; margin-top: 1.5rem; color: #757575;">By JodadGaming</p>
+      <p style="text-align: center; margin-top: 1.5rem; margin-bottom: 1.5rem; color: #757575;">By JodadGaming</p>
 </div>
 
 <div class="usa-grid-full">

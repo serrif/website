@@ -34,7 +34,7 @@ Executives are in charge of all lower positions; they have the ability to remove
           </div>
         </div>
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/93d6bdbc0ede4d4baf43e31d5333a7b6?scale=10&overlay" alt="">
             </div>
@@ -49,7 +49,7 @@ Executives are in charge of all lower positions; they have the ability to remove
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
+          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/a8ab4eb2280546318351f3be58056e37?scale=10&overlay" alt="">
             </div>
@@ -92,18 +92,6 @@ Developers are responsible for programming and maintaining custom, and non-custo
                 </div>
           </div>
         </div>
-        <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/7840808619914c33a571d8fa325465b2?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>Telesphoreo</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm Telesphoreo. --@Telesphoreo#7854</p>
-                </div>
-          </div>
-        </div>
 </div>
 
 <hr style="margin-top: 3.5rem;">
@@ -113,7 +101,7 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
+          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
               <img class="footer-main-img" src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="">
             </div>

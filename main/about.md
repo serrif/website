@@ -24,7 +24,7 @@ Everyone has a piece they can contribute to the puzzle, and we believe when some
       <h2>Who we are</h2>
     </div>
     <div class="usa-width-two-thirds">
-      <p>As we say- a group of experienced and aspiring designers; developers, and engineers. We started in December of 2018 and have been building a creative platform, designed for everyone, since.</p>
+      <p>As we say- a group of experienced and aspiring designers; developers, and engineers. We started in December of 2018 and have been building a creative platform, designed for everyone since.</p>
     </div>
 </div>
 

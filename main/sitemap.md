@@ -9,7 +9,7 @@ layout: file
 * [About us](../about)
 * [Frequently asked](../faq)
 * [Our team](../team)
-* [Server environment](../environment)
+* [Server creativity](../creativity)
 
 ## Information center
 * [Blog](../blog)
