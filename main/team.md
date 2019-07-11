@@ -83,12 +83,12 @@ Developers are responsible for programming and maintaining custom, and non-custo
         <div class="usa-width-one-half">
           <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
             <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/7c2eee6f33a244de8dd11e3fe06d2150?scale=10&overlay" alt="">
+              <img class="footer-main-img" src="https://crafatar.com/renders/head/c8e5af826aba4dd783e8474381380cc9?scale=10&overlay" alt="">
             </div>
             <div class="usa-width-five-sixths footer-content">
-              <h3>falceso</h3>
+              <h3>Paldiu</h3>
               <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm falceso. --@falceso#5932</p>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm Paldiu. --@Albus, Duke of Olasko#2001</p>
                 </div>
           </div>
         </div>
