@@ -1,5 +1,37 @@
 /* stylelint-disable at-rule-empty-line-before */
 @include font-face(
+  'Public Sans',
+  '#{$font-path}/PublicSans-Light',
+  300,
+  normal,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
+  'Public Sans',
+  '#{$font-path}/PublicSans-Regular',
+  400,
+  normal,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
+  'Publis Sans',
+  '#{$font-path}/PublicSans-Italic',
+  400,
+  italic,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
+  'Public Sans',
+  '#{$font-path}/PublicSans-Bold',
+  700,
+  normal,
+  $file-formats: eot woff2 woff ttf
+);
+
+@include font-face(
   'Source Sans Pro',
   '#{$font-path}/sourcesanspro-light-webfont',
   300,
