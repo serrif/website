@@ -9,6 +9,13 @@
     {% if site.google_analytics_ua or site.dap_agency %}
       {% include analytics.html %}
     {% endif %}
+    <!-- Public Sans from USWDS2 injection -->
+    <style type = "text/css">
+      @font-face {
+        font-family: "Public Sans";
+        src: url("https://novelmc.net/assets/uswds/fonts/PublicSans-SemiBold.woff");
+      }
+    </style>
   </head>
   <body class="{{ layout.class }} {{ page.class }} {% if site.site_width %}site-{{ site.site_width }}{% endif %}">
 
