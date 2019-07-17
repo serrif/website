@@ -46,3 +46,7 @@ layout: file
 * [Site Two](../vote/site2/)
 * [Site Three](../vote/site3/)
 * [Site Four](../vote/site4/)
+* [Site Five](../vote/site5/)
+* [Site Six](../vote/site6/)
+* [Site Seven](../vote/site7/)
+* [Site Eight](../vote/site8/)

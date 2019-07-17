@@ -18,7 +18,7 @@ We appoint members to our team to make sure everyone's doing the right thing. Ev
 <hr style="margin-top: 3.5rem;">
 
 ### Executives
-Executives are in charge of all lower positions; they have the ability to remove and appoint staff members, and manage permeant punishments. You probably won't see these staff members in-game often because they also are responsible for the Discord server, and community advertising.
+Executives are in charge of all lower positions; they have the ability to remove and appoint staff members, and manage permanent punishments. You probably won't see these staff members in-game often because they also are responsible for the Discord server, and community advertising.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
@@ -97,7 +97,7 @@ Developers are responsible for programming and maintaining custom, and non-custo
 <hr style="margin-top: 3.5rem;">
 
 ### Senior Mods
-Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permeant punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
+Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permanent punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">

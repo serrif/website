@@ -131,9 +131,9 @@ We have text and voice channels for everyone in the community to use. We separat
 The following channels can be used by anyone who isn't muted or removed.
 
  * [`#general`](https://discord.gg/vXydQmT) - For any and all discussions without a specific channel.
- * [`#nonsense`](https://discord.gg/FdBymjx) - Messages that are purposeless or spam.
  * [`#support`](https://discord.gg/hGFsCkx) - For any and all things server development.
- * [`#server`](https://discord.gg/PB3atCg) - Channel that receives in-game chat messages and sends messages to the in-game server.
+ * [`#nonsense`](https://discord.gg/FdBymjx) - Messages that are purposeless or spam.
+ * [`#ouija`](https://discord.gg/45D83Ct) - Ask Ouija anything.
 
 ### Roles
 We use Discord's role system to designate and separate members on the server; meaning that some roles will have no server or forum counterpart.
@@ -150,12 +150,12 @@ We use Discord's role system to designate and separate members on the server; me
   </div>
 </div>
 
- * **Robot** - Given to all [robots](../docs/#applications).
- * **Architect** - Awarded to exemplary builders on the server.
+ * **Bots** - Given to all [robots](../docs/#applications).
+ * **Architects** - Awarded to exemplary builders on the server.
+ * **Verified** - Given to active, and well-known server members.
 
 The following titles are given to staff members only.
 
- * **Emeritus** - Given to staff members designated as permanently active.
  * **Inactive** - Given to staff members to show inactivity; by request.
 
 ### Applications
