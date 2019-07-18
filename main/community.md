@@ -6,7 +6,7 @@ layout: file
 ---
 
 ## Forum
-Ask questions, get answers, and collaborate with our members and staff.
+Collaborate with our members and staff, ask questions, get answers, and discuss anything and everything.
 {: .usa-font-lead }
 
 We use our forum to manage everything that happens around here, including in-depth support topics, punishment appeals, player reporting, and many other aspects of our server. Taking advantage of the forum helps us take care of things behind the scenes more efficiently.
