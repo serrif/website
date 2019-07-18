@@ -119,7 +119,7 @@ Social media is used for brief updates to our members. We have a <a class="usa-e
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
 ## Discord
-Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk to each other in real time. This service is great for sharing content, and quick support. Anyone can [join](/discord/), and it's linked to in the navigation bar.
+Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk in real time. This service is great for sharing content, and for quick support. Anyone can [join](/discord/). 
 
 ### Channels
 We have text and voice channels for everyone in the community to use. We separate a few discussion streams into separate channels to keep conversations more organized.

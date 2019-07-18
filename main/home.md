@@ -89,7 +89,7 @@ It's more than a server; we're a group of experienced and aspiring designers; de
 			<img class="usa-media_block-img" src="../assets/img/icons/icon-envelope.svg" alt="" style="padding-top: 0.3rem;">
 			<div class="usa-media_block-body">
 				<p style="margin: 0; font-size: 15px;">Reach the team</p>
-				<a href="mailto:support@novelmc.net">Send us an email</a>
+				<a href="mailto:help@novelmc.net">Send us an email</a>
 			</div>
 		</div>
 	</div>

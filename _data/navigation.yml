@@ -71,11 +71,11 @@ explore:
     external: true
 
 footer:
+  - text: Community info
+    href: /discord/
+    external: true
   - text: Contact form
     href: /contact/
-    external: true
-  - text: Discord server
-    href: /discord/
     external: true
   - text: Dynamic map
     href: http://map.novelmc.net/

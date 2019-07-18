@@ -13,6 +13,7 @@ layout: file
 
 ## Information center
 * [Blog](../blog)
+* [Community](../community)
 * [Download](../download)
 * [File a report](../report)
 * [Get in touch](../contact)
