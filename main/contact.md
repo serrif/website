@@ -12,11 +12,6 @@ Receive quick support via email by submitting a contact form.
   <fieldset id="fs-frm-inputs">
   	<label for="username">What is your username?</label>
   	<input type="username" name="username" placeholder="IGN / @DTAG#0001 / you@email.com" required="">
-    <select name="staff" id="staff" required="">
-      <option value="Select" selected="" disabled="">Select</option>
-      <option value="Yes">Yes</option>
-      <option value="No">No</option>
-    </select>
   	<label for="message">What do you have to say?</label>
     <textarea rows="5" name="message" id="message" placeholder="Your message here." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
