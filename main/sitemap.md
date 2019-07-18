@@ -12,6 +12,7 @@ layout: file
 * [Server creativity](../creativity)
 
 ## Information center
+* [File an appeal](../appeal)
 * [Blog](../blog)
 * [Community](../community)
 * [Download](../download)

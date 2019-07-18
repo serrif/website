@@ -115,7 +115,6 @@ Most bans are temporary and eventually expire, but members are always given the 
 No matter the platform you were barred from, all eligible members—as dictated by the requirements above—are entitled to file an appeal.
 
 ### Online appeals
-You may not appeal a temporary ban if you have been banned for the same reason over two times in a row. If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension.
-Use the form [here](https://shadowga.typeform.com/to/fE4jeV).
+You may not appeal a temporary ban if you have been banned for the same reason over two times in a row. If your ban message does not state that the ban was temporary, you may be suspended. You cannot appeal a suspension. Use the form [here](../appeal).
 
-If you've filed a ban appeal and you haven't been met with a response (reasonably), please [contact us](https://shadow.ga/docs/1/d-support/#direct-support) and we'll look through the records. If your ban was denied, please don't file duplicate entries.
+If you've filed a ban appeal and you haven't been met with a response (reasonably), please [contact us](../contact) and we'll look through the records. If your ban was denied, please don't file duplicate entries.
