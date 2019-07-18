@@ -5,9 +5,6 @@ permalink: /docs/
 layout: file
 sidenav: docs
 subnav:
-  - text: "Introduction"
-    href: '#introduction'
-  -
   - text: "In-game server"
     href: '#in-game-server'
   - text: "₍₁₎ Connection"
@@ -25,6 +22,8 @@ subnav:
     href: '#homepage'
   - text: "₍₂₎ Social media"
     href: '#social-media'
+  - text: "₍₃₎ Server blog"
+    href: '#server-blog'
   -
   - text: "Discord"
     href: '#discord'
@@ -40,7 +39,7 @@ subnav:
 Our <a class="usa-external_link" href="https://minecraft.net">Minecraft</a> server is the keystone to our community. Everyone gets operator-style permissions without hassle, with an array of plugins, and powerful tools for building and management.
 
 ### Connection
-Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or adding us to your server list in-game. A port isn't necessary to join  but `25565` can be added to an address.
+Joining the server is simple. You can connect using the address `novelmc.net` or `play.novelmc.net` through the direct connect box; or by adding us to your server list in-game. A port isn't necessary to join,  but `25565` can be added to an address.
 
  * `/status` - Displays the server's current state and loaded worlds.
  * `/memory` or `/mem` - Displays memory statistics, loaded worlds, and ticks per second (TPS).
@@ -49,12 +48,11 @@ You can also view and lookup other members, instead of the default tab list.
 
 <div class="usa-alert usa-alert-warning" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">Many in-game commands that show member-specific information will only apply to players on the server when the command was sent. Make sure those commands are accurate and specific.</p>
+    <p class="usa-alert-text">Many in-game commands that show information specific to members will only apply to players on the server when the command was sent. Make sure to be accurate when using these commands.</p>
   </div>
 </div>
 
- * `/list` - Displays a list of members currently on the server.
- * `/list -s` - Displays a list of members, with staff privileges on the server.
+ * `/list` - Displays a list of members currently on the server. Also distinguishes online staff members.
  * `/whois <name>` - Provides advanced information regarding a member.
  * `/realname <name>` - Finds a member's username from their nickname (if they have one).
 
@@ -98,12 +96,12 @@ Members can also manage settings of their character; such as gamemode, and healt
 </ul>
 
 ## Website
-Our website provides essential information as the center of our community's operation; housing explore pages, resources, and information. Learning how we structure different sections of our site is helpful to know how to get around the server.
+Our website provides important information as the center of our community's operation; housing our explore pages, resources, and information. Learning how we structure different sections of our site is helpful for knowing how to get around.
 
 ### Homepage
-Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our mission page) can provide material. These and similar files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
+Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our team page) can provide material. These and similar files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
-We provide instructions, policy, and guides on our documentation; so everyone can learn easily. You're even reading a docs page right now and you can jump to pages with the left-hand navigation table.
+We provide instructions, policy, and guides on our documentation; so everyone can learn how things work. You're even reading a docs page right now, and you can jump to pages with the left-hand navigation table.
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
@@ -118,11 +116,14 @@ Social media is used for brief updates to our members. We have a <a class="usa-e
 
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
+### Server blog
+The [server blog](../blog/) is used for more specific updates of everything that's going on behind the scenes. We save new blog posts for information that's really important, though, so you won't be doing too much reading.
+
 ## Discord
-Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an extension of our community where anyone can talk in real time. This service is great for sharing content, and for quick support. Anyone can [join](/discord/). 
+Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an easy-to-use branch of our community where anyone can talk in real time. This service is great for sharing content, and for quick support. Anyone can [join](/discord/).
 
 ### Channels
-We have text and voice channels for everyone in the community to use. We separate a few discussion streams into separate channels to keep conversations more organized.
+We have text and voice channels that everyone in the community to use. We separate a few discussion streams into separate channels to keep conversations more organized.
 
  * [`#announcements`](https://discord.gg/nuNTR3U) - For important stuff; updates, and server news. Only Executives can send messages here.
  * [`#github`](https://discord.gg/TY5Jw2C) - GitHub organization activity log.
