@@ -72,7 +72,7 @@ explore:
 
 footer:
   - text: Community info
-    href: /discord/
+    href: /community/
     external: true
   - text: Contact form
     href: /contact/

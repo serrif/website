@@ -17,7 +17,7 @@ We use our forum to manage everything that happens around here, including in-dep
 <hr style="margin-top: 4.5rem;">
 
 ## Discord
-A public-invite server on Discord for free discussion about anything that happens on (and off) the server.
+Our public-invite server community on Discord for free discussion about anything that happens on (and off) the server.
 {: .usa-font-lead }
 
 An extension to the instant in-game server chat where anyone can talk in real time. This service is great for sharing content, and for quick support. We separate a few discussion streams into separate channels to keep conversations more organized.
@@ -27,7 +27,7 @@ An extension to the instant in-game server chat where anyone can talk in real ti
 <hr style="margin-top: 4.5rem;">
 
 ## Twitter
-Quick and instant bursts of information, so everyone can always be in the know.
+Helpful, quick, and concise bursts of announcements and updates, so everyone can always easily be in the know.
 {: .usa-font-lead }
 
 Reading a forum announcement thread, or blog post doesn't always give you the facts quickly and when you need them. Our standard announcements, but everything is just the bullets.  
