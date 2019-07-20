@@ -3,6 +3,7 @@ title: File a report
 permalink: /report/
 
 layout: file
+sidenav: forms
 ---
 
 ## File a report
