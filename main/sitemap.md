@@ -15,9 +15,9 @@ layout: file
 * [File an appeal](../appeal)
 * [Blog](../blog)
 * [Community](../community)
+* [Contact us](../contact)
 * [Download](../download)
 * [File a report](../report)
-* [Get in touch](../contact)
 * [Information center](../center)
 
 ### Documentation
