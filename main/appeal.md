@@ -3,6 +3,7 @@ title: File an appeal
 permalink: /appeal/
 
 layout: file
+sidenav: forms
 ---
 
 ## File an appeal
