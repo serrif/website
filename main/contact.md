@@ -3,6 +3,7 @@ title: Get in touch
 permalink: /contact/
 
 layout: file
+sidenav: forms
 ---
 
 ## Contact us
