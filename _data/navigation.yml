@@ -80,17 +80,3 @@ explore:
   - text: Frequently asked
     href: /faq/
     external: true
-
-footer:
-  - text: Community info
-    href: /community/
-    external: true
-  - text: Contact form
-    href: /contact/
-    external: true
-  - text: Dynamic map
-    href: http://map.novelmc.net/
-    external: true
-  - text: Site map
-    href: /sitemap/
-    external: true
