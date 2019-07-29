@@ -13,7 +13,7 @@ tagline: We're a modern, creative community.
 ---
 
 ## Help center
-<a class="usa-button usa-button" href="../portal/help">Help center</a>
+<a class="usa-button usa-button" href="../help">Help center</a>
 
 ## Information center
-<a class="usa-button usa-button" href="../portal/info">Information center</a>
+<a class="usa-button usa-button" href="../info">Information center</a>

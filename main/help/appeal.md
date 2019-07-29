@@ -1,6 +1,6 @@
 ---
 title: File an appeal
-permalink: /appeal/
+permalink: /help/appeal/
 
 layout: help
 sidenav: forms

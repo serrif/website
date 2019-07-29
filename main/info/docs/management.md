@@ -1,6 +1,6 @@
 ---
 title: Management
-permalink: /docs/management
+permalink: /info/docs/management
 
 layout: info
 sidenav: docs

@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /docs/resources
+permalink: /info/docs/resources
 
 layout: info
 sidenav: docs

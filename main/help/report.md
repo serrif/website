@@ -1,6 +1,6 @@
 ---
 title: File a report
-permalink: /report/
+permalink: /help/report/
 
 layout: help
 sidenav: forms

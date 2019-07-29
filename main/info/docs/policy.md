@@ -1,6 +1,6 @@
 ---
 title: Policy
-permalink: /docs/policy
+permalink: /info/docs/policy
 
 layout: info
 sidenav: docs

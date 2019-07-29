@@ -17,9 +17,7 @@ primary:
   - text: Explore
     links: explore
   - text: Resources
-    links: footer
-  - text: Blog
-    href: /blog/
+    links: resources
 
 secondary:
   - text: External link
@@ -81,7 +79,7 @@ explore:
     href: /faq/
     external: true
 
-footer:
+resources:
   - text: Community info
     href: /community/
     external: true

@@ -1,6 +1,6 @@
 ---
 title: Introduction
-permalink: /docs/
+permalink: /info/docs/
 
 layout: info
 sidenav: docs

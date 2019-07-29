@@ -1,6 +1,6 @@
 ---
 title: Help center
-permalink: /portal/help/
+permalink: /help/
 
 layout: home
 
