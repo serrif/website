@@ -40,14 +40,14 @@ Executives are in charge of all lower positions; they have the ability to remove
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
               <center>
-              <img src="https://crafatar.com/renders/head/a8ab4eb2280546318351f3be58056e37?scale=10&overlay" alt="" style="max-width: 80px; margin-bottom: -4rem;">
+              <img src="https://crafatar.com/renders/head/a8ab4eb2280546318351f3be58056e37?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
               <h3 style="line-height: 5rem; border-bottom: 3px #E64A3A solid;">Panther</h3>
               </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">I like to eat ramen noodles uncooked and then get stomachaches. I also probably waste 14 hours a day talking to people on Snapchat. It's multitasking. --@Panther#2122</p>
           </div>
         <div class="usa-width-one-half">
               <center>
-              <img src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?scale=10&overlay" alt=""  style="max-width: 80px; margin-bottom: -4rem;">
+              <img src="https://crafatar.com/renders/head/eca5074c25da49bd8a8529ce598ccdf4?scale=10&overlay" alt=""  style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
               <h3 style="line-height: 5rem; border-bottom: 3px #E64A3A solid;">Rylie</h3>
               </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">I do stuff with computers as a hobby (well, more so because it's all I'm good with) and love messing with software. If you've got any questions, feel free to hit me up! --@Rylie R. Shadowsynth#2839</p>
@@ -61,82 +61,64 @@ Developers are responsible for programming and maintaining custom, and non-custo
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/c8e5af826aba4dd783e8474381380cc9?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>Paldiu</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <center>
+              <img src="https://crafatar.com/renders/head/c8e5af826aba4dd783e8474381380cc9?scale=10&overlay" alt="" style="max-width: 80px; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #9B59B6 solid;">Paldiu</h3>
+              </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm Paldiu. --@Albus, Duke of Olasko#2001</p>
-                </div>
           </div>
-        </div>
+        <div class="usa-width-one-half">
+              <center>
+              <img src="https://crafatar.com/renders/head/db8e5b84c67041f69a2b1ad9a8c7e104?scale=10&overlay" alt=""  style="max-width: 80px; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #9B59B6 solid;">untuned</h3>
+              </center>
+              <p style="margin-bottom: 1rem; max-width: 65rem;">I untune the tunes. Don't try fixing it, the strings are already broken. --@untuned#0001</p>
+          </div>
 </div>
 
-<hr style="margin-top: 3.5rem;">
+<hr style="margin-top: 2.5rem;">
 
 ### Senior Mods
-Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permanent punishments. Senior Mods are also given moderation abilities on the [Discord](../docs/#discord) server.
+Senior Mods are given the same permissions as Mods. They are responsible for issuing longer punishments, and have access to `/unban` for non-permanent punishments. Senior Mods are also given moderation abilities on the [Discord](../info/docs/#discord) server.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>jwmphall</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <center>
+              <img src="https://crafatar.com/renders/head/ab3646ace2df418eafc45d95c6493218?scale=10&overlay" alt="" style="max-width: 80px; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">jwmphall</h3>
+              </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm jwmphall. --@jwmphallbeans#6704</p>
-                </div>
           </div>
-        </div>
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/0bc1c4647c4c4b209c17a1079145de8d?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>Simul</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <center>
+              <img src="https://crafatar.com/renders/head/0bc1c4647c4c4b209c17a1079145de8d?scale=10&overlay" alt=""  style="max-width: 80px; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">Simul</h3>
+              </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm Simul. --@Simul#2461</p>
-                </div>
           </div>
-        </div>
 </div>
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 4.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/c3bca952cff34ea58ff589b273b4fbfc?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>Video</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <center>
+              <img src="https://crafatar.com/renders/head/c3bca952cff34ea58ff589b273b4fbfc?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">Video</h3>
+              </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">The Bee Movie script can be very destructive. Telesphoreo learned that the hard way. --@Video#9801</p>
-                </div>
           </div>
-        </div>
 </div>
 
-<hr style="margin-top: 3.5rem;">
+<hr style="margin-top: 2.5rem;">
 
 ### Mods
 Mods are the basic staff members on the server. They have basic moderation permissions, such as `/ban` and `/mute` with limited punishment lengths. They also have additional non-moderation privileges such as `/tpo`.
 
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
-          <div class="usa-grid" style="padding-top: 1.5rem !important; padding: 0;">
-            <div class="usa-width-one-sixth" style="max-width: 13rem;">
-              <img class="footer-main-img" src="https://crafatar.com/renders/head/606e2ff0ed7748429d6ce1d3321c7838?scale=10&overlay" alt="">
-            </div>
-            <div class="usa-width-five-sixths footer-content">
-              <h3>Maybe you?</h3>
-              <hr style="margin-top: 1.5rem; border-top: 3px dashed #aeb0b5; background: #fff; color: #fff">
+              <center>
+              <img src="https://crafatar.com/renders/head/606e2ff0ed7748429d6ce1d3321c7838?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
+              <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">You?</h3>
+              </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">Come join us!</p>
-                </div>
           </div>
-        </div>
 </div>
