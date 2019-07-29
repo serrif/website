@@ -54,7 +54,7 @@ Executives are in charge of all lower positions; they have the ability to remove
           </div>
 </div>
 
-<hr style="margin-top: 3.5rem;">
+<hr style="margin-top: 2.5rem;">
 
 ### Developers
 Developers are responsible for programming and maintaining custom, and non-custom, plugins on the server. They have access to every command, manage permissions using `/luckperms`, and are able to manage server files. These staff members spend most of their time on Discord and GitHub, and often aren't in-game.
@@ -117,7 +117,7 @@ Mods are the basic staff members on the server. They have basic moderation permi
         <div class="usa-width-one-half">
               <center>
               <img src="https://crafatar.com/renders/head/606e2ff0ed7748429d6ce1d3321c7838?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
-              <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">You?</h3>
+              <h3 style="line-height: 5rem; border-bottom: 3px #2BCA70 solid;">You?</h3>
               </center>
               <p style="margin-bottom: 1rem; max-width: 65rem;">Come join us!</p>
           </div>
