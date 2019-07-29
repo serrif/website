@@ -1,5 +1,5 @@
 <img src="{{ site.baseurl }}/assets/img/svg/waves.svg" style="margin-bottom:-9rem" alt="">
-<footer class="usa-footer usa-footer-medium site" style="font-size: 1.4rem; background: #eff9fc; margin-top:8rem;" role="contentinfo">
+<footer class="usa-footer usa-footer-big" style="font-size: 1.4rem; background: #eff9fc; margin-top:8rem;" role="contentinfo">
 
   {% unless page.top == false %}
   <div class="usa-grid usa-footer-return-to-top">
@@ -7,38 +7,81 @@
   </div>
   {% endunless %}
 
-  <div class="usa-footer-secondary_section" style="background-color: #e1f3f8;">
+  <div class="usa-footer-primary-section" style="background-color: #f0f0f0;">
     <div class="usa-grid">
-      <div class="usa-width-one-third" style="width: 28rem; margin-bottom: 1.8rem;">
-        <h3 style="font-size: 1.6rem; padding-top: 1rem;">Contact us</h3>
-        <ul class="usa-unstyled-list">
-          <li style="line-height: 1.7;">Twitter: <a class="usa-external_link" href="{{ site.baseurl }}/twitter/" style="color: #0071bc;">@novelsrv</a></li>
-          <li style="line-height: 1.7;">Email: <a href="mailto:help@novelmc.net" style="color: #0071bc;">help@novelmc.net</a></li>
+      <nav class="usa-footer-nav usa-width-three-fourths">
+        <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
+          <li class="">
+            <h3 style="font-size: 1.6rem; padding-top: 1rem;">Topic</h3>
+          </li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link that's a bit longer than most of the others</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
         </ul>
-        <ul class="usa-unstyled-list" style="width: 20.6rem;">
-          <li style="line-height: 3rem; padding-top: 1rem; border-bottom: 3px #0071bc solid;">Help us improve this site on <a href="https://github.com/novelmc/web/issues/new" style="color: #0071bc;">GitHub</a></li>
+        <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
+          <li class="">
+            <h3 style="font-size: 1.6rem; padding-top: 1rem;">Topic</h3>
+          </li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link that's pretty long</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
         </ul>
-      </div>
-      <div class="usa-width-one-third" style="width: 28rem; margin-bottom: 1.5rem;">
-        <h3 style="font-size: 1.6rem; padding-top: 1rem;">Explore</h3>
-        <ul class="usa-unstyled-list">
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/about/" style="color: #0071bc;">About us</a></li>
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/team/" style="color: #0071bc;">Our team</a></li>
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/creativity/" style="color: #0071bc;">Server creativity</a></li>
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/faq/" style="color: #0071bc;">Frequently asked</a></li>
+        <ul class="usa-unstyled-list usa-width-one-fourth usa-footer-primary-content">
+          <li class="">
+            <h3 style="font-size: 1.6rem; padding-top: 1rem;">Topic</h3>
+          </li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
+          <li class="usa-footer-secondary-link"><a href="javascript:void(0);">Secondary link</a></li>
         </ul>
-      </div>
-      <div class="usa-width-one-third" style="width: 28rem; margin-bottom: 1.5rem;">
-        <h3 style="font-size: 1.6rem; padding-top: 1rem;">Resources</h3>
-        <ul class="usa-unstyled-list">
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/community/" style="color: #0071bc;">Community info</a></li>
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/contact/" style="color: #0071bc;">Contact form</a></li>
-          <li style="line-height: 1.7;"><a href="http://map.novelmc.net/" target="_blank" style="color: #0071bc;">Dynamic map</a></li>
-          <li style="line-height: 1.7;"><a href="{{ site.baseurl }}/sitemap/" style="color: #0071bc;">Site map</a></li>
-        </ul>
-      </div>
-      <img src="{{ site.baseurl }}/assets/img/logo-margins.svg" style="width: 40px; margin-top: 1.5rem; margin-bottom: 1rem; margin-left: 3rem; float: right; background: #fff; border-radius: 5px;">
-      <img src="{{ site.baseurl }}/assets/img/irix.png" style="width: 40px; margin-top: 2rem; float: right;">
+
+      </nav>
+
+      <div class="usa-sign_up-block usa-width-one-fourth">
+        <h3 class="usa-sign_up-header">Sign up</h3>
+
+        <label class="" for="email" id="">Your email address</label>
+        <input id="email" name="email" type="email">
+
+        <button type="submit">Sign up</button>
       </div>
     </div>
-  </footer>
+  </div>
+
+  <div class="usa-footer-secondary_section">
+    <div class="usa-grid">
+      <div class="usa-footer-logo usa-width-one-half">
+        <img class="usa-footer-logo-img" src="../assets/img/logo.svg" alt="">
+        <h3 class="usa-footer-logo-heading">NovelMC</h3>
+      </div>
+      <div class="usa-footer-contact-links usa-width-one-half">
+        <a class="usa-link-facebook" href="javascript:void(0);">
+          <span>Facebook</span>
+        </a>
+        <a class="usa-link-twitter" href="javascript:void(0);">
+          <span>Twitter</span>
+        </a>
+        <a class="usa-link-youtube" href="javascript:void(0);">
+          <span>YouTube</span>
+        </a>
+        <a class="usa-link-rss" href="javascript:void(0);">
+          <span>RSS</span>
+        </a>
+        <h3 class="usa-footer-contact-heading">Agency Contact Center</h3>
+        <address>
+          <div class="usa-footer-primary-content usa-footer-contact_info">
+            <p>
+              <a href="tel:1-800-555-5555">(800) CALL-GOVT</a>
+            </p>
+          </div>
+          <div class="usa-footer-primary-content usa-footer-contact_info">
+            <p><a href="mailto:info@agency.gov">info@agency.gov</a></p>
+          </div>
+        </address>
+      </div>
+    </div>
+  </div>
+</footer>
