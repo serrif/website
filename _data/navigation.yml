@@ -69,8 +69,8 @@ explore:
   - text: About us
     href: /about/
     external: true
-  - text: Our team
-    href: /team/
+  - text: Staff members
+    href: /staff/
     external: true
   - text: Server creativity
     href: /creativity/
