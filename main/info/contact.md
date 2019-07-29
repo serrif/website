@@ -1,12 +1,12 @@
 ---
-title: Contact us
-permalink: /help/contact/
+title: Contact support
+permalink: /contact/
 
-layout: help
+layout: info
 sidenav: forms
 ---
 
-## Contact us
+## Contact support
 Submit a comment, complaint, or receive quick support via email by submitting a contact form.
 
 <form class="usa-form-large" form method="POST" action="https://formspree.io/help@novelmc.net">

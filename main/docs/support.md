@@ -1,6 +1,6 @@
 ---
 title: Support
-permalink: /info/docs/support
+permalink: /docs/support
 
 layout: info
 sidenav: docs

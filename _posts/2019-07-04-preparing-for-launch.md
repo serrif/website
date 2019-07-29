@@ -14,7 +14,7 @@ We created this blog as another way to make sure no one is left in the dark when
 <p style="text-align: center; margin-top: -4rem; color: #757575;">Look at this cool caption!</p>
 
 ### When?
-Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. All of the information in our [documentation](https://novelmc.net/info/docs/), and our other services will be in full swing.
+Everything is going to happen on July 10th at 2PM EST. By then, we're going to be up and running, and anyone can come and use the server. All of the information in our [documentation](https://novelmc.net/docs/), and our other services will be in full swing.
 
 ### Why?
 We've been [no stranger](https://novelmc.net/about/) about making it show we're invested in creativity. The first eight words everyone reads on this site is outlining our mission to creativity. By launching, we're bringing an understanding of the value of creativity to everyone as a group of designers, developers, and engineers.

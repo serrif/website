@@ -1,6 +1,6 @@
 ---
 title: Navigation
-permalink: /info/docs/navigation
+permalink: /docs/navigation
 
 layout: info
 sidenav: docs

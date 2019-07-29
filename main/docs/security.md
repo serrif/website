@@ -1,6 +1,6 @@
 ---
 title: Security
-permalink: /info/docs/security
+permalink: /docs/security
 
 layout: info
 sidenav: docs

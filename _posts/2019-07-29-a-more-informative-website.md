@@ -17,13 +17,11 @@ I've made the goal of the website to focus on language that, regardless of your 
 Having separate pages for frequently asked questions, or separating useful support forms didn't go along with that mission.
 
 ### What's changing?
-The biggest change for support is the introduction of the [help center](https://novelmc.net/help). Everything is in one place, from frequently asked questions to support forms, the help center has it all.
+The biggest change for support is the introduction of the [help portal](https://novelmc.net/help). Everything is in one place, for any question you could have.
 
-We're also updating the URLs of pages within various centers to help members understand where information is. All pages that are within the [help center](https://novelmc.net/help) have a /help/ permalink before the page. The same is true for the [information center](https://novelmc.net/info), just with a /info/ permalink.
+Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/team).
 
 #### Everything else
 A lot of our content is being updated to focus on its flow, and to use more simplistic language, too.
 
-Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/team).
-
-Any further changes to the site is updated on our Discord server. Take a look over at the [`#support`](https://novelmc.net/info/docs/#channels) channel if you haven't already.
+Any further changes to the site is updated on our Discord server. Take a look over at the [`#support`](https://novelmc.net/docs/#channels) channel if you haven't already.

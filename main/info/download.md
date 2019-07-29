@@ -1,6 +1,6 @@
 ---
 title: Downloadable files
-permalink: /info/download/
+permalink: /download/
 
 layout: info
 ---
@@ -18,7 +18,7 @@ Contains the source code to Converse, a custom plugin for the in-game Minecraft 
 <hr style="margin-top: 3.5rem;">
 
 ### Documentation
-Contains information such as our introductory material, server policy, support, and staff member information. Any general information for how things work on the in-game server is also included within the documentation. Living documentation files are hosted on [the website](../info/docs/).
+Contains information such as our introductory material, server policy, support, and staff member information. Any general information for how things work on the in-game server is also included within the documentation. Living documentation files are hosted on [the website](../docs/).
 
 <!-- <a class="usa-button usa-button" href="https://novelmc.net/assets/docs.zip">Download docs</a> -->
 <button class="usa-button" disabled>Download docs</button>

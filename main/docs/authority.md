@@ -1,6 +1,6 @@
 ---
 title: Authority
-permalink: /info/docs/authority
+permalink: /docs/authority
 
 layout: info
 sidenav: docs

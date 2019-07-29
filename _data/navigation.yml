@@ -12,10 +12,12 @@
 #   links: primary
 #
 primary:
-  - text: Resource portal
-    href: /portal/
+  - text: Information center
+    href: /info/
   - text: Explore
     links: explore
+  - text: Extras
+    links: extras
   - text: Resources
     links: resources
 
@@ -45,15 +47,6 @@ docs:
 
     external: true
 
-policies:
-  - text: Terms of service
-    href: /terms/
-  - text: Privacy policy
-    href: /privacy/
-
-
-    external: true
-
 forms:
   - text: File an appeal
     href: /appeal/
@@ -69,22 +62,37 @@ explore:
   - text: About us
     href: /about/
     external: true
+  - text: Help portal
+    href: /help/
+    external: true
   - text: Staff members
     href: /staff/
     external: true
   - text: Server creativity
     href: /creativity/
     external: true
-  - text: Frequently asked
-    href: /faq/
+
+extras:
+  - text: Downloadable files
+    href: /download/
+    external: true
+  - text: Play now
+    href: /play/
+    external: true
+  - text: Server blog
+    href: /blog/
+    external: true
+  - text: Server rules
+    href: /rules/
     external: true
 
+
 resources:
-  - text: Community info
-    href: /community/
-    external: true
-  - text: Contact form
+  - text: Contact support
     href: /contact/
+    external: true
+  - text: Documentation
+    href: /docs/
     external: true
   - text: Dynamic map
     href: http://map.novelmc.net/

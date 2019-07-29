@@ -37,8 +37,8 @@ Our documentation pages are our actively-maintained instructions for our server,
     </div>
   </div>
 
-<a class="usa-button usa-button" href="../info/docs">View docs</a>
-<a class="usa-button usa-button-secondary" href="../info/download">Download</a>
+<a class="usa-button usa-button" href="../docs">View docs</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>
 
 <hr style="margin-top: 4.5rem;">
 
@@ -64,4 +64,4 @@ Our legal policies help users understand applicable laws and regulations for our
 
 <a class="usa-button usa-button" href="../terms">View terms</a>
 <a class="usa-button usa-button" href="../privacy">View privacy</a>
-<a class="usa-button usa-button-secondary" href="../info/download">Download</a>
+<a class="usa-button usa-button-secondary" href="../download">Download</a>

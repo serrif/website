@@ -1,6 +1,6 @@
 ---
 title: Server blog
-permalink: /info/blog/
+permalink: /blog/
 
 layout: info
 ---
