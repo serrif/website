@@ -19,7 +19,7 @@
       {{ post.lead | default: post.excerpt }}
     </p>
 
-    <a class="usa-button usa-button-secondary" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
+    <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
   {% else %}
     {{ post.content }}
     <a class="usa-button usa-button" href="https://novelmc.net/info/blog">Blog home</a>
