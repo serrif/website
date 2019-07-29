@@ -21,6 +21,7 @@ The biggest change for support is the introduction of the [help center](https://
 
 We're also updating the URLs of pages within various centers to help members understand where information is. All pages that are within the [help center](https://novelmc.net/help) have a /help/ permalink before the page. The same is true for the [information center](https://novelmc.net/info), just with a /info/ permalink.
 
+#### Everything else
 A lot of our content is being updated to focus on its flow, and to use more simplistic language, too.
 
 Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/team).

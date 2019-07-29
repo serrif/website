@@ -12,8 +12,8 @@ hero:
   content: We're a group of experienced and aspiring designers; developers, and engineers banding together to create an experience everyone can enjoy.
 ---
 
-## Getting creative wheels are spinning
-"Deliver a better; more modern, resourceful, and secure server experience for everyone." How we work, collaborate, and go about making changes is founded in our mission statement.
+## Getting creative wheels spinning
+How we work, collaborate, provide support, and go about making changes is founded in our mission statement.
 {: .usa-font-lead }
 
 We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.

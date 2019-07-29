@@ -71,7 +71,7 @@ Besides the chat, we offer other features to take advantage of messaging, with a
  * `/mail` - Serves as an in-game mailbox. Messages can be sent to other members.
 
 #### Mail usage
-The `/mail` function can be used to send, receive, and manage messages. All messages sent must follow [our guidelines](../docs/policy) or they'll be removed.
+The `/mail` function can be used to send, receive, and manage messages. All messages sent must follow [our guidelines](../info/docs/policy) or they'll be removed.
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
@@ -117,7 +117,7 @@ Social media is used for brief updates to our members. We have a <a class="usa-e
 Our <a class="usa-external_link" href="../github/">GitHub</a> organization is used for development for all of our projects, including this website.
 
 ### Server blog
-The [server blog](../blog/) is used for more specific updates of everything that's going on behind the scenes. We save new blog posts for information that's really important, though, so you won't be doing too much reading.
+The [server blog](../info/blog/) is used for more specific updates of everything that's going on behind the scenes. We save new blog posts for information that's really important, though, so you won't be doing too much reading.
 
 ## Discord
 Our online <a class="usa-external_link" href="https://discordapp.com">Discord</a> server is an easy-to-use branch of our community where anyone can talk in real time. This service is great for sharing content, and for quick support. Anyone can [join](/discord/).
@@ -147,11 +147,11 @@ We use Discord's role system to designate and separate members on the server; me
 
 <div class="usa-alert usa-alert-info" >
   <div class="usa-alert-body">
-    <p class="usa-alert-text">There are only our server's titles. Our ranks are listed on our <a href="../docs/authority">authority documentation</a>.</p>
+    <p class="usa-alert-text">There are only our server's titles. Our ranks are listed on our <a href="../info/docs/authority">authority documentation</a>.</p>
   </div>
 </div>
 
- * **Bots** - Given to all [robots](../docs/#applications).
+ * **Bots** - Given to all [robots](../info/docs/#applications).
  * **Architects** - Awarded to exemplary builders on the server.
  * **Verified** - Given to active, and well-known server members.
 
