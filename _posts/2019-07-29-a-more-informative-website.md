@@ -26,4 +26,4 @@ A lot of our content is being updated to focus on its flow, and to use more simp
 
 Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/team).
 
-Any further changes to the site is updated on our Discord server. Take a look over at the [#support](https://novelmc.net/info/docs/#channels) channel if you haven't already.
+Any further changes to the site is updated on our Discord server. Take a look over at the [`#support`](https://novelmc.net/info/docs/#channels) channel if you haven't already.

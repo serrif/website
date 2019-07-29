@@ -2,8 +2,19 @@
 <article id="{{ post.id | default: post.title | slugify }}"{% if include.excerpt %} class="post-excerpt padding-top-2 border-top-2px margin-top-4 measure-6"{% endif %}>
   <header>
     <div class="usa-grid-full">
-        <h3>{{ post.title }}</h3>
-        <p>{% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %} {% if post.author %} By <a href="../team/#{{ post.rank-url }}">{{ post.author }}</a> on{% endif %} <time datetime="{{ post.date | date: '%FT%T' }}"> {{ post.date | date: '%B %-d, %Y' }}. </time></p>
+      <h2>
+        {{ post.title }}
+      </h2>
+
+      {% if post.author %}
+      <span>By <a href="https://novelmc.net/team/#{{ post.rank-url }}">{{ post.author }}</a> on</span>
+      {% endif %}
+      <time datetime="{{ post.date | date: '%FT%T' }}">
+        {{ post.date | date: '%B %-d, %Y' }}
+      </time>
+      <p>
+        {% if include.excerpt == true %} {{ post.lead | default: post.excerpt }} {% else %} {{ post.content }} {% endif %}
+      </p>
         <a class="usa-button usa-button" href="{{ site.baseurl }}{{ post.url }}">Continue reading</a>
     </div>
   </header>
