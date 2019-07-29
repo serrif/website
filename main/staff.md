@@ -99,12 +99,12 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
 </div>
 
 <div class="usa-grid-full">
-        <div class="usa-width-one-half">
+        <div class="usa-width">
               <center>
               <img src="https://crafatar.com/renders/head/c3bca952cff34ea58ff589b273b4fbfc?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
               <h3 style="line-height: 5rem; border-bottom: 3px #E67D21 solid;">Video</h3>
               </center>
-              <p style="margin-bottom: 1rem; max-width: 65rem;">The Bee Movie script can be very destructive. Telesphoreo learned that the hard way. --@Video#9801</p>
+              <p style="margin-bottom: 1rem; max-width: 130rem;">The Bee Movie script can be very destructive. Telesphoreo learned that the hard way. --@Video#9801</p>
           </div>
 </div>
 
@@ -114,11 +114,11 @@ Senior Mods are given the same permissions as Mods. They are responsible for iss
 Mods are the basic staff members on the server. They have basic moderation permissions, such as `/ban` and `/mute` with limited punishment lengths. They also have additional non-moderation privileges such as `/tpo`.
 
 <div class="usa-grid-full">
-        <div class="usa-width-one-half">
+        <div class="usa-width">
               <center>
               <img src="https://crafatar.com/renders/head/606e2ff0ed7748429d6ce1d3321c7838?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 2rem; margin-bottom: -4rem;">
-              <h3 style="line-height: 5rem; border-bottom: 3px #2BCA70 solid;">You?</h3>
+              <h3 style="line-height: 5rem; border-bottom: 3px #2BCA70 solid;">hmm...</h3>
               </center>
-              <p style="margin-bottom: 1rem; max-width: 65rem;">Come join us!</p>
+              <p style="margin-bottom: 1rem; max-width: 130rem;">We don't have any Mods at the moment. Come join us!</p>
           </div>
 </div>
