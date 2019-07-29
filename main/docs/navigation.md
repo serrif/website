@@ -2,6 +2,6 @@
 title: Navigation
 permalink: /docs/navigation
 
-layout: file
+layout: info
 sidenav: docs
 ---

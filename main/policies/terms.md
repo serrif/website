@@ -2,7 +2,7 @@
 title: Terms of service
 permalink: /terms/
 
-layout: file
+layout: info
 sidenav: policies
 ---
 

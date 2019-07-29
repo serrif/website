@@ -13,7 +13,7 @@ hero:
 ---
 
 ## Creative wheels are spinning
-Our goal in everything we do is founded in our mission statement- we want to deliver a better; more modern, resourceful, and secure server experience for everyone.
+How we work and collaborate is enshrined in our mission statement, "Deliver a better; more modern, resourceful, and secure server experience for everyone."
 {: .usa-font-lead }
 
 We've set out to create a modern, supportive, and secure environment for everyone's creative side. No matter your qualifications, everyone can jump right in and become an active member of the community.
@@ -22,8 +22,8 @@ We've set out to create a modern, supportive, and secure environment for everyon
 
 <hr style="margin-top: 4.5rem;">
 
-## What we're up to
-Catch up with the latest of what's going on around here, and keep tabs on how to remain involved. Keep yourself updated, learn how we're striving to be better as a server and as a creative group.
+## What's the latest?
+Understand how we're moving to be better as a server and as a creative group by keeping yourself updated, and by keeping tabs on how to remain involved.
 {: .usa-font-lead }
 
 <a class="usa-button usa-button" href="../blog">Read the blog</a>
@@ -41,7 +41,7 @@ It's more than a server; we're a group of experienced and aspiring designers; de
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Share with our members</h3>
-		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can freely discuss about anything that happens on (and off) the server.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">We have a public-invite server on Discord where our members of our in-game server can discuss about anything that happens on (and off) the server.</p>
 		<a class="usa-button usa-button" href="../discord">Enroll</a>
     <a class="usa-button usa-button-secondary" href="../docs/#discord">Learn more</a>
         </div>
@@ -53,9 +53,8 @@ It's more than a server; we're a group of experienced and aspiring designers; de
 	</div>
 	<div class="usa-width-five-sixths footer-content">
 		<h3>Contribute to the code</h3>
-		<p style="margin-bottom: 1rem; max-width: 65rem;">Our GitHub organization includes open-source code; which hosts our projects, powering our server, and other portions of the service. Anyone can fork and contribute.</p>
+		<p style="margin-bottom: 1rem; max-width: 65rem;">Our GitHub organization includes open-source code; which hosts our projects that power our server, and other services we provide. Anyone can fork and contribute.</p>
 		<a class="usa-button usa-button" href="../github">Watch</a>
-    <a class="usa-button usa-button-secondary" href="../library/developer">Learn more</a>
         </div>
 </div>
 

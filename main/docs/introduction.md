@@ -2,7 +2,7 @@
 title: Introduction
 permalink: /docs/
 
-layout: file
+layout: info
 sidenav: docs
 subnav:
   - text: "In-game server"
@@ -99,7 +99,7 @@ Members can also manage settings of their character; such as gamemode, and healt
 Our website provides important information as the center of our community's operation; housing our explore pages, resources, and information. Learning how we structure different sections of our site is helpful for knowing how to get around.
 
 ### Homepage
-Our homepage is the forefront to `novelmc.net` —with its features builds, and blue waves. Other pages branching from our homepage (such as our team page) can provide material. These and similar files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
+Our homepage is the forefront to `novelmc.net` —with its features builds, and the 🌊. Other pages apart from our homepage (such as our team page) can provide material. These and similar files are powered by <a class="usa-external_link" href="https://pages.github.com/">GitHub Pages</a> and the <a class="usa-external_link" href="https://designsystem.digital.gov/">U.S. Web Design System</a>.
 
 We provide instructions, policy, and guides on our documentation; so everyone can learn how things work. You're even reading a docs page right now, and you can jump to pages with the left-hand navigation table.
 

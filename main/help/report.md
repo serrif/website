@@ -2,7 +2,7 @@
 title: File a report
 permalink: /report/
 
-layout: file
+layout: help
 sidenav: forms
 ---
 

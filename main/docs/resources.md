@@ -2,6 +2,6 @@
 title: Resources
 permalink: /docs/resources
 
-layout: file
+layout: info
 sidenav: docs
 ---

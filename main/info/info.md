@@ -1,6 +1,6 @@
 ---
 title: Information center
-permalink: /center/
+permalink: /portal/info/
 
 layout: home
 

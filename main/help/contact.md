@@ -2,7 +2,7 @@
 title: Contact us
 permalink: /contact/
 
-layout: file
+layout: help
 sidenav: forms
 ---
 

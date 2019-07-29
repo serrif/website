@@ -2,7 +2,7 @@
 title: Downloadable files
 permalink: /download/
 
-layout: file
+layout: info
 ---
 
 ## Extend our files

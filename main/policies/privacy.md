@@ -2,7 +2,7 @@
 title: Privacy policy
 permalink: /privacy/
 
-layout: file
+layout: info
 sidenav: policies
 ---
 

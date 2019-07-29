@@ -2,6 +2,6 @@
 title: Security
 permalink: /docs/security
 
-layout: file
+layout: info
 sidenav: docs
 ---

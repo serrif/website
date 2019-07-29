@@ -2,7 +2,7 @@
 title: File an appeal
 permalink: /appeal/
 
-layout: file
+layout: help
 sidenav: forms
 ---
 

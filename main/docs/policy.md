@@ -2,7 +2,7 @@
 title: Policy
 permalink: /docs/policy
 
-layout: file
+layout: info
 sidenav: docs
 subnav:
   - text: "Guidelines"

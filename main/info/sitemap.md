@@ -2,7 +2,7 @@
 title: Site map
 permalink: /sitemap/
 
-layout: file
+layout: info
 ---
 
 ## Explore
