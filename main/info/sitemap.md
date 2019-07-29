@@ -7,17 +7,20 @@ layout: info
 
 ## Explore
 * [About us](../about)
-* [Frequently asked](../faq)
-* [Our team](../team)
+* [Help portal](../help)
+* [Staff members](../staff)
 * [Server creativity](../creativity)
 
+## Extras
+* [Documentation](../docs)
+* [Play now](../play)
+* [Server blog](../blog)
+* [Server rules](../Rules)
+
 ## Information center
-* [File an appeal](../appeal)
 * [Blog](../blog)
 * [Community](../community)
-* [Contact us](../contact)
 * [Download](../download)
-* [File a report](../report)
 * [Information center](../center)
 
 ### Documentation
@@ -29,6 +32,11 @@ layout: info
 * [Resources](../docs/resources)
 * [Security](../docs/security)
 * [Support](../docs/support)
+
+### Forms
+* [Contact support](../contact)
+* [File a report](../report)
+* [File an appeal](../appeal)
 
 ### Legal policies
 * [Privacy policy](../privacy)

@@ -48,12 +48,12 @@ docs:
     external: true
 
 forms:
-  - text: File an appeal
-    href: /appeal/
-  - text: Contact us
+  - text: Contact support
     href: /contact/
   - text: File a report
     href: /report/
+  - text: File an appeal
+    href: /appeal/
 
 
     external: true
