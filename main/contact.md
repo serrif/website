@@ -1,8 +1,9 @@
 ---
-title: Get in touch
+title: Contact us
 permalink: /contact/
 
 layout: file
+sidenav: forms
 ---
 
 ## Contact us
