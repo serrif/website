@@ -73,8 +73,8 @@ explore:
     external: true
 
 extras:
-  - text: Downloadable files
-    href: /download/
+  - text: Documentation
+    href: /docs/
     external: true
   - text: Play now
     href: /play/
@@ -91,8 +91,8 @@ resources:
   - text: Contact support
     href: /contact/
     external: true
-  - text: Documentation
-    href: /docs/
+  - text: Download resources
+    href: /download/
     external: true
   - text: Dynamic map
     href: http://map.novelmc.net/
