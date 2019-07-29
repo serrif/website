@@ -1,11 +1,11 @@
 ---
-title: Downloadable files
+title: Download resources
 permalink: /download/
 
 layout: info
 ---
 
-## Extend our files
+## Download resources
 Make use of custom server plugins for yourself with their extendibility, view and edit our documentation and legal policies offline, learn how we present our server identity using logo branding, and view the source of our website. All of our logos, source code, and documents are free to download.
 
 <hr style="margin-top: 3.5rem;">
