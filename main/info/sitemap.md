@@ -11,17 +11,11 @@ layout: info
 * [Staff members](../staff)
 * [Server creativity](../creativity)
 
-## Extras
-* [Documentation](../docs)
-* [Play now](../play)
-* [Server blog](../blog)
-* [Server rules](../Rules)
-
 ## Information center
 * [Blog](../blog)
-* [Community](../community)
 * [Download](../download)
 * [Information center](../center)
+* [Site map](../sitemap)
 
 ### Documentation
 * [Authority](../docs/authority)
@@ -32,6 +26,12 @@ layout: info
 * [Resources](../docs/resources)
 * [Security](../docs/security)
 * [Support](../docs/support)
+
+### Extras
+* [Documentation](../docs)
+* [Play now](../play)
+* [Server blog](../blog)
+* [Server rules](../Rules)
 
 ### Forms
 * [Contact support](../contact)
