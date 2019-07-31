@@ -151,8 +151,8 @@ We use Discord's role system to designate and separate members on the server; me
   </div>
 </div>
 
- * **Bots** - Given to all [robots](../docs/#applications).
  * **Architects** - Awarded to exemplary builders on the server.
+ * **Bots** - Given to all [robots](../docs/#applications).
  * **Verified** - Given to active, and well-known server members.
 
 The following titles are given to staff members only.

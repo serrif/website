@@ -2,7 +2,7 @@
 title: Privacy policy
 permalink: /privacy/
 
-layout: info
+layout: page
 ---
 
 ## Privacy policy

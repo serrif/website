@@ -19,9 +19,7 @@ Having separate pages for frequently asked questions, or separating useful suppo
 ### What's changing?
 The biggest change for support is the introduction of the [help portal](https://novelmc.net/help). Everything is in one place, for any question you could have.
 
-Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/team).
+Some other changes are also ones that are only for appearances, though. Some examples include our site footer, with the addition of a new column and color scheme, or how staff members display on the [team page](https://novelmc.net/staff).
 
 #### Everything else
-A lot of our content is being updated to focus on its flow, and to use more simplistic language, too.
-
-Any further changes to the site is updated on our Discord server. Take a look over at the [`#support`](https://novelmc.net/docs/#channels) channel if you haven't already.
+A lot of our content is being updated to focus on its flow, and to use more simplistic language, too. Any (and all) remaining changes to the site is updated on our Discord server. Take a look over at the [`#support`](https://novelmc.net/docs/#channels) channel if you haven't already.

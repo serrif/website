@@ -2,7 +2,7 @@
 title: Terms of service
 permalink: /terms/
 
-layout: info
+layout: page
 ---
 
 ## Terms of service
