@@ -19,14 +19,14 @@ Our group of builders who have shown exemplary architectural, and mechanical abi
 <div class="usa-grid-full">
         <div class="usa-width-one-half">
               <center>
-              <img src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 1.5rem; margin-bottom: -3rem;">
+              <img src="https://crafatar.com/renders/head/6ea8bbd124964389a12fa3e1fc74372c?scale=10&overlay" alt="" style="max-width: 80px; margin-top: 1.5rem; margin-bottom: -2.5rem;">
               <h3>almanacks</h3>
               <hr style="margin-top: 1.5rem; width: 5rem; border-top: 3px solid #aeb0b5; background: #fff; color: #fff">
               <p style="margin-bottom: 1rem; max-width: 65rem;">You probably remember me from the staff page, right? Nice to see you again. --@almanacks#0484</p></center>
           </div>
         <div class="usa-width-one-half">
               <center>
-              <img src="https://crafatar.com/renders/head/3bb91abef98c4970ac822cd8c8f25ff5?scale=10&overlay" alt=""  style="max-width: 80px; margin-top: 1.5rem; margin-bottom: -3rem;">
+              <img src="https://crafatar.com/renders/head/3bb91abef98c4970ac822cd8c8f25ff5?scale=10&overlay" alt=""  style="max-width: 80px; margin-top: 1.5rem; margin-bottom: -2.5rem;">
               <h3>JodadGaming</h3>
               <hr style="margin-top: 1.5rem; width: 5rem; border-top: 3px solid #aeb0b5; background: #fff; color: #fff">
               <p style="margin-bottom: 1rem; max-width: 65rem;">Hi, I'm JodadGaming. --@Isn't John?#7183</p></center>

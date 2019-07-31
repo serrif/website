@@ -38,7 +38,7 @@ layout: info
 * [File a report](../report)
 * [File an appeal](../appeal)
 
-### Legal policies
+## Legal policies
 * [Privacy policy](../privacy)
 * [Terms of service](../terms)
 
