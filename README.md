@@ -5,3 +5,6 @@ Server website that provides fundamental particulars, information and resources.
 
 ## Copyright
 This project is licensed under CC0 1.0 Universal.
+
+## Notice
+This website has been forked from NovelMC's use as their server website.
